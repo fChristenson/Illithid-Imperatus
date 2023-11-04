@@ -31,6 +31,11 @@ Items are found in the tutorial chest.
 - Dimensional Door
 - Blink
 - Arcane Gate
+- Mage hand
+- Guidance
+- True strike
+- Sanctuary
+- See Invisibility
 - Ulitharid Domination (Dominate person without concentration and no character type limitation)
 - Ulitharid Beast Domination (Dominate beast without concentration)
 - Summon Mind Flayer
