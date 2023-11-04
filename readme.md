@@ -11,7 +11,7 @@ BG3 mod for transforming to a [Ulitharid](https://forgottenrealms.fandom.com/wik
 Items are found in the tutorial chest.
 
 - Ring of the Ulitharid
-  - Ulitharid Ceremorphosis (Turn in to endgame Mind Flayer)
+  - Ulitharid Ceremorphosis (Turn in to endgame Mind Flayer, permanently)
 - Staff of Ilsensine
   - Greater Teleportation (100m)
   - Thoughts of Ilsensine (Mind Blast AoE)
@@ -31,7 +31,7 @@ Items are found in the tutorial chest.
 - Dimensional Door
 - Blink
 - Arcane Gate
-- Ulitharid Domination (Dominate person without concentration)
+- Ulitharid Domination (Dominate person without concentration and no character type limitation)
 - Ulitharid Beast Domination (Dominate beast without concentration)
 - Summon Mind Flayer
 
