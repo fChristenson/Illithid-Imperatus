@@ -1,0 +1,8 @@
+new entry "FlayerPowers"
+type "PassiveData"
+data "DisplayName" "h83d9ebdfg604ag4c41g8c9bg1281c9886ac1;1"
+data "Description" "h5bccea30g1642g4c11g9b4ega23d578dcd31;1"
+data "Icon" "Spell_Divination_Guidance"
+data "Properties" "IsToggled;ToggledDefaultAddToHotbar"
+data "OnApplyFunctors" "ApplyStatus(MF_MIND_SANCTUARY,100,-1)"
+data "Boosts" "UnlockSpell(Target_MF_ConcentratedBlast);UnlockSpell(Target_MF_MindSanctuary);UnlockSpell(Rush_MF_ForceTunnel);UnlockSpell(Target_MF_ShieldOfThralls);UnlockSpell(Target_MF_BlackHole);UnlockSpell(Target_MF_AbsorbIntellect);UnlockSpell(Target_MF_PerilousStakes);UnlockSpell(Target_MF_Imperil);UnlockSpell(Shout_TAD_DisplacerBeast);UnlockSpell(Target_StageFright);UnlockSpell(Target_TAD_TransfuseHealth);UnlockSpell(Shout_MF_PsionicOverload)"
