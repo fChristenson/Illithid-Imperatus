@@ -38,7 +38,11 @@ Items are found in the tutorial chest.
 - See Invisibility
 - Ulitharid Domination (Dominate person without concentration and no character type limitation)
 - Ulitharid Beast Domination (Dominate beast without concentration)
-- Summon Mind Flayer
+- Summon Thrall
+  - Summon Cranium Rat
+  - Summon Mind Flayer
+  - Summon Owlbear
+  - Summon Spectator
 
 ### Passives
 
