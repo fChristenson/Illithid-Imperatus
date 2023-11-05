@@ -41,8 +41,10 @@
   <content contentuid="he45a70f1g2536g40ccgbc00g4a660b97eb1a" version="1">Intellect Devourer</content>
   <content contentuid="h9c5e1249gbddag4d4eg9827g2bd918ef7c32" version="1">Summon Werewolf</content>
   <content contentuid="h7bb43b43g80f1g4718g889dg2cbe0c1ce621" version="1">Summons a Werewolf thrall.</content>
-  <content contentuid="h1029ab26gcd18g4d9bgaacegff164225a152" version="1">Summon Gnoll</content>
-  <content contentuid="h1324f844g1770g42efg82cegdc956328a701" version="1">Summons a Gnoll thrall.</content>
+  <content contentuid="h1029ab26gcd18g4d9bgaacegff164225a152" version="1">Summon Gnoll Figher</content>
+  <content contentuid="h1324f844g1770g42efg82cegdc956328a701" version="1">Summons a Gnoll Figher thrall.</content>
+  <content contentuid="h82ebfeadg0328g4390gbb3bg58f5757150b8" version="1">Summon Gnoll Archer</content>
+  <content contentuid="hfe13d907g1debg49dega9dag0f4783d6845d" version="1">Summons a Gnoll Archer thrall.</content>
   <content contentuid="hc9a640b3gf197g45afgb2a9g1da58cdc560d" version="1">Summon Goblin Archer</content>
   <content contentuid="hf8d75706ga20cg46c4g803egba0dd0a23200" version="1">Summons a Goblin Archer thrall.</content>
   <content contentuid="h5c2d13c3gec56g472cg9cd5gf3d4855d3dbb" version="1">Summon Wolf</content>
