@@ -43,3 +43,4 @@ Items are found in the tutorial chest.
 ### Passives
 
 - Ulitharid Powers (Grants endgame Mind Flayer abilities)
+- Mind Flayer Darkvision (150m)
