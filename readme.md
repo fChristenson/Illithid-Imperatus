@@ -39,10 +39,23 @@ Items are found in the tutorial chest.
 - Ulitharid Domination (Dominate person without concentration and no character type limitation)
 - Ulitharid Beast Domination (Dominate beast without concentration)
 - Summon Thrall
+  - Summon Bugbear
   - Summon Cranium Rat
+  - Summon Duergar Ranger
+  - Summon Gnoll Fighter
+  - Summon Gnoll Ranger
+  - Summon Goblin Fighter
+  - Summon Goblin Ranger
+  - Summon Hobgoblin
+  - Summon Intellect Devourer
   - Summon Mind Flayer
+  - Summon Ogre
+  - Summon Ooze
   - Summon Owlbear
+  - Summon Phaze Spider
   - Summon Spectator
+  - Summon Werewolf
+  - Summon Wolf
 
 ### Passives
 
