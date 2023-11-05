@@ -53,7 +53,7 @@
 					<attribute id="LevelOverride" type="int32" value="2" />
 					<attribute id="LightID" type="FixedString" value="34de8767-489c-4446-bce2-8d57e29a075b" />
 					<attribute id="MapKey" type="FixedString" value="18ef0efe-5e5c-4c85-a9ef-e74d661e1fd3" />
-					<attribute id="Name" type="LSString" value="RAT_Cranium_A" />
+					<attribute id="Name" type="LSString" value="FRE_RAT_Cranium_A" />
 					<attribute id="ParentTemplateId" type="FixedString" value="e63714e5-e2fa-4da6-8982-97b4a0ace963" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="6ec3a5d7-38dc-5731-6147-e60966614be8" />
 					<attribute id="Race" type="guid" value="80d7f493-0adb-43e7-a4ad-59095b5d80df" />
@@ -501,7 +501,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="ac335986-5e0f-4bae-b60c-5a0209fb008f" />
 					<attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
-					<attribute id="Name" type="LSString" value="Owlbear_PlayerWildshape_White" />
+					<attribute id="Name" type="LSString" value="FRE_Owlbear_PlayerWildshape_White" />
 					<attribute id="ParentTemplateId" type="FixedString" value="6cd57ec0-7f04-452c-8fb9-31cae384b916" />
 					<attribute id="SpellSet" type="FixedString" value="CommonSummonActions" />
 					<attribute id="Stats" type="FixedString" value="Wildshape_Owlbear" />
@@ -712,7 +712,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LightID" type="FixedString" value="07ee474b-0a26-4187-aa2d-d96752ed4ece" />
 					<attribute id="MapKey" type="FixedString" value="010f049b-db73-4416-a438-a025243ea483" />
-					<attribute id="Name" type="LSString" value="BASE_Ogres" />
+					<attribute id="Name" type="LSString" value="FRE_BASE_Ogres" />
 					<attribute id="ParentTemplateId" type="FixedString" value="d4b4e732-b3c4-45ac-bc0c-3146bee19a60" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="64eba222-42c0-9464-d7a3-2ff5edb2cbaa" />
 					<attribute id="Race" type="guid" value="40af3916-df35-4e6e-aa8b-276cfc2c4f6f" />
@@ -957,7 +957,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LightChannel" type="uint8" value="0" />
 					<attribute id="MapKey" type="FixedString" value="0de27a79-93a0-45e4-bcbb-61ca57c0b0a8" />
-					<attribute id="Name" type="LSString" value="GUS_GOB_DrorRagzlin_ADJUSTEDBOUNDS" />
+					<attribute id="Name" type="LSString" value="FRE_GUS_GOB_DrorRagzlin_ADJUSTEDBOUNDS" />
 					<attribute id="ParentTemplateId" type="FixedString" value="70aca0ad-0a58-47bd-9f77-18e64cc3f6d1" />
 					<attribute id="Race" type="guid" value="54fb4eb9-2cb9-4925-a94f-c16d15e20999" />
 					<attribute id="Stats" type="FixedString" value="GOB_Hobgoblin_Boss" />
@@ -1220,7 +1220,7 @@
 					<attribute id="LadderLoopSpeed" type="float" value="3" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="5867c508-b211-4201-acff-583b3147c0f8" />
-					<attribute id="Name" type="LSString" value="GUS_GOB_Olak_ADJUSTEDBOUNDS" />
+					<attribute id="Name" type="LSString" value="FRE_GUS_GOB_Olak_ADJUSTEDBOUNDS" />
 					<attribute id="ParentTemplateId" type="FixedString" value="fb1af356-55c0-4b63-8418-353170bfeb75" />
 					<attribute id="Stats" type="FixedString" value="Goblin_Melee_Strong" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -1409,7 +1409,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="2" />
 					<attribute id="MapKey" type="FixedString" value="4a5782c8-ab82-4f02-8c62-cd2909567647" />
-					<attribute id="Name" type="LSString" value="Goblins_Male_Ranger_Tier2" />
+					<attribute id="Name" type="LSString" value="FRE_Goblins_Male_Ranger_Tier2" />
 					<attribute id="ParentTemplateId" type="FixedString" value="bdf828ab-4335-4626-b159-312b67397011" />
 					<attribute id="Stats" type="FixedString" value="Goblin_Ranger_Strong" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -1589,7 +1589,7 @@
 					<attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
 					<attribute id="LightID" type="FixedString" value="12fd041c-fef9-4c42-830b-7f1988f335cf" />
 					<attribute id="MapKey" type="FixedString" value="d8afe1ed-260f-4565-831b-25e2cb205c5b" />
-					<attribute id="Name" type="LSString" value="Intellect_Devourer_CIN" />
+					<attribute id="Name" type="LSString" value="FRE_Intellect_Devourer_CIN" />
 					<attribute id="ParentTemplateId" type="FixedString" value="f0ee45be-07a3-4961-8600-5720e6e59510" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="bb69aa72-0f0a-c375-04ff-0693064b861d" />
 					<attribute id="Stats" type="FixedString" value="IntellectDevourer" />
@@ -1641,7 +1641,7 @@
 									<attribute id="FootSlideEffectName" type="LSString" value="" />
 									<attribute id="FootSmearEffectName" type="LSString" value="" />
 									<attribute id="FootSoundEventName" type="FixedString" value="Movement_Footstep" />
-									<attribute id="Name" type="LSString" value="Footstep_L_Front" />
+									<attribute id="Name" type="LSString" value="FRE_Footstep_L_Front" />
 								</node>
 								<node id="FootStepInfo">
 									<attribute id="FootBoneName" type="FixedString" value="Toes_R_endBone" />
@@ -1651,7 +1651,7 @@
 									<attribute id="FootSlideEffectName" type="LSString" value="" />
 									<attribute id="FootSmearEffectName" type="LSString" value="" />
 									<attribute id="FootSoundEventName" type="FixedString" value="Movement_Footstep" />
-									<attribute id="Name" type="LSString" value="Footstep_R_Front" />
+									<attribute id="Name" type="LSString" value="FRE_Footstep_R_Front" />
 								</node>
 								<node id="FootStepInfo">
 									<attribute id="FootBoneName" type="FixedString" value="Finger2_L" />
@@ -1661,7 +1661,7 @@
 									<attribute id="FootSlideEffectName" type="LSString" value="" />
 									<attribute id="FootSmearEffectName" type="LSString" value="" />
 									<attribute id="FootSoundEventName" type="FixedString" value="Movement_Footstep" />
-									<attribute id="Name" type="LSString" value="Footstep_L_Back" />
+									<attribute id="Name" type="LSString" value="FRE_Footstep_L_Back" />
 								</node>
 								<node id="FootStepInfo">
 									<attribute id="FootBoneName" type="FixedString" value="Finger2_R" />
@@ -1671,7 +1671,7 @@
 									<attribute id="FootSlideEffectName" type="LSString" value="" />
 									<attribute id="FootSmearEffectName" type="LSString" value="" />
 									<attribute id="FootSoundEventName" type="FixedString" value="Movement_Footstep" />
-									<attribute id="Name" type="LSString" value="Footstep_R_back" />
+									<attribute id="Name" type="LSString" value="FRE_Footstep_R_back" />
 								</node>
 							</children>
 						</node>
@@ -1831,7 +1831,7 @@
 					<attribute id="LevelOverride" type="int32" value="11" />
 					<attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
 					<attribute id="MapKey" type="FixedString" value="4cad3d9b-3b5b-41dc-936b-02bb432f3dc9" />
-					<attribute id="Name" type="LSString" value="Werewolf" />
+					<attribute id="Name" type="LSString" value="FRE_Werewolf" />
 					<attribute id="ParentTemplateId" type="FixedString" value="e278d2ef-4ec2-4775-ac56-f2f8ebc6b168" />
 					<attribute id="ReadinessFlags" type="uint32" value="12" />
 					<attribute id="SpellSet" type="FixedString" value="Werewolf" />
@@ -1948,7 +1948,7 @@
 					<attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
 					<attribute id="LightID" type="FixedString" value="f27e5300-b93d-4487-8a1e-e942881fbfe1" />
 					<attribute id="MapKey" type="FixedString" value="05de539b-65b6-4b68-a82c-a11907a9d321" />
-					<attribute id="Name" type="LSString" value="Gnoll_A" />
+					<attribute id="Name" type="LSString" value="FRE_Gnoll_A" />
 					<attribute id="ParentTemplateId" type="FixedString" value="9955e7bc-fe8d-4545-923e-680e071347fb" />
 					<attribute id="ReadinessFlags" type="uint32" value="4" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -2145,7 +2145,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="2d86010e-ce15-48b4-aa00-aaf2987a8d14" />
 					<attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
-					<attribute id="Name" type="LSString" value="Gnoll_Ranger" />
+					<attribute id="Name" type="LSString" value="FRE_Gnoll_Ranger" />
 					<attribute id="ParentTemplateId" type="FixedString" value="9955e7bc-fe8d-4545-923e-680e071347fb" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665790466" />
@@ -2257,7 +2257,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LightID" type="FixedString" value="b5fafd8e-4b1f-4531-bd46-947f7fd947ba" />
 					<attribute id="MapKey" type="FixedString" value="e50ab797-303e-421e-b914-ade4d61940c9" />
-					<attribute id="Name" type="LSString" value="Wolf_NPC_Wildshape" />
+					<attribute id="Name" type="LSString" value="FRE_Wolf_NPC_Wildshape" />
 					<attribute id="ParentTemplateId" type="FixedString" value="c0397a46-1a13-4672-950a-f41956866e27" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="d68fa57e-01d9-d3f4-f321-72d33500b404" />
 					<attribute id="Stats" type="FixedString" value="Wolf_Wildshape" />
@@ -2419,7 +2419,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LightID" type="FixedString" value="b225eb05-e36a-4aa0-84f9-959057688711" />
 					<attribute id="MapKey" type="FixedString" value="cad794db-3735-408a-a758-888c19d494d7" />
-					<attribute id="Name" type="LSString" value="SPIDER_Phaser" />
+					<attribute id="Name" type="LSString" value="FRE_SPIDER_Phaser" />
 					<attribute id="ParentTemplateId" type="FixedString" value="ce26d169-69ac-4e69-8462-1330615e5650" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="063ce42c-96d2-ed02-e110-558035fe6865" />
 					<attribute id="Stats" type="FixedString" value="Spider_Phase" />
@@ -2645,7 +2645,7 @@
 					<attribute id="Icon" type="FixedString" value="1328bac4-118d-bcf2-2bf5-068b37efdc6f-_(Icon_Ooze)" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="6260efab-a93c-474f-b9ad-52b3fb9eaffc" />
-					<attribute id="Name" type="LSString" value="Ooze_Jelly_Ochre" />
+					<attribute id="Name" type="LSString" value="FRE_Ooze_Jelly_Ochre" />
 					<attribute id="ParentTemplateId" type="FixedString" value="6240f9ef-fc81-4301-8ea7-de4a0ad4e57e" />
 					<attribute id="Race" type="guid" value="889ca85e-9263-4086-aeab-352dd1eed3a0" />
 					<attribute id="SpellSet" type="FixedString" value="CommonBeastActions" />
@@ -2768,7 +2768,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LightChannel" type="uint8" value="0" />
 					<attribute id="MapKey" type="FixedString" value="9bed198d-1c97-4de5-8723-c99a17ca0270" />
-					<attribute id="Name" type="LSString" value="Dwarves_Male_Duergar_StoneGuard_Ranged" />
+					<attribute id="Name" type="LSString" value="FRE_Dwarves_Male_Duergar_StoneGuard_Ranged" />
 					<attribute id="ParentTemplateId" type="FixedString" value="296b0e66-ea50-4fe5-9c9d-7824994ee891" />
 					<attribute id="Stats" type="FixedString" value="Dwarf_Duergar_Ranger_StoneGuard" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -3056,7 +3056,7 @@
 					<attribute id="LightID" type="FixedString" value="362270fc-bf6b-4603-bb8a-6deebbcca47b" />
 					<attribute id="MapKey" type="FixedString" value="82fde10e-8767-4f45-a964-2642d9a65c38" />
 					<attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
-					<attribute id="Name" type="LSString" value="BASE_Bugbears" />
+					<attribute id="Name" type="LSString" value="FRE_BASE_Bugbears" />
 					<attribute id="ParentTemplateId" type="FixedString" value="4538a3e9-9b44-4b85-bf38-ede763e868b2" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="a644d1d6-4098-fc0a-c26b-b016d7457ebd" />
 					<attribute id="Race" type="guid" value="241b8b4d-763f-48e6-b1f8-a261ec0ef36b" />
@@ -3241,6 +3241,243 @@
 							<children>
 								<node id="TreasureItem">
 									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Archetype" type="FixedString" value="dragon" />
+					<attribute id="BloodType" type="FixedString" value="Red" />
+					<attribute id="CanBeTeleported" type="bool" value="False" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="CanConsumeItems" type="bool" value="False" />
+					<attribute id="CanOpenDoors" type="bool" value="False" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="baa20049-2ec2-07a7-b4d6-02a38b25d6ac" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h6402401fg74c6g42c4gb72bge4cdd0f979b5" version="1" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="IsBoss" type="bool" value="False" />
+					<attribute id="IsLootable" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="17" />
+					<attribute id="Stats" type="FixedString" value="FRE_Dragon_Red" />
+					<attribute id="MapKey" type="FixedString" value="39b34c78-c9f7-4035-82e2-f70c81058a83" />
+					<attribute id="Name" type="LSString" value="FRE_Dragon_Red" />
+					<attribute id="ParentTemplateId" type="FixedString" value="08da5063-a761-475a-b66e-1356d7fcab40" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="VisualTemplate" type="FixedString" value="ef79e13a-c6fa-0e35-2ae1-66eb5bc126a2" />
+					<attribute id="VocalAngryResourceID" type="FixedString" value="a5dbd87c-f3da-459a-a221-d16662ece35b" />
+					<attribute id="VocalAnticipationResourceID" type="FixedString" value="95b2bb87-9bf0-4064-a46b-6cb03a8421ca" />
+					<attribute id="VocalAttackResourceID" type="FixedString" value="b2abdeed-6be4-4a75-aad4-21e0983e5ac6" />
+					<attribute id="VocalAwakeResourceID" type="FixedString" value="718ec8ba-4170-4d26-bdc5-afc5936db248" />
+					<attribute id="VocalDeathResourceID" type="FixedString" value="9d265bdf-56be-4d6c-b024-b6201d155dff" />
+					<attribute id="VocalEffortsResourceID" type="FixedString" value="6c7ba788-37d4-4678-9270-748fcf99e148" />
+					<attribute id="VocalExhaustedResourceID" type="FixedString" value="fa4b5ab8-cf3b-49e5-b041-d0623e146f42" />
+					<attribute id="VocalIdle1ResourceID" type="FixedString" value="ae3ec0bd-9763-473d-b151-409a24a9e4eb" />
+					<attribute id="VocalIdleCombat1ResourceID" type="FixedString" value="396bb240-8913-4367-b08f-3e5e7bb2480b" />
+					<attribute id="VocalPainResourceID" type="FixedString" value="bc698bfd-0de4-43ec-be71-099264cef259" />
+					<attribute id="VocalRecoverResourceID" type="FixedString" value="3004fa8b-1f91-4c37-9208-a731a5e2c81e" />
+					<attribute id="VocalShoutResourceID" type="FixedString" value="95dfd869-8cfb-4843-95fe-60227c93d47c" />
+					<attribute id="VocalSnoreResourceID" type="FixedString" value="55ef4e2f-b7e9-4440-985b-fa6ae8df7e3b" />
+					<attribute id="VocalWeakResourceID" type="FixedString" value="6c0f5f5b-30f8-4fae-9939-be5895d83c38" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403208908" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="5.725302" />
+									<attribute id="Max" type="fvec3" value="17.09584 5.662447 14.59563" />
+									<attribute id="Min" type="fvec3" value="-17.09584 -0.06285477 -7.79011" />
+									<attribute id="Radius" type="float" value="4.0214" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="5.725302" />
+									<attribute id="Max" type="fvec3" value="17.09584 5.662447 14.59563" />
+									<attribute id="Min" type="fvec3" value="-17.09584 -0.06285477 -7.79011" />
+									<attribute id="Radius" type="float" value="1.7" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="5.725302" />
+									<attribute id="Max" type="fvec3" value="17.09584 5.662447 14.59563" />
+									<attribute id="Min" type="fvec3" value="-17.09584 -0.06285477 -7.79011" />
+									<attribute id="Radius" type="float" value="1.7" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams">
+							<attribute id="IsMovementEnabled" type="bool" value="True" />
+							<attribute id="IsWorldClimbingEnabled" type="bool" value="False" />
+						</node>
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Target_Slam_Dragon_Skeletal" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Target_Multiattack_Dragon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Target_Fly_Dragon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Shout_FrightfulPresence_Dragon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Projectile_Fireball_Dragon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
 								</node>
 							</children>
 						</node>
