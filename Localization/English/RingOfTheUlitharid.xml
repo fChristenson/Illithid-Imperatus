@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList date="17/07/2023 12:47">
-  <content contentuid="h83d9ebdfg604ag4c41g8c9bg1281c9886ac1" version="1">Ulitharid Powers</content> 
+  <content contentuid="h83d9ebdfg604ag4c41g8c9bg1281c9886ac1" version="1">Ulitharid Powers</content>
   <content contentuid="h5bccea30g1642g4c11g9b4ega23d578dcd31" version="1">Toggles the power of the Ulitharid.</content>
-  <content contentuid="h4d4ba1e0g4adbg48a5gb45bge7b4dad27bb1" version="1">Ulitharid Ceremorphosis</content> 
-  <content contentuid="h0bba2202g8549g4c76g8b2ag6e2815aa3669" version="1">Become an Ulitharid.</content> 
-  <content contentuid="h67881bb7ge7a0g4a31g9765g18f797868292" version="1">A ring with the power to trigger Ceremorphosis.</content> 
+  <content contentuid="h4d4ba1e0g4adbg48a5gb45bge7b4dad27bb1" version="1">Ulitharid Ceremorphosis</content>
+  <content contentuid="h0bba2202g8549g4c76g8b2ag6e2815aa3669" version="1">Become an Ulitharid.</content>
+  <content contentuid="h67881bb7ge7a0g4a31g9765g18f797868292" version="1">A ring with the power to trigger Ceremorphosis.</content>
   <content contentuid="h017cdc53g16f7g4f82g821dg88b0ca72e06e" version="1">Ring of the Ulitharid</content>
   <content contentuid="h033ef54fg5ed8g417fg90bdg9faebb80191d" version="1">Ulitharid Domination</content>
   <content contentuid="h7fc8119eg02b3g4e3ag8871g527146868295" version="1">Dominate any sentient lifeform.</content>
@@ -21,5 +21,11 @@
   <content contentuid="h000ed37dg3bf2g4a37g89cfg2d233d9a69cc" version="1">Mind Flayer Darkvision</content>
   <content contentuid="h24209013gfb67g41f7gac99g8a0dcd0738f4" version="1">Summon Cranium Rat</content>
   <content contentuid="hf5eecb4fgba04g4977ga144g604ef845b9b2" version="1">Summons a Cranium Rat thrall.</content>
+  <content contentuid="hf94294f8g773bg4f2cg8496g831a64e75089" version="1">Summon Thrall</content>
+  <content contentuid="h6ad950a5gf9adg4aadg947cg882f66506147" version="1">Summon a thrall to follow you on your journey.</content>
+  <content contentuid="h2c989c1eg9aaag4448gb8a7gc5a29a05dee4" version="1">Summon Spectator</content>
+  <content contentuid="hc6ed6e82g17b2g46a9g85aeg16b482f6dc20" version="1">Summons a Spectator thrall.</content>
+  <content contentuid="hb1a8be1agd6a6g46a8g9309ge168c8f66087" version="1">Summon Owlbear</content>
+  <content contentuid="hacfaf5ccgf418g43f0ga636g21fe0e4f9c0e" version="1">Summons an Owlbear thrall.</content>
 </contentList>
 
