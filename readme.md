@@ -53,6 +53,7 @@ Items are found in the tutorial chest.
   - Summon Ooze
   - Summon Owlbear
   - Summon Phaze Spider
+  - Summon Red Dragon
   - Summon Spectator
   - Summon Werewolf
   - Summon Wolf
