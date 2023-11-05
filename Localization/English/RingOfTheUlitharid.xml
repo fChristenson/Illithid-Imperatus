@@ -27,5 +27,11 @@
   <content contentuid="hc6ed6e82g17b2g46a9g85aeg16b482f6dc20" version="1">Summons a Spectator thrall.</content>
   <content contentuid="hb1a8be1agd6a6g46a8g9309ge168c8f66087" version="1">Summon Owlbear</content>
   <content contentuid="hacfaf5ccgf418g43f0ga636g21fe0e4f9c0e" version="1">Summons an Owlbear thrall.</content>
+  <content contentuid="hf8291b31g9e3bg468ag8390g84502f340d85" version="1">Summon Ogre</content>
+  <content contentuid="hb87a6b13gc4e5g48aag8de5ga1c9d7e3c213" version="1">Summons an Ogre thrall.</content>
+  <content contentuid="h0b800a12gb68fg45c1gadc1g2537bffff489" version="1">Summon Hobgoblin</content>
+  <content contentuid="h95d54fd3g3205g4db2gb111g7be65b0b665d" version="1">Summons a Hobgoblin thrall.</content>
+  <content contentuid="h8ce2cd65g4edbg41ffgb63agbec61793c9af" version="1">Hobgoblin</content>
+  <content contentuid="h30db184agc977g4c25g850egc297cd9a1380" version="1">Thrall</content>
 </contentList>
 
