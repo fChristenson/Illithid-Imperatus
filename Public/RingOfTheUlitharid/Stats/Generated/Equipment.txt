@@ -1,0 +1,14 @@
+new equipment "FRE_EQP_Drow_Ranger"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "WPN_Longbow_2"
+add equipmentgroup
+add equipment entry "WPN_Shortsword"
+add equipmentgroup
+add equipment entry "WPN_Dagger"
+add equipmentgroup
+add equipment entry "GOB_DrowCommander_Leather_Armor"
+add equipmentgroup
+add equipment entry "GOB_DrowCommander_Leather_Gloves"
+add equipmentgroup
+add equipment entry "GOB_DrowCommander_Leather_Boots"

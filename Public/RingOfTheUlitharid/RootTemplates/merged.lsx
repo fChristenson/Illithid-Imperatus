@@ -1213,7 +1213,7 @@
 					<attribute id="CombatName" type="LSString" value="S_GOB_Checkpoint_Goblin_Melee_01" />
 					<attribute id="DeathRaycastMaxLength" type="float" value="1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h2ae6d8ebg5649g4c7bgbcf5g843e5f2282ff" version="1" />
-					<attribute id="Equipment" type="FixedString" value="EQP_Goblin_Axe" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Goblin_Axe_Shield_HelmetMetal" />
 					<attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
 					<attribute id="Faction" type="guid" value="20cb448e-72b9-d3fe-1567-206038efe6cc" />
 					<attribute id="Icon" type="FixedString" value="39c8628c-dc9f-4693-0430-f2def73c2947-EQP_Goblin_Axe_(Icon_Goblin_Male)" />
@@ -3314,6 +3314,11 @@
 						<node id="LocomotionParams">
 							<attribute id="IsMovementEnabled" type="bool" value="True" />
 							<attribute id="IsWorldClimbingEnabled" type="bool" value="False" />
+							<attribute id="MaxDashDistance" type="float" value="3" />
+							<attribute id="MovementAcceleration" type="float" value="10" />
+							<attribute id="MovementSpeedDash" type="float" value="8" />
+							<attribute id="MovementSpeedSprint" type="float" value="8" />
+							<attribute id="MovementStepUpHeight" type="float" value="1" />
 						</node>
 						<node id="SkillList">
 							<children>
@@ -3478,6 +3483,73 @@
 											</children>
 										</node>
 									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="dbe73222-9d3b-4bbb-9bb5-317f3e799bf7" />
+					<attribute id="Name" type="LSString" value="FRE_Drow_Ranger" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="84ca2617-a0e4-4ac6-8ae8-b387969c9610" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
+					<attribute id="Equipment" type="FixedString" value="FRE_EQP_Drow_Ranger" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hfec4ae56gcf62g4ec7ga904gb3bdd8aed655" version="1" />
+					<attribute id="Icon" type="FixedString" value="a19980ce-7164-18ba-9002-756a48985c0a-_(Icon_Drow_Male)" />
+					<attribute id="Scale" type="float" value="1" />
+					<attribute id="Stats" type="FixedString" value="Elf_Drow_Ranger" />
+					<attribute id="SpellSet" type="FixedString" value="CommonSummonActions" />
+					<attribute id="LevelOverride" type="int32" value="5" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="195e3caf-cc93-a251-ecf7-aec46cd452cc" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8713fda9-1855-42ef-8c54-a1e2d5a49194" />
+								</node>
+							</children>
+						</node>
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
 								</node>
 							</children>
 						</node>
