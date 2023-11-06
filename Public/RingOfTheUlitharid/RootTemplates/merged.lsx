@@ -696,122 +696,21 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="AnubisConfigName" type="FixedString" value="DefaultCombat" />
-					<attribute id="Archetype" type="FixedString" value="ogre_melee" />
-					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
-					<attribute id="CanClimbLadders" type="bool" value="False" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="77a99f01-0b3d-484c-8fd7-b9f53c7178da" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h39cca652gab57g4d21gacdega97faddfe515" version="1" />
-					<attribute id="Equipment" type="FixedString" value="EQP_Ogre_Club" />
-					<attribute id="ExplodedResourceID" type="FixedString" value="7ed82e26-cf45-42d5-c880-76d5a8250a00" />
-					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
-					<attribute id="GeneratePortrait" type="LSString" value="Icon_Ogre" />
-					<attribute id="Icon" type="FixedString" value="77a99f01-0b3d-484c-8fd7-b9f53c7178da-EQP_Ogre_Club_(Icon_Ogre)" />
-					<attribute id="IsEquipmentLootable" type="bool" value="False" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="LightID" type="FixedString" value="07ee474b-0a26-4187-aa2d-d96752ed4ece" />
 					<attribute id="MapKey" type="FixedString" value="010f049b-db73-4416-a438-a025243ea483" />
 					<attribute id="Name" type="LSString" value="FRE_BASE_Ogres" />
-					<attribute id="ParentTemplateId" type="FixedString" value="d4b4e732-b3c4-45ac-bc0c-3146bee19a60" />
-					<attribute id="PhysicsTemplate" type="FixedString" value="64eba222-42c0-9464-d7a3-2ff5edb2cbaa" />
-					<attribute id="Race" type="guid" value="40af3916-df35-4e6e-aa8b-276cfc2c4f6f" />
-					<attribute id="Stats" type="FixedString" value="Ogre" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="661bc887-64a8-7aa7-643a-75ffff94b0e3" />
+					<attribute id="Icon" type="FixedString" value="661bc887-64a8-7aa7-643a-75ffff94b0e3-EQP_Ogre_Club_(Icon_Ogre)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="cfef7d2e-39f1-41c3-8b76-05d47b73fc16" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="VisualTemplate" type="FixedString" value="701369d2-8996-53fd-40b2-a37b03145b0b" />
-					<attribute id="VocalAlertResourceID" type="FixedString" value="2a4c2e8c-e1cf-ab00-3be8-3ab4db942068" />
-					<attribute id="VocalAngryResourceID" type="FixedString" value="544e1629-737a-106d-1c99-70c2df5f367d" />
-					<attribute id="VocalAnticipationResourceID" type="FixedString" value="fa991198-f9fe-8dbf-f360-02569ad69110" />
-					<attribute id="VocalAttackResourceID" type="FixedString" value="388e682b-69df-bbcc-bbcd-b666d92dd80c" />
-					<attribute id="VocalAwakeResourceID" type="FixedString" value="7fc5815a-9026-995d-5592-3e18bb0a67a0" />
-					<attribute id="VocalBoredResourceID" type="FixedString" value="3b6897cc-f76c-ce8b-bddc-43698a7ac74d" />
-					<attribute id="VocalDeathResourceID" type="FixedString" value="33ed8646-074e-4a41-f522-39a2a2aae599" />
-					<attribute id="VocalDodgeResourceID" type="FixedString" value="df442372-c856-c97b-4051-f6f52eb8f20a" />
-					<attribute id="VocalExhaustedResourceID" type="FixedString" value="ab55c382-911a-1aa3-b9be-c84216308579" />
-					<attribute id="VocalFallResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="VocalInitiativeResourceID" type="FixedString" value="2da784cf-0aca-1464-2390-15f386f14988" />
-					<attribute id="VocalPainResourceID" type="FixedString" value="8860528d-56a7-aaf1-e536-74dcd65425ba" />
-					<attribute id="VocalRelaxedResourceID" type="FixedString" value="9b966b09-9feb-b246-9528-4d3351cd2f71" />
-					<attribute id="VocalSnoreResourceID" type="FixedString" value="3abd07af-8dcd-0327-52a4-c630fc4b5a74" />
-					<attribute id="VocalVictoryResourceID" type="FixedString" value="21844352-695d-b47f-99d7-7abbaa4acea2" />
-					<attribute id="VocalWeakResourceID" type="FixedString" value="3f880bba-7b4a-b0ac-7a8e-437506d4d3ad" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
-						<node id="Bounds">
+						<node id="LocomotionParams" />
+						<node id="Tags">
 							<children>
-								<node id="Bound">
-									<attribute id="Height" type="float" value="3.7" />
-									<attribute id="Max" type="fvec3" value="0.40751 1.93354 0.0630085" />
-									<attribute id="Min" type="fvec3" value="-0.40751 -0.00135875 -0.1058585" />
-									<attribute id="Radius" type="float" value="0.5" />
-									<attribute id="Shape" type="uint8" value="2" />
-									<attribute id="Type" type="uint8" value="0" />
-								</node>
-								<node id="Bound">
-									<attribute id="Height" type="float" value="3.7" />
-									<attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
-									<attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
-									<attribute id="Radius" type="float" value="0.7" />
-									<attribute id="Shape" type="uint8" value="2" />
-									<attribute id="Type" type="uint8" value="1" />
-								</node>
-								<node id="Bound">
-									<attribute id="Height" type="float" value="3.7" />
-									<attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
-									<attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
-									<attribute id="Radius" type="float" value="1.2" />
-									<attribute id="Shape" type="uint8" value="2" />
-									<attribute id="Type" type="uint8" value="2" />
-								</node>
-							</children>
-						</node>
-						<node id="EquipmentTypes">
-							<children>
-								<node id="">
-									<attribute id="Object" type="guid" value="d2141ff0-1368-4c35-b438-e9cd208182f8" />
-								</node>
-								<node id="">
-									<attribute id="Object" type="guid" value="4135c6a5-78b6-4c6d-85df-f77df52ce775" />
-								</node>
-								<node id="">
-									<attribute id="Object" type="guid" value="2fc3e6f9-120c-4adf-b7c3-7890aed7c312" />
-								</node>
-								<node id="">
-									<attribute id="Object" type="guid" value="7883d641-2b8b-40dc-85d8-51751dd42bbc" />
-								</node>
-								<node id="">
-									<attribute id="Object" type="guid" value="ab54402e-d3f3-497d-9b81-519b18afb827" />
-								</node>
-							</children>
-						</node>
-						<node id="LocomotionParams">
-							<attribute id="MovementAcceleration" type="float" value="12" />
-							<attribute id="MovementSpeedDash" type="float" value="4.3" />
-							<attribute id="MovementSpeedSprint" type="float" value="4.3" />
-							<attribute id="MovementSpeedStroll" type="float" value="1" />
-							<attribute id="MovementStepUpHeight" type="float" value="1.2" />
-							<attribute id="WorldClimbingBlendspace_DownA" type="FixedString" value="575b6b01-b21a-62ff-7883-433fe47bf23a" />
-							<attribute id="WorldClimbingBlendspace_DownB" type="FixedString" value="4a6f8da3-6276-967f-8f1a-13f41c17c949" />
-							<attribute id="WorldClimbingBlendspace_DownBHeight" type="float" value="1.65" />
-							<attribute id="WorldClimbingBlendspace_UpA" type="FixedString" value="b566ed99-b547-2b59-7c7e-7ab982e9675b" />
-							<attribute id="WorldClimbingBlendspace_UpBHeight" type="float" value="1.65" />
-							<attribute id="WorldClimbingHeight" type="float" value="3.1" />
-							<attribute id="WorldClimbingRadius" type="float" value="0.9" />
-							<attribute id="WorldClimbingSpeed" type="float" value="3.75" />
-						</node>
-						<node id="PickingPhysics">
-							<children>
-								<node id="PickingPhysicsTemplates">
-									<attribute id="MapKey" type="FixedString" value="CharacterSittingPicking" />
-									<attribute id="MapValue" type="FixedString" value="64eba222-42c0-9464-d7a3-2ff5edb2cbaa" />
-								</node>
-								<node id="PickingPhysicsTemplates">
-									<attribute id="MapKey" type="FixedString" value="CharacterLyingPicking" />
-									<attribute id="MapValue" type="FixedString" value="7f575807-4de3-56c9-1f14-142e0bfb8ce0" />
-								</node>
-								<node id="PickingPhysicsTemplates">
-									<attribute id="MapKey" type="FixedString" value="CharacterDeadPicking" />
-									<attribute id="MapValue" type="FixedString" value="7f575807-4de3-56c9-1f14-142e0bfb8ce0" />
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="542b58f0-42ad-4157-a28e-27434e0e7b18" />
 								</node>
 							</children>
 						</node>
