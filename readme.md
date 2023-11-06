@@ -38,6 +38,9 @@ Items are found in the tutorial chest.
 - See Invisibility
 - Ulitharid Domination (Dominate person without concentration and no character type limitation)
 - Ulitharid Beast Domination (Dominate beast without concentration)
+- Greater Crown Of Madness (AoE Crown Of Madness and no character type limitation)
+- Greater Dissonant Whispers (AoE Dissonant Whispers)
+- Greater Phantasmal Killer (AoE Phantasmal Killer)
 - Summon Thrall
   - Summon Bugbear
   - Summon Cranium Rat
