@@ -41,6 +41,7 @@ Items are found in the tutorial chest.
 - Summon Thrall
   - Summon Bugbear
   - Summon Cranium Rat
+  - Summon Drow Ranger
   - Summon Duergar Ranger
   - Summon Gnoll Fighter
   - Summon Gnoll Ranger
