@@ -39,7 +39,7 @@ data "Boosts" "UnlockSpell(Target_MageHand);UnlockSpell(Target_MistyStep);Unlock
 new entry "EnchantmentSpells"
 type "PassiveData"
 data "DisplayName" "h470b36e0gd9b4g48a2g925bg5979c3915e8e;1"
-data "Boosts" "UnlockSpell(Target_Friends);UnlockSpell(Target_ViciousMockery);UnlockSpell(Target_AnimalFriendship);UnlockSpell(Target_Bane);UnlockSpell(Target_Bless);UnlockSpell(Target_CharmPerson);UnlockSpell(Target_Command_Container);UnlockSpell(Target_CompelledDuel);UnlockSpell(Target_DissonantWhispers);UnlockSpell(Target_Heroism);UnlockSpell(Target_Hex);UnlockSpell(Target_Sleep);UnlockSpell(Target_HideousLaughter);UnlockSpell(Target_CalmEmotions);UnlockSpell(Target_CrownOfMadness);UnlockSpell(Target_Enthrall);UnlockSpell(Target_HoldPerson);UnlockSpell(Target_Confusion);UnlockSpell(Target_HoldMonster);UnlockSpell(Target_IrresistibleDance)"
+data "Boosts" "UnlockSpell(Target_Friends);UnlockSpell(Target_ViciousMockery);UnlockSpell(Target_AnimalFriendship);UnlockSpell(Target_Bane);UnlockSpell(Target_Bless);UnlockSpell(Target_CharmPerson);UnlockSpell(Target_Command_Container);UnlockSpell(Target_CompelledDuel);UnlockSpell(Target_DissonantWhispers);UnlockSpell(Target_Heroism);UnlockSpell(Target_Hex);UnlockSpell(Target_Sleep);UnlockSpell(Target_HideousLaughter);UnlockSpell(Target_CalmEmotions);UnlockSpell(Target_CrownOfMadness);UnlockSpell(Target_Enthrall);UnlockSpell(Target_HoldPerson);UnlockSpell(Target_Confusion);UnlockSpell(Target_DominateBeast);UnlockSpell(Target_DominatePerson);UnlockSpell(Target_HoldMonster);UnlockSpell(Target_IrresistibleDance)"
 
 new entry "IllusionSpells"
 type "PassiveData"
