@@ -48,6 +48,7 @@ Items are found in the tutorial chest.
   - Summon Drow Ranger
   - Summon Duergar Ranger
   - Summon Githyanki Raider
+  - Summon Githyanki Warrior
   - Summon Gnoll Fighter
   - Summon Gnoll Ranger
   - Summon Goblin Fighter
