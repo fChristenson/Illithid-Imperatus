@@ -42,6 +42,7 @@ Items are found in the tutorial chest.
 - Greater Crown Of Madness (AoE Crown Of Madness and no character type limitation)
 - Greater Dissonant Whispers (AoE Dissonant Whispers)
 - Greater Phantasmal Killer (AoE Phantasmal Killer)
+- Greater Hold Monster (AoE Hold Monster, works on undead)
 - Summon Thrall
   - Summon Bugbear
   - Summon Cranium Rat

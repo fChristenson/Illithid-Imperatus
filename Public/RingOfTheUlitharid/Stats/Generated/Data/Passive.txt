@@ -45,7 +45,7 @@ data "Boosts" "UnlockSpell(Target_MinorIllusion);UnlockSpell(Zone_ColorSpray);Un
 new entry "CustomSpells"
 type "PassiveData"
 data "DisplayName" "h470b36e0gd9b4g48a2g925bg5979c3915e8e;1"
-data "Boosts" "UnlockSpell(Target_GreaterPhantasmalKiller);UnlockSpell(Target_GreaterDissonantWhispers);UnlockSpell(Target_Greater_Crown_Of_Madness);UnlockSpell(Target_Summon_Thrall_Container);UnlockSpell(Target_DominateBeast_Ulitharid);UnlockSpell(Target_DominatePerson_Ulitharid)"
+data "Boosts" "UnlockSpell(Target_Greater_HoldMonster);UnlockSpell(Target_GreaterPhantasmalKiller);UnlockSpell(Target_GreaterDissonantWhispers);UnlockSpell(Target_Greater_Crown_Of_Madness);UnlockSpell(Target_Summon_Thrall_Container);UnlockSpell(Target_DominateBeast_Ulitharid);UnlockSpell(Target_DominatePerson_Ulitharid)"
 
 new entry "MindFlayerSpells"
 type "PassiveData"
