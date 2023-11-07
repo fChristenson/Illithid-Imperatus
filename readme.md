@@ -18,6 +18,7 @@ Items are found in the tutorial chest.
 
 ### Mind Flayer form spells
 
+- All Mind Flayer abilities
 - All Enchantment spells
 - All Illusion spells
 - Speak with animals
@@ -64,7 +65,6 @@ Items are found in the tutorial chest.
 
 ### Passives
 
-- Ulitharid Powers (Grants endgame Mind Flayer abilities)
 - Mind Flayer Darkvision (150m)
 
 ### References
