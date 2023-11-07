@@ -3384,9 +3384,9 @@
 					<attribute id="LevelOverride" type="int32" value="5" />
 					<attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
 					<attribute id="MapKey" type="FixedString" value="944b8d20-297c-4069-83f6-b69d17cad6c0" />
-					<attribute id="Name" type="LSString" value="Githyanki_Male_Warrior" />
+					<attribute id="Name" type="LSString" value="FRE_Githyanki_Male_Warrior" />
 					<attribute id="ParentTemplateId" type="FixedString" value="366bca00-1c0c-4fba-bb1c-45c6ae20d691" />
-					<attribute id="Stats" type="FixedString" value="FRE_Githyanki_Warrior" />
+					<attribute id="Stats" type="FixedString" value="Githyanki_Warrior" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144255925564211200" />
 					<children>
@@ -3518,9 +3518,9 @@
 					<attribute id="LevelOverride" type="int32" value="8" />
 					<attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
 					<attribute id="MapKey" type="FixedString" value="67d3e624-8eb7-4c6c-978c-01a5ac36aa58" />
-					<attribute id="Name" type="LSString" value="Githyanki_Male_Raider_Strong" />
+					<attribute id="Name" type="LSString" value="FRE_Githyanki_Male_Raider_Strong" />
 					<attribute id="ParentTemplateId" type="FixedString" value="be97477c-a045-4d43-b084-b9727d73832b" />
-					<attribute id="Stats" type="FixedString" value="FRE_Githyanki_Raider_Strong" />
+					<attribute id="Stats" type="FixedString" value="Githyanki_Raider_Strong" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209019" />
 					<children>
