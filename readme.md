@@ -54,6 +54,7 @@ Items are found in the tutorial chest.
   - Summon Gnoll Ranger
   - Summon Goblin Fighter
   - Summon Goblin Ranger
+  - Summon Goblin Sapper
   - Summon Hobgoblin
   - Summon Human Archer
   - Summon Human Warrior
