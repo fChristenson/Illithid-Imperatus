@@ -3705,6 +3705,63 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="Archetype" type="FixedString" value="ranged" />
+					<attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="67fb31a5-dcd6-d719-61a9-2a1e527617f1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc0165c45g1ffcg47f8gbdf2g9374d869b9cc" version="3" />
+					<attribute id="Equipment" type="FixedString" value="EQP_LOW_CountingHouseGuard_Ranged" />
+					<attribute id="Icon" type="FixedString" value="67fb31a5-dcd6-d719-61a9-2a1e527617f1-EQP_LOW_CountingHouseGuard_Ranged_(Icon_Human_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="9" />
+					<attribute id="MapKey" type="FixedString" value="c6381708-06ef-4f11-b307-2eeb60f2b043" />
+					<attribute id="Name" type="LSString" value="FRE_Humans_Male_CountingHouseGuard_Ranged" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4214f94a-1a32-4783-aafe-c4307985eb6b" />
+					<attribute id="Stats" type="FixedString" value="LOW_CountingHouse_Ranged_Human" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="TradeTreasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="FixedString" value="LOW_CountingHouse_Guard" />
+								</node>
+							</children>
+						</node>
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="melee" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f70e62b1-4c33-df8a-674d-3533518224bd" />
 					<attribute id="DisplayName" type="TranslatedString" handle="hb89f781fge36eg4f5agaf71g5cbff6224afd" version="4" />

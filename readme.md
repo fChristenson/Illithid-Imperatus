@@ -55,6 +55,8 @@ Items are found in the tutorial chest.
   - Summon Goblin Fighter
   - Summon Goblin Ranger
   - Summon Hobgoblin
+  - Summon Human Archer
+  - Summon Human Warrior
   - Summon Intellect Devourer
   - Summon Mind Flayer
   - Summon Ogre
