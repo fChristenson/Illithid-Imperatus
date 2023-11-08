@@ -3708,6 +3708,7 @@
 					<attribute id="Archetype" type="FixedString" value="melee" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f70e62b1-4c33-df8a-674d-3533518224bd" />
 					<attribute id="DisplayName" type="TranslatedString" handle="hb89f781fge36eg4f5agaf71g5cbff6224afd" version="4" />
+					<attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
 					<attribute id="Equipment" type="FixedString" value="EQP_LOW_CountingHouseGuard_Melee" />
 					<attribute id="Icon" type="FixedString" value="f70e62b1-4c33-df8a-674d-3533518224bd-EQP_LOW_CountingHouseGuard_Melee_(Icon_Human_Male)" />
 					<attribute id="LevelName" type="FixedString" value="" />
