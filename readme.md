@@ -61,6 +61,7 @@ Items are found in the tutorial chest.
   - Summon Human Warrior
   - Summon Intellect Devourer
   - Summon Mind Flayer
+  - Summon Minotaur
   - Summon Ogre
   - Summon Ooze
   - Summon Owlbear
