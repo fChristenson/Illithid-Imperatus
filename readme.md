@@ -11,8 +11,9 @@ BG3 mod for gaining the powers of an [Ulitharid](https://forgottenrealms.fandom.
 Items are found in the tutorial chest.
 
 - Ring of the Ulitharid
-  - Ulitharid Power Infusion (Gain all Mind Flayer abilities and spells with original character model)
-  - Ulitharid Ceremorphosis (Turn in to endgame Mind Flayer, permanently)
+  - Ceremorphosis (Turn in to endgame Mind Flayer, permanently)
+  - Ulitharid Power Infusion (Gain all Mind Flayer and Ulitharid powers)
+  - Ulitharid Ceremorphosis (Ceremorphosis with Ulitharid spells)
   - Emperor Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Emperor model)
   - Gale Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Gale model)
   - Orpheus Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Orpheus model)
