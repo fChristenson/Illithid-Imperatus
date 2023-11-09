@@ -11,7 +11,11 @@ BG3 mod for transforming in to a [Ulitharid](https://forgottenrealms.fandom.com/
 Items are found in the tutorial chest.
 
 - Ring of the Ulitharid
+  - Ulitharid Power Infusion (Gain all Mind Flayer abilities and spells with original character model)
   - Ulitharid Ceremorphosis (Turn in to endgame Mind Flayer, permanently)
+  - Emperor Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Emperor model)
+  - Gale Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Gale model)
+  - Orpheus Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Orpheus model)
 - Staff of Ilsensine
   - Greater Teleportation (100m)
   - Thoughts of Ilsensine (Mind Blast AoE)
