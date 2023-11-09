@@ -20,7 +20,7 @@ Items are found in the tutorial chest.
   - Greater Teleportation (100m)
   - Thoughts of Ilsensine (Mind Blast AoE)
 
-### Mind Flayer form spells
+### Ulitharid powers
 
 - All Mind Flayer abilities
 - All Enchantment spells
