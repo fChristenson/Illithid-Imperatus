@@ -4298,6 +4298,107 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="Act3_END_HighHallInterior_Nautiloid" />
+					<attribute id="AnubisConfigName" type="FixedString" value="END_NautiloidCannon" />
+					<attribute id="Faction" type="guid" value="8b226cb2-c089-49b5-b73c-6cca493df263" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="END_Main" />
+					<attribute id="MapKey" type="FixedString" value="0195766d-9124-4f7e-8cc4-002015a8d1f3" />
+					<attribute id="Name" type="LSString" value="S_END_NautiloidCannon_008" />
+					<attribute id="SoundAttenuation" type="int16" value="200" />
+					<attribute id="SpotSneakers" type="bool" value="False" />
+					<attribute id="Stats" type="FixedString" value="END_NautiloidCannon" />
+					<attribute id="TemplateName" type="FixedString" value="8fa33e20-ac63-4658-bbdf-ff0263ff845f" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="UseOcclusion" type="bool" value="False" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="END_Main" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="804b69d4-43f2-bf8e-7880-01fbb4e8b6a3" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="2149e054-6664-c722-3547-4ad7f36e1b3f" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="5579.021 8.047158 424.2487" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9979564 0 0.06388532" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="FRE_ProjectileStrike_END_HighHallInterior_NautiloidStrike" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="ad8af56a-63e0-4fcd-802a-78204c8edda6" />
 					<attribute id="Name" type="LSString" value="FRE_MindFlayer" />
 					<attribute id="LevelName" type="FixedString" value="" />
