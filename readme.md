@@ -2,7 +2,7 @@
 
 ## Description
 
-BG3 mod for transforming in to a [Ulitharid](https://forgottenrealms.fandom.com/wiki/Ulitharid).
+BG3 mod for gaining the powers of an [Ulitharid](https://forgottenrealms.fandom.com/wiki/Ulitharid).
 
 ![Ulitharid](https://static.wikia.nocookie.net/forgottenrealms/images/b/bd/Ulitharid-5e.jpg/revision/latest?cb=20171010175905)
 
