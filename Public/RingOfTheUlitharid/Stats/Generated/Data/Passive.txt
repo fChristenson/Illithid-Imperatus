@@ -40,7 +40,7 @@ data "Boosts" "UnlockSpell(Target_Friends);UnlockSpell(Target_ViciousMockery);Un
 new entry "FRE_IllusionSpells"
 type "PassiveData"
 data "DisplayName" "h470b36e0gd9b4g48a2g925bg5979c3915e8e;1"
-data "Boosts" "UnlockSpell(Target_MinorIllusion);UnlockSpell(Zone_ColorSpray);UnlockSpell(Shout_DisguiseSelf);UnlockSpell(Shout_Blur);UnlockSpell(Shout_SeeInvisibility);UnlockSpell(Shout_MirrorImage);UnlockSpell(Target_PhantasmalForce);UnlockSpell(Target_Silence);UnlockSpell(Zone_Fear);UnlockSpell(Target_HypnoticPattern);UnlockSpell(Target_Invisibility_Greater);UnlockSpell(Target_PhantasmalKiller);UnlockSpell(Target_Seeming)"
+data "Boosts" "UnlockSpell(Target_MinorIllusion);UnlockSpell(Zone_ColorSpray);UnlockSpell(Shout_DisguiseSelf);UnlockSpell(Shout_Blur);UnlockSpell(Target_Invisibility);UnlockSpell(Shout_MirrorImage);UnlockSpell(Target_PhantasmalForce);UnlockSpell(Target_Silence);UnlockSpell(Zone_Fear);UnlockSpell(Target_HypnoticPattern);UnlockSpell(Target_Invisibility_Greater);UnlockSpell(Target_PhantasmalKiller);UnlockSpell(Target_Seeming)"
 
 new entry "FRE_CustomSpells"
 type "PassiveData"
