@@ -93,5 +93,7 @@
   <content contentuid="h3bf2a64fgf07eg429dg94a3g4ce6f3f21a02" version="1">Summons a Nautiloid Cannon thrall.</content>
   <content contentuid="h7f8e12aagddb8g4641gb6a1gf184dc10efdc" version="1">Teleport Target</content>
   <content contentuid="h2ed6597bg080fg4197gaaf1g45aa7a3b6855" version="1">Teleports a target to the desired location.</content>
+  <content contentuid="h277a27d6g97b4g4c18g97a8g205bb90aac0a" version="1">Greater Black Hole</content>
+  <content contentuid="hf1345321g182cg4cb4gb150g63cdb25f217b" version="1">Create a black hole that pulls in enemies with extreme force.</content>
 </contentList>
 
