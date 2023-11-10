@@ -23,32 +23,34 @@ Items are found in the tutorial chest.
 
 ### Ulitharid powers
 
-- All Mind Flayer abilities
 - All Enchantment spells
 - All Illusion spells
-- Speak with animals
-- Telekinesis
-- Detect Thoughts
-- Slow
-- Fly
-- Knock
-- Enhance Leap
-- Misty Step
-- Dimensional Door
-- Blink
+- All Mind Flayer abilities
 - Arcane Gate
-- Mage hand
-- Guidance
-- True strike
-- Sanctuary
-- See Invisibility
-- Ulitharid Domination (Dominate person without concentration and no character type limitation)
-- Ulitharid Beast Domination (Dominate beast without concentration)
+- Blink
+- Detect Thoughts
+- Dimensional Door
+- Enhance Leap
+- Fly
+- Greater Black Hole (Black Hole with larger radius, no cooldown and greater force)
 - Greater Crown Of Madness (AoE Crown Of Madness and no character type limitation)
 - Greater Dissonant Whispers (AoE Dissonant Whispers)
-- Greater Phantasmal Killer (AoE Phantasmal Killer)
 - Greater Hold Monster (AoE Hold Monster, works on undead)
-- Teleport Target (Dimensional Door 100m on any target)
+- Greater Phantasmal Killer (AoE Phantasmal Killer)
+- Guidance
+- Knock
+- Mage hand
+- Misty Step
+- Sanctuary
+- See Invisibility
+- Slow
+- Speak with animals
+- Telekinesis
+- Teleport Target (Dimensional Door, 100m range on any target)
+- True strike
+- Ulitharid Beast Domination (Dominate beast without concentration)
+- Ulitharid Domination (Dominate person without concentration and no character type limitation)
+- Ulitharid Telekinesis (Telekinesis without concentration)
 - Summon Thrall
   - Summon Bugbear
   - Summon Cranium Rat
