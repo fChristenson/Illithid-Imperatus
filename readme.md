@@ -48,6 +48,7 @@ Items are found in the tutorial chest.
 - Greater Dissonant Whispers (AoE Dissonant Whispers)
 - Greater Phantasmal Killer (AoE Phantasmal Killer)
 - Greater Hold Monster (AoE Hold Monster, works on undead)
+- Teleport Target (Dimensional Door 100m on any target)
 - Summon Thrall
   - Summon Bugbear
   - Summon Cranium Rat

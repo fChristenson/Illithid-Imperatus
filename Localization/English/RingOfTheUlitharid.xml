@@ -91,5 +91,7 @@
   <content contentuid="h6f5a045bg1376g48b1ga85bgd4d8769bff7d" version="1">Summons a Minotaur thrall.</content>
   <content contentuid="h65429f57g6ea0g4792gbc15g38514cd5c357" version="1">Summons Nautiloid Cannon</content>
   <content contentuid="h3bf2a64fgf07eg429dg94a3g4ce6f3f21a02" version="1">Summons a Nautiloid Cannon thrall.</content>
+  <content contentuid="h7f8e12aagddb8g4641gb6a1gf184dc10efdc" version="1">Teleport Target</content>
+  <content contentuid="h2ed6597bg080fg4197gaaf1g45aa7a3b6855" version="1">Teleports a target to the desired location.</content>
 </contentList>
 
