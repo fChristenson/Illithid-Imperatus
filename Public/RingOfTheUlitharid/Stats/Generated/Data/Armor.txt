@@ -28,7 +28,7 @@ data "Rarity" "Legendary"
 
 new entry "FRE_Tessadyle_robe"
 type "Armor"
-using "ARM_Plate_Body"
+using "ARM_Robe_Body"
 data "ValueOverride" "1"
 data "RootTemplate" "8662068b-e550-4a8e-8560-6f48dc1dd0a8"
 data "PassivesOnEquip" "FRE_MAG_ArcaneEnchantment_Passive"
