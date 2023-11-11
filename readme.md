@@ -41,6 +41,7 @@ Items are found in the tutorial chest.
 - Knock
 - Mage hand
 - Misty Step
+- Nautiloid Bombardment (Nautiloid Strike, 5 targets)
 - Sanctuary
 - See Invisibility
 - Slow

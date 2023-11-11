@@ -30,3 +30,8 @@ data "HitAnimationType" "MagicalDamage_External"
 data "LineOfSightFlags" "IgnoreVisionBlock"
 data "Distribution" "Normal"
 data "HitEffect" "41de42e1-56d0-4336-8b44-99fc38281525"
+
+new entry "FRE_ProjectileStrike_Bombardment"
+using FRE_ProjectileStrike_END_HighHallInterior_NautiloidStrike
+data "AmountOfTargets" "5"
+data "DisplayName" "h5ffed731g350fg4b01ga2a9g4803f892b77b;2"
