@@ -18,6 +18,63 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hbfad5822ga2dag4d49gb0e5ga2a4a1783652" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hd4e919b8g25a1g4d05g8faege969d66f9ed2" version="1" />
+					<attribute id="MapKey" type="FixedString" value="f0872c44-b295-4189-97e1-f9c122856e6a" />
+					<attribute id="Name" type="LSString" value="FRE_Circlet_Of_Maanzecorian" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="348b0f52-8960-43e0-ae38-c1d3b1974c3f" />
+					<attribute id="Stats" type="FixedString" value="FRE_Circlet_Of_Maanzecorian" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Name" type="LSString" value="FRE_Tessadyle_robe" />
+					<attribute id="Stats" type="FixedString" value="FRE_Tessadyle_robe" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hf18d9631gf263g4201g808eg72c05cb3dd92" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h1247c277g59b9g47a2g8851gdf731c6d888c" version="1" />
+					<attribute id="Icon" type="FixedString" value="Generated_MAG_Illithid_Carapace_Armor_Magic" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8662068b-e550-4a8e-8560-6f48dc1dd0a8" />
+					<attribute id="ParentTemplateId" type="FixedString" value="dd905194-9a67-4c61-b26d-5b4da4725cde" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="1a0e5357-125b-ea8d-4e1b-36e704168952" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="" version="0" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="107c42e1-d5ff-c7ca-5b69-d19fdf3bda9b" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hd3fcb505g5269g4d73gad02ge0701c8dd663" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hd375afedg6214g4404gaa36gf5129eca83c6" version="1" />
+					<attribute id="MapKey" type="FixedString" value="f391d67d-5be9-4bb2-8541-d995c19a2d63" />
+					<attribute id="Name" type="LSString" value="FRE_Tessadyle_boots" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="397331d6-e86e-448d-8255-014dab6f860f" />
+					<attribute id="Stats" type="FixedString" value="FRE_Tessadyle_boots" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h7e5830b6g361fg4af8gb30bg43338cebe6d4" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h92164aa1g25feg4ee9ga958g6a30306ea3f7" version="1" />
+					<attribute id="MapKey" type="FixedString" value="2f7c50fd-10f7-4332-8583-204c6821e42d" />
+					<attribute id="Name" type="LSString" value="FRE_Gauntlet_of_Tylazhus" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9e90efe2-200a-4923-a597-ddc044e704f2" />
+					<attribute id="Stats" type="FixedString" value="FRE_Gauntlet_of_Tylazhus" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="hec925041g0542g447dgb7ecg14a6e8345925" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="hcf76e644g54fag4d73gbef8g727b9921d6c5" version="1" />
 					<attribute id="LevelName" type="FixedString" value="" />
@@ -4535,7 +4592,7 @@
 									</children>
 								</node>
 								<node id="Skill">
-									<attribute id="Skill" type="FixedString" value="Target_DominatePerson_MindFlayer" />
+									<attribute id="Skill" type="FixedString" value="FRE_Target_DominatePerson_MindFlayer" />
 									<attribute id="SpellCastingAbility" type="uint8" value="0" />
 									<attribute id="LearningStrategy" type="uint8" value="0" />
 									<attribute id="ScoreModifier" type="float" value="1" />
@@ -4562,7 +4619,7 @@
 									</children>
 								</node>
 								<node id="Skill">
-									<attribute id="Skill" type="FixedString" value="Target_DominateBeast_MindFlayer" />
+									<attribute id="Skill" type="FixedString" value="FRE_Target_DominateBeast_MindFlayer" />
 									<attribute id="SpellCastingAbility" type="uint8" value="0" />
 									<attribute id="LearningStrategy" type="uint8" value="0" />
 									<attribute id="ScoreModifier" type="float" value="1" />

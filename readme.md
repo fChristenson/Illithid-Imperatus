@@ -90,6 +90,8 @@ Items are found in the tutorial chest.
 - [Mind Flayer](https://forgottenrealms.fandom.com/wiki/Mind_flayer)
 - [Ulitharid](https://forgottenrealms.fandom.com/wiki/Ulitharid)
 - [Ilsensine](https://forgottenrealms.fandom.com/wiki/Ilsensine)
+- [Maanzecorian](https://forgottenrealms.fandom.com/wiki/Maanzecorian)
+- [Illithid items](https://forgottenrealms.fandom.com/wiki/Category:Illithid_items)
 
 ### Credits
 
