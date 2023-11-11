@@ -20,6 +20,16 @@ Items are found in the tutorial chest.
 - Staff of Ilsensine
   - Greater Teleportation (100m)
   - Thoughts of Ilsensine (Mind Blast AoE)
+- Crown of Maanzecorian
+  - Sunbeam
+  - Daylight
+- Gauntlet of Tyla'zhus
+  - Inflict Wounds
+  - Scorching ray
+- Tessadyle Robe
+- Tessadyle Boots
+  - Freedom of movement
+  - Longstrider
 
 ### Ulitharid powers
 
