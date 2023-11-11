@@ -1,5 +1,7 @@
 # Ring of the Ulitharid
 
+Probably the best Mind Flayer experience, in the world.
+
 ## Description
 
 BG3 mod for gaining the powers of an [Ulitharid](https://forgottenrealms.fandom.com/wiki/Ulitharid).
