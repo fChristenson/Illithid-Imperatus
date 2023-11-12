@@ -482,6 +482,205 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="a086b825-8f17-4f0e-855b-178f8cdc5221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a086b825-8f17-4f0e-855b-178f8cdc515a" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Battleaxe" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="d9c87013-1f41-4c17-b71d-f353ec0d6221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d9c87013-1f41-4c17-b71d-f353ec0d64e8" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Club" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Dagger" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="fb08eef6-f6a0-454e-ab14-c1470f3ba221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fb08eef6-f6a0-454e-ab14-c1470f3ba18d" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Dart" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="9eadef92-5dd0-408e-9b55-1cf791caf221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9eadef92-5dd0-408e-9b55-1cf791cafe9d" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Flail" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="99f3b2d9-e03d-4cd5-9a67-5435a9568221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="99f3b2d9-e03d-4cd5-9a67-5435a95682da" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Glaive" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="d5712e24-ce9e-42ce-8fad-6e049b62c221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d5712e24-ce9e-42ce-8fad-6e049b62c28c" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Greataxe" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="19ce6720-03b6-4d22-bf35-4963b510d221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="19ce6720-03b6-4d22-bf35-4963b510d1da" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Greatclub" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Greatsword" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="f928a70d-5b23-4605-9cae-5342f9ed2221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f928a70d-5b23-4605-9cae-5342f9ed206e" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Halberd" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="46b64a36-8446-45bd-98e8-ee81e3136221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="46b64a36-8446-45bd-98e8-ee81e3136baa" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Handaxe" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="a5d843ab-c3af-4e60-a925-bb2e15828221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a5d843ab-c3af-4e60-a925-bb2e15828938" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_HandCrossbow" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="04622e3d-5b3f-4f2c-a0db-513a717d9221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="04622e3d-5b3f-4f2c-a0db-513a717d911f" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_HeavyCrossbow" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="0a7adc8d-b561-4f81-a8f2-ec07b5d54221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0a7adc8d-b561-4f81-a8f2-ec07b5d54955" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Javelin" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="43b7fbf5-7f6e-4e9e-bce7-c679eea44221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="43b7fbf5-7f6e-4e9e-bce7-c679eea44593" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_LightCrossbow" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="494f21ac-5a1b-4e91-bd30-551b79532221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="494f21ac-5a1b-4e91-bd30-551b79532516" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_LightHammer" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="86e3d864-309c-4c17-ba38-877ce487d221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86e3d864-309c-4c17-ba38-877ce487d481" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Longbow" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Longsword" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="3186796d-3ab3-4d49-bfc2-cba1aff0c221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3186796d-3ab3-4d49-bfc2-cba1aff0cf5a" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Mace" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="5487ceb4-b009-46ae-8ed6-cd3baaf0a221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5487ceb4-b009-46ae-8ed6-cd3baaf0a18d" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Maul" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="26a9fba6-1a60-4691-84ea-da7ffcb30221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="26a9fba6-1a60-4691-84ea-da7ffcb304e0" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Morningstar" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="baa5b139-42ad-40fd-b6c3-6b52b092c221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="baa5b139-42ad-40fd-b6c3-6b52b092c48e" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Pike" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="96e2abaf-78ff-4dcb-a6a3-a5f0c348b221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="96e2abaf-78ff-4dcb-a6a3-a5f0c348bd9f" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Quarterstaff" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="7061f489-4b13-4982-aa09-cf0ad961e221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="7061f489-4b13-4982-aa09-cf0ad961e75f" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Rapier" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="868217db-9dcb-414c-bb88-e321ab3e0221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="868217db-9dcb-414c-bb88-e321ab3e0349" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Scimitar" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="c5403c1d-f372-43e1-927a-9189e9e35221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c5403c1d-f372-43e1-927a-9189e9e3545d" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Shortbow" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="467ddb4f-6791-41fa-99f7-ee8620d63221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="467ddb4f-6791-41fa-99f7-ee8620d63bbe" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Shortsword" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="50d677ed-3a0e-40e9-8291-ee6823af5221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="50d677ed-3a0e-40e9-8291-ee6823af5672" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Sickle" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="d31af642-ae35-4f22-b7a6-100f3048b221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d31af642-ae35-4f22-b7a6-100f3048be33" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Sling" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="9f0f1c0e-012d-44e1-9b29-86c64d2bf221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9f0f1c0e-012d-44e1-9b29-86c64d2bf675" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Spear" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="d3807461-7c32-44ae-9aba-49ef4d3bf221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d3807461-7c32-44ae-9aba-49ef4d3bf35e" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Trident" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="6b17998d-2e79-405d-8b1f-beb536583221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="6b17998d-2e79-405d-8b1f-beb53658312f" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_Warhammer" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="a088775a-8f75-42f2-aa74-76a3f8070221" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a088775a-8f75-42f2-aa74-76a3f80701fa" />
+					<attribute id="Stats" type="FixedString" value="FRE_WPN_WarPick" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+
+				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="beast" />
 					<attribute id="CanClimbLadders" type="bool" value="False" />
 					<attribute id="CanFight" type="bool" value="True" />
