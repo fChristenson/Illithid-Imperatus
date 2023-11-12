@@ -679,7 +679,32 @@
 					<attribute id="Stats" type="FixedString" value="FRE_WPN_WarPick" />
 					<attribute id="Type" type="FixedString" value="item" />
 				</node>
-
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hfcf27111g636eg4906gb2d9g9c8154a153ad" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc81c5126g6e52g4e3fg8024g6a409097c876" version="2" />
+					<attribute id="Icon" type="FixedString" value="Item_MAG_ChargedLightning_LightningBlast_Amulet" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="7a4adc02-ddb8-412b-a4e2-c30d5b444bbd" />
+					<attribute id="Name" type="LSString" value="FRE_Psychic_Reservoir_Amulet" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c2bbb262-34ee-4483-a0f8-f72cb7794ff1" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="FRE_Psychic_Reservoir_Amulet" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="" version="0" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7b96246c-54ba-43ea-b01d-4e0b20ad35f1" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="beast" />
 					<attribute id="CanClimbLadders" type="bool" value="False" />

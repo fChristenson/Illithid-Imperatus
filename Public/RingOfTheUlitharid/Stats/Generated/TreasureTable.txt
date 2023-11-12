@@ -12,3 +12,5 @@ new subtable "1,1"
 object category "I_FRE_Tessadyle_robe",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_FRE_Tessadyle_boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FRE_Psychic_Reservoir_Amulet",1,0,0,0,0,0,0,0

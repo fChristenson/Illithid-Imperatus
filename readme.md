@@ -37,6 +37,8 @@ Items are found in the tutorial chest.
 - Tessadyle Boots
   - Freedom of movement
   - Longstrider
+- Psychic Reservoir
+  - Psychic Haste (Haste without Lethargy)
 
 ### Ulitharid powers
 
