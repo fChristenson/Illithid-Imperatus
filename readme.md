@@ -29,7 +29,7 @@ Items are found in the tutorial chest.
   - Inflict Wounds
   - Scorching ray
 - Tessadyle Robe
-  - Summon Weapon
+  - Summon Weapon (Summon base weapon with +1d4 Psychic damage. Lasts until long rest.)
   - Lesser Restoration
   - Gaseous Form
   - Cure Wounds
