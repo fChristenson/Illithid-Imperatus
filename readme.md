@@ -1,6 +1,6 @@
 # Ring of the Ulitharid
 
-Probably the best Mind Flayer experience, in the world.
+Probably the best Mind Flayer experience, *in the world*.
 
 ## Description
 
