@@ -29,6 +29,11 @@ Items are found in the tutorial chest.
   - Inflict Wounds
   - Scorching ray
 - Tessadyle Robe
+  - Summon Weapon
+  - Lesser Restoration
+  - Gaseous Form
+  - Cure Wounds
+  - Feather Fall
 - Tessadyle Boots
   - Freedom of movement
   - Longstrider
