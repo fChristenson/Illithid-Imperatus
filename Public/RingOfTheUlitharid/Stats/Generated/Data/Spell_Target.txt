@@ -816,7 +816,7 @@ data "SpellSchool" "Enchantment"
 data "TargetRadius" "18"
 data "AreaRadius" "6"
 data "SpellProperties" "Kill()"
-data "TargetConditions" "not Ally() and not Dead()
+data "TargetConditions" "not Ally() and not Dead() and not HasHPMoreThan(101)"
 data "Icon" "Spell_Enchantment_PowerWordKill"
 data "DisplayName" "h0a1f2340geed2g4465g8164g05ab1222ff54;2"
 data "Description" "hcc9d046cgf787g44d3ga63ege3d9808b27f8;7"
