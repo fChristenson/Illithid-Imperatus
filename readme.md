@@ -49,6 +49,7 @@ Items are found in the tutorial chest.
 - Blink
 - Detect Thoughts
 - Dimensional Door
+- Dismiss Thralls (Unsummon thralls and remove Ulitharid Mind Mastery)
 - Enhance Leap
 - Fly
 - Greater Black Hole (Black Hole with larger radius, no cooldown and greater force)
@@ -56,22 +57,29 @@ Items are found in the tutorial chest.
 - Greater Dissonant Whispers (AoE Dissonant Whispers)
 - Greater Hold Monster (AoE Hold Monster, works on undead)
 - Greater Phantasmal Killer (AoE Phantasmal Killer)
+- Greater Power Word Kill (AoE Power Word Kill)
+- Greater Ulitharid Mind Mastery (AoE Ulitharid Mind Mastery)
 - Guidance
+- Kill Thralls (Kill summoned thralls and thralls with Ulitharid Mind Mastery)
 - Knock
 - Mage hand
 - Misty Step
 - Nautiloid Bombardment (Nautiloid Strike, 5 targets)
+- Power Word Kill
 - Sanctuary
 - See Invisibility
 - Slow
 - Speak with animals
+- Stun (AoE Stun field)
 - Telekinesis
 - Teleport Target (Dimensional Door, 100m range on any target)
 - True strike
 - Ulitharid Beast Domination (Dominate beast without concentration)
 - Ulitharid Domination (Dominate person without concentration and no character type limitation)
+- Ulitharid Mind Mastery (Permanent Mind Mastery)
 - Ulitharid Telekinesis (Telekinesis without concentration)
-- Summon Thrall
+- Summon Mindless Thrall (AI controlled npc)
+- Summon Thrall (Player controlled npc)
   - Summon Bugbear
   - Summon Cranium Rat
   - Summon Drow Ranger
@@ -102,6 +110,7 @@ Items are found in the tutorial chest.
 
 ### Passives
 
+- Enemy Subjugation Aura (Stun enemy who gets within 6m)
 - Mind Flayer Darkvision (150m)
 
 ### References
