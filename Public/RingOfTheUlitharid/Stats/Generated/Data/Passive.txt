@@ -72,6 +72,7 @@ data "Boosts" "SpellSaveDC(1)"
 
 new entry "FRE_Stun_enemy_aura_Passive"
 type "PassiveData"
+data "Properties" "ToggledDefaultAddToHotbar;IsToggled;ToggledDefaultOn"
 data "DisplayName" "h4028d03dg7b41g4a77gb241g2ea3d2c760e4;3"
 data "Description" "hf986e3dbgea06g4065gbf5bga9f5394ab32e;4"
 data "ToggleOnFunctors" "ApplyStatus(FRE_Stun_enemy_aura, 100, -1)"
