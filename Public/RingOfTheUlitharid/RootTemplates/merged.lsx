@@ -633,6 +633,32 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h01fa2659gcdf5g4bc5ga9a7gb0957c8f086d" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="FRE_Tome_of_the_Creative_Creed" />
+					<attribute id="MapKey" type="FixedString" value="64bf13c3-a729-42b2-a349-1e61dc7e0bf6" />
+					<attribute id="Name" type="LSString" value="FRE_Tome_of_the_Creative_Creed" />
+					<attribute id="ParentTemplateId" type="FixedString" value="08bd26a0-9056-4668-bfd5-ba9de1420b12" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="11" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="BookId" type="FixedString" value="LOW_Golbraith_MindFlayerBiology" />
+											<attribute id="Conditions" type="LSString" value="" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="hd3fcb505g5269g4d73gad02ge0701c8dd663" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="hd375afedg6214g4404gaa36gf5129eca83c6" version="1" />
 					<attribute id="MapKey" type="FixedString" value="f391d67d-5be9-4bb2-8541-d995c19a2d63" />

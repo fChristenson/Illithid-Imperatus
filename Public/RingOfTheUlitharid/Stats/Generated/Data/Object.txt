@@ -1,0 +1,4 @@
+new entry "FRE_Tome_of_the_Creative_Creed"
+type "Object"
+using "OBJ_Book"
+data "RootTemplate" "64bf13c3-a729-42b2-a349-1e61dc7e0bf6"
