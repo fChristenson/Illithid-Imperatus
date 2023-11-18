@@ -4,7 +4,6 @@ using "WPN_Quarterstaff_2"
 data "RootTemplate" "130bf13d-0a1d-4419-959f-0b2e5fab75ad"
 data "ValueOverride" "1"
 data "Rarity" "Legendary"
-data "Unique" "1"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "Boosts" UnlockSpell(FRE_Target_Greater_Teleport);UnlockSpell(FRE_Shout_Thoughts_Of_Ilsensine)
 data "PassivesOnEquip" "MAG_ArcaneEnchantment_Lesser_Passive;MAG_END_PsychicRetaliation_Passive"
