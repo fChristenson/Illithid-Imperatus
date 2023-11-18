@@ -634,23 +634,71 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="h01fa2659gcdf5g4bc5ga9a7gb0957c8f086d" version="2" />
+					<attribute id="Description" type="TranslatedString" handle="h1af63d87ged61g4d72gbea2ge2312a303638" version="1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Stats" type="FixedString" value="FRE_Tome_of_the_Creative_Creed" />
 					<attribute id="MapKey" type="FixedString" value="64bf13c3-a729-42b2-a349-1e61dc7e0bf6" />
 					<attribute id="Name" type="LSString" value="FRE_Tome_of_the_Creative_Creed" />
-					<attribute id="ParentTemplateId" type="FixedString" value="08bd26a0-9056-4668-bfd5-ba9de1420b12" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="3ebac82d-92db-c8a9-ab6a-3be3b287edc5" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="VisualTemplate" type="FixedString" value="00401892-8929-b015-3544-9030a795f6a9" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<attribute id="TreasureOnDestroy" type="bool" value="False" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ExamineRotation" type="fvec3" value="65 180 0" />
+					<attribute id="Icon" type="FixedString" value="Item_BOOK_Wizards_Tome_Ornate_D" />
 					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.18436" />
+									<attribute id="Max" type="fvec3" value="0.1625808 0.08859131 0.201254" />
+									<attribute id="Min" type="fvec3" value="-0.1397202 -7.82907E-05 -0.201254" />
+									<attribute id="Radius" type="float" value="0.312969" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.18436" />
+									<attribute id="Max" type="fvec3" value="0.2680835 0.111889 0.150695" />
+									<attribute id="Min" type="fvec3" value="-0.2680835 -0.0410083 -0.1522975" />
+									<attribute id="Radius" type="float" value="0.1564845" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.18436" />
+									<attribute id="Max" type="fvec3" value="0.1625808 0.08859131 0.201254" />
+									<attribute id="Min" type="fvec3" value="-0.1397202 -7.82907E-05 -0.201254" />
+									<attribute id="Radius" type="float" value="0.312969" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
 						<node id="OnUsePeaceActions">
 							<children>
 								<node id="Action">
-									<attribute id="ActionType" type="int32" value="11" />
+									<attribute id="ActionType" type="int32" value="12" />
 									<children>
 										<node id="Attributes">
 											<attribute id="Animation" type="FixedString" value="" />
-											<attribute id="BookId" type="FixedString" value="LOW_Golbraith_MindFlayerBiology" />
 											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="SkillID" type="FixedString" value="FRE_Target_Tome_Of_The_Creative_Creed_Container" />
+											<attribute id="Consume" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="SpellId" type="FixedString" value="FRE_Target_Tome_Of_The_Creative_Creed_Container" />
+											<attribute id="Consume" type="bool" value="False" />
 										</node>
 									</children>
 								</node>
