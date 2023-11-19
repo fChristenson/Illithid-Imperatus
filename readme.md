@@ -37,6 +37,15 @@ Items are found in the tutorial chest.
 - Tessadyle Boots
   - Freedom of movement
   - Longstrider
+- Tome of the Creative Creed
+  - Psionic Seal: Heal
+  - Psionic Seal: Unstoppable
+  - Psionic Seal: Fire Immunity
+  - Psionic Seal: Poison Immunity
+  - Psionic Seal: Knock
+  - Psionic Seal: Haste
+  - Psionic Seal: See Through Illusion
+  - Psionic Seal: Reflect Projectile
 - Psychic Reservoir
   - Psychic Haste (Haste without Lethargy)
 
@@ -52,6 +61,8 @@ Items are found in the tutorial chest.
 - Dismiss Thralls (Unsummon thralls and remove Ulitharid Mind Mastery)
 - Enhance Leap
 - Fly
+- Force Cone (Cone shaped Repulsor)
+- Force Push (Beam shaped Repulsor)
 - Greater Black Hole (Black Hole with larger radius, no cooldown and greater force)
 - Greater Crown Of Madness (AoE Crown Of Madness and no character type limitation)
 - Greater Dissonant Whispers (AoE Dissonant Whispers)
@@ -66,6 +77,7 @@ Items are found in the tutorial chest.
 - Misty Step
 - Nautiloid Bombardment (Nautiloid Strike, 5 targets)
 - Power Word Kill
+- Psionic Burst (Repulsor that can be placed)
 - Sanctuary
 - See Invisibility
 - Slow
