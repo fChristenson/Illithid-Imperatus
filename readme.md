@@ -38,14 +38,14 @@ Items are found in the tutorial chest.
   - Freedom of movement
   - Longstrider
 - Tome of the Creative Creed
-  - Psionic Seal: Heal
-  - Psionic Seal: Unstoppable
   - Psionic Seal: Fire Immunity
-  - Psionic Seal: Poison Immunity
-  - Psionic Seal: Knock
   - Psionic Seal: Haste
-  - Psionic Seal: See Through Illusion
+  - Psionic Seal: Heal
+  - Psionic Seal: Knock
+  - Psionic Seal: Poison Immunity
   - Psionic Seal: Reflect Projectile
+  - Psionic Seal: See Through Illusion
+  - Psionic Seal: Unstoppable
 - Psychic Reservoir
   - Psychic Haste (Haste without Lethargy)
 
