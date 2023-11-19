@@ -14,11 +14,12 @@ Items are found in the tutorial chest.
 
 - Ring of the Ulitharid
   - Ceremorphosis (Turn in to endgame Mind Flayer)
-  - Ulitharid Power Infusion (Gain all Mind Flayer and Ulitharid powers. Returns player to original form if using Mind Flayer form.)
-  - Ulitharid Ceremorphosis (Ceremorphosis with Ulitharid spells)
   - Emperor Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Emperor model)
   - Gale Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Gale model)
+  - Mind Flayer Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Mind Flayer model)
   - Orpheus Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Orpheus model)
+  - Ulitharid Ceremorphosis (Ceremorphosis with Ulitharid spells)
+  - Ulitharid Power Infusion (Gain all Mind Flayer and Ulitharid powers. Returns player to original form if using Mind Flayer form.)
 - Staff of Ilsensine
   - Greater Teleportation (100m)
   - Thoughts of Ilsensine (Mind Blast AoE)
