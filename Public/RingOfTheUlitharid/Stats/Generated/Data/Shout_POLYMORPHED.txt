@@ -29,3 +29,8 @@ new entry "FRE_ORPHEUS_FORM"
 type "StatusData"
 using "FRE_ULITHARID_FORM"
 data "TemplateID" "ab49d851-bfdd-469f-ba8e-04b4a4b1167f"
+
+new entry "FRE_MIND_FLAYER_FORM"
+type "StatusData"
+using "FRE_ULITHARID_FORM"
+data "TemplateID" "ae6e38f3-79aa-4258-b3fd-9a7a1d0c1370"

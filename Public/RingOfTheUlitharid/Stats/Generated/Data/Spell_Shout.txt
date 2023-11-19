@@ -27,6 +27,12 @@ data "Description" "h0bba2202g8549g4c76g8b2ag6e2815aa3669;7"
 data "SpellProperties" "ApplyStatus(FRE_ULITHARID_FORM,100,-1)"
 data "TooltipStatusApply" "ApplyStatus(FRE_ULITHARID_FORM,100,-1)"
 
+new entry "FRE_Shout_MindFlayerForm"
+using "FRE_Shout_UlitharidForm"
+data "DisplayName" "h058ad937g7762g4addg914eg2807c7490789;1"
+data "SpellProperties" "ApplyStatus(FRE_MIND_FLAYER_FORM,100,-1)"
+data "TooltipStatusApply" "ApplyStatus(FRE_MIND_FLAYER_FORM,100,-1)"
+
 new entry "FRE_Shout_EmperorForm"
 using "FRE_Shout_UlitharidForm"
 data "DisplayName" "h0f3805ebg7f48g4298g96c8g41d604c1aee2;1"

@@ -22,6 +22,22 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="mindflayer" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b" />
+					<attribute id="Icon" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b-_(Icon_Mindflayer)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="8" />
+					<attribute id="MapKey" type="FixedString" value="ae6e38f3-79aa-4258-b3fd-9a7a1d0c1370" />
+					<attribute id="Name" type="LSString" value="Mindflayer" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e4da9179-d4e9-4e3d-af1b-b2c287732e18" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Archetype" type="FixedString" value="mindflayer" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="785f27dd-1c2a-07c7-ac2f-6a679d4e850e" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Mindflayer_Emperor" />
 					<attribute id="Icon" type="FixedString" value="785f27dd-1c2a-07c7-ac2f-6a679d4e850e-_(Icon_Mindflayer_Emperor)" />
