@@ -5,6 +5,116 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
+					<attribute id="CanJoinCombat" type="bool" value="False" />
+					<attribute id="Description" type="TranslatedString" handle="h1fa0b285g5345g4ed7g8653g096e1bbf0930" version="4" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h1e0aba35g2a7cg459bga205g8373f276db7b" version="1" />
+					<attribute id="DropSound" type="FixedString" value="299dcdc3-c9c9-5ba3-2e87-60800daf6ef6" />
+					<attribute id="Icon" type="FixedString" value="Item_CONS_Oil_Of_Sharpness" />
+					<attribute id="InventoryMoveSound" type="FixedString" value="299dcdc3-c9c9-5ba3-2e87-60800daf6ef6" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="fb90759e-fb53-4293-8eb5-823a5d13bb00" />
+					<attribute id="Name" type="LSString" value="FRE_OBJ_Illithid_Mucous" />
+					<attribute id="OnUseDescription" type="TranslatedString" handle="he0b9fe7dg5d4dg4a39ga6b2g4137eb529fd9" version="1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="19a6fbb0-7123-460b-a4a8-643bb6cab5b5" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="d6c597bf-8c4e-5d91-1da7-8294ffda3d92" />
+					<attribute id="PickupSound" type="FixedString" value="c07d7d7b-78c1-3173-4250-df729da5276a" />
+					<attribute id="Stats" type="FixedString" value="FRE_OBJ_Illithid_Mucous" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="he28ca024g689cg47a5g9cc2g99d45081148a" version="1" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="UseSound" type="FixedString" value="10a8b532-de0b-616e-ffc5-006fcefa8d05" />
+					<attribute id="VisualTemplate" type="FixedString" value="b4cd5dae-3da1-e428-9e36-2c3b39d01b4e" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<attribute id="maxStackAmount" type="int32" value="100" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.418184" />
+									<attribute id="Max" type="fvec3" value="0.09359019 0.2231871 0.09380735" />
+									<attribute id="Min" type="fvec3" value="-0.09359018 -1.490116E-08 -0.09380735" />
+									<attribute id="Radius" type="float" value="0.0570735" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.418184" />
+									<attribute id="Max" type="fvec3" value="0.09359019 0.2231871 0.09380735" />
+									<attribute id="Min" type="fvec3" value="-0.09359018 -1.490116E-08 -0.09380735" />
+									<attribute id="Radius" type="float" value="0.114147" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.418184" />
+									<attribute id="Max" type="fvec3" value="0.09359019 0.2231871 0.09380735" />
+									<attribute id="Min" type="fvec3" value="-0.09359018 -1.490116E-08 -0.09380735" />
+									<attribute id="Radius" type="float" value="0.114147" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="5" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="ExplodeFX" type="FixedString" value="dc4da4bc-ff84-f66a-aaff-02fb9547a7c7" />
+											<attribute id="FadeOutDelay" type="float" value="0" />
+											<attribute id="FadeOutFX" type="FixedString" value="" />
+											<attribute id="SnapToGround" type="bool" value="True" />
+											<attribute id="TargetItemState" type="uint8" value="0" />
+											<attribute id="VisualWithDynamicPhysics" type="FixedString" value="" />
+											<attribute id="templateAfterDestruction" type="FixedString" value="" />
+											<attribute id="visualDestruction" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="IsHiddenStatus" type="bool" value="False" />
+											<attribute id="StatsId" type="FixedString" value="FRE_MIND_FLAYER_MUCOUS" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="mindflayer" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b" />
 					<attribute id="Icon" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b-_(Icon_Mindflayer)" />
