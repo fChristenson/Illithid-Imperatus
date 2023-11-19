@@ -39,6 +39,7 @@ Items are found in the tutorial chest.
   - Freedom of movement
   - Longstrider
 - Tome of the Creative Creed
+  - Create Mind Flayer Mucous (Weapon Oil)
   - Psionic Seal: Fire Immunity
   - Psionic Seal: Haste
   - Psionic Seal: Heal
