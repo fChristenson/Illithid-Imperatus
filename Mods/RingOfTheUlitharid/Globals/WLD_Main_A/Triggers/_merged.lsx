@@ -8,7 +8,7 @@
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="CTY_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="9807867e-e590-48af-be90-ef5525100de5" />
-					<attribute id="Name" type="LSString" value="FRE_Jaheiras_House" />
+					<attribute id="Name" type="LSString" value="FRE_Trigger_1" />
 					<attribute id="IsGlobal" type="bool" value="True" />
 					<attribute id="TemplateName" type="FixedString" value="15111ce4-12fc-4757-bb81-7c2c212e141a" />
 					<attribute id="Type" type="FixedString" value="trigger" />
@@ -23,7 +23,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="9d320577-b1b2-405a-89a3-726ecbd77f71" />
-					<attribute id="Name" type="LSString" value="FRE_House_Of_Grief" />
+					<attribute id="Name" type="LSString" value="FRE_Trigger_2" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="CTY_Main_A" />
 					<attribute id="IsGlobal" type="bool" value="True" />
@@ -40,7 +40,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="46a7e58a-a731-4ae1-8582-c22f102d1aa1" />
-					<attribute id="Name" type="LSString" value="FRE_Devils_Fee" />
+					<attribute id="Name" type="LSString" value="FRE_Trigger_3" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="CTY_Main_A" />
 					<attribute id="IsGlobal" type="bool" value="True" />
@@ -57,7 +57,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="c946dad1-c4dc-41b8-9e03-51d7aa84ca3c" />
-					<attribute id="Name" type="LSString" value="FRE_Counting_House" />
+					<attribute id="Name" type="LSString" value="FRE_Trigger_4" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="CTY_Main_A" />
 					<attribute id="IsGlobal" type="bool" value="True" />
@@ -74,7 +74,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="495c140b-ccc2-4859-93e1-821625b9d4f9" />
-					<attribute id="Name" type="LSString" value="FRE_ElfsongTavern" />
+					<attribute id="Name" type="LSString" value="FRE_Trigger_5" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="CTY_Main_A" />
 					<attribute id="IsGlobal" type="bool" value="True" />
@@ -91,7 +91,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="0ee28869-c95a-4634-839c-24066db617e5" />
-					<attribute id="Name" type="LSString" value="FRE_WaterQuueensHouse" />
+					<attribute id="Name" type="LSString" value="FRE_Trigger_6" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="CTY_Main_A" />
 					<attribute id="IsGlobal" type="bool" value="True" />
@@ -108,7 +108,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="1b653ca0-b798-4d0d-bc1c-256a97d5c289" />
-					<attribute id="Name" type="LSString" value="FRE_FlymmCargo" />
+					<attribute id="Name" type="LSString" value="FRE_Trigger_7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="CTY_Main_A" />
 					<attribute id="IsGlobal" type="bool" value="True" />
@@ -118,6 +118,23 @@
 					<children>
 						<node id="Transform">
 							<attribute id="Position" type="fvec3" value="-171.000000 10.79195 -131.000" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="49ef7467-e690-4e4b-9360-b4cdfe0d5d65" />
+					<attribute id="Name" type="LSString" value="FRE_Trigger_8" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="BGO_Main_A" />
+					<attribute id="IsGlobal" type="bool" value="True" />
+					<attribute id="TemplateName" type="FixedString" value="15111ce4-12fc-4757-bb81-7c2c212e141a" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-15.000000 10.79195 -76.000" />
 							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
 							<attribute id="Scale" type="float" value="1" />
 						</node>
