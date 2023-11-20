@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="CTY_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="9807867e-e590-48af-be90-ef5525100de5" />
+					<attribute id="Name" type="LSString" value="S_Teleport_FireworksBassement_Door_Exterior" />
+					<attribute id="IsGlobal" type="bool" value="True" />
+					<attribute id="TemplateName" type="FixedString" value="15111ce4-12fc-4757-bb81-7c2c212e141a" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-209.406573 10.79195 -62.041" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
