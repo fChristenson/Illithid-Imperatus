@@ -834,13 +834,13 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="Description" type="TranslatedString" handle="hb524e01cgec28g4e81ga312g3cdc939ddcce" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hbe97e4c5gcbe6g4445ga4c7g80ed8f8e31bc" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h508b6354g5465g4f6fg92c0g0ec67d2a7c7c" version="1" />
 					<attribute id="DropSound" type="FixedString" value="1137349e-191e-cf1b-a977-dfec58897122" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_MF_Rune_Tablet_A" />
 					<attribute id="ImpactSound" type="FixedString" value="ba06bceb-c096-05cd-5be1-b9dfb08e55bd" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="86d63e81-b76e-4ce5-ae02-374c2141073b" />
-					<attribute id="Name" type="LSString" value="LOOT_MF_Rune_Tablet_D" />
+					<attribute id="Name" type="LSString" value="FRE_Beacon_jaheiras_house" />
 					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="9b03a466-e47a-6df2-80c4-2629bca30032" />
 					<attribute id="PickupSound" type="FixedString" value="45a0a7d3-318a-8bf9-bfb9-5c0c1215f761" />
@@ -857,6 +857,27 @@
 									<children>
 										<node id="Attributes">
 											<attribute id="Target" type="FixedString" value="9807867e-e590-48af-be90-ef5525100de5" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="he7deb304g5922g40cbg8ff6g78af53195296" version="1" />
+					<attribute id="MapKey" type="FixedString" value="0336c232-7eae-4474-b83a-a2f0917bdff3" />
+					<attribute id="Name" type="LSString" value="FRE_Beacon_House_of_grief" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86d63e81-b76e-4ce5-ae02-374c2141073b" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="3" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Target" type="FixedString" value="9d320577-b1b2-405a-89a3-726ecbd77f71" />
 										</node>
 									</children>
 								</node>
