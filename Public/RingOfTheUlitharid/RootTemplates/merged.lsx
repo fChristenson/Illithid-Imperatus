@@ -833,6 +833,38 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hb524e01cgec28g4e81ga312g3cdc939ddcce" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hbe97e4c5gcbe6g4445ga4c7g80ed8f8e31bc" version="1" />
+					<attribute id="DropSound" type="FixedString" value="1137349e-191e-cf1b-a977-dfec58897122" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_MF_Rune_Tablet_A" />
+					<attribute id="ImpactSound" type="FixedString" value="ba06bceb-c096-05cd-5be1-b9dfb08e55bd" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="86d63e81-b76e-4ce5-ae02-374c2141073b" />
+					<attribute id="Name" type="LSString" value="LOOT_MF_Rune_Tablet_D" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="9b03a466-e47a-6df2-80c4-2629bca30032" />
+					<attribute id="PickupSound" type="FixedString" value="45a0a7d3-318a-8bf9-bfb9-5c0c1215f761" />
+					<attribute id="VisualTemplate" type="FixedString" value="efeb2c02-466e-ebe9-d201-f112abee6188" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<attribute id="TreasureOnDestroy" type="bool" value="False" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="3" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Target" type="FixedString" value="9135899d-88fc-4fa5-96d4-eb5ea90a8d09" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="hd3fcb505g5269g4d73gad02ge0701c8dd663" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="hd375afedg6214g4404gaa36gf5129eca83c6" version="1" />
 					<attribute id="MapKey" type="FixedString" value="f391d67d-5be9-4bb2-8541-d995c19a2d63" />

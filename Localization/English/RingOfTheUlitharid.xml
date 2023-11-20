@@ -150,5 +150,9 @@
   <content contentuid="h1e0aba35g2a7cg459bga205g8373f276db7b" version="1">Mind Flayer Mucous</content>
   <content contentuid="h1fa0b285g5345g4ed7g8653g096e1bbf0930" version="1">Contains psionic properties that can enhance weapon damage.</content>
   <content contentuid="h15232c85g8fceg4dccga93egf73a4137846d" version="1">Create Mind Flayer Mucous</content>
+  <content contentuid="h2c066d95g926fg46a6gbe3fg4cd5b27e95cc" version="1">Create Portal Beacon</content>
+  <content contentuid="h11503f77gdf69g4b42gaaedgfeadf9273cb4" version="1">Create a Portal Beacon shard.</content>
+  <content contentuid="hbe97e4c5gcbe6g4445ga4c7g80ed8f8e31bc" version="1">Portal Beacon</content>
+  <content contentuid="hb524e01cgec28g4e81ga312g3cdc939ddcce" version="1">The shard allows it's user to teleport to the inscribed destination instantly.</content>
 </contentList>
 
