@@ -840,7 +840,7 @@
 					<attribute id="ImpactSound" type="FixedString" value="ba06bceb-c096-05cd-5be1-b9dfb08e55bd" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="86d63e81-b76e-4ce5-ae02-374c2141073b" />
-					<attribute id="Name" type="LSString" value="FRE_Beacon_jaheiras_house" />
+					<attribute id="Name" type="LSString" value="FRE_Shard_jaheiras_house" />
 					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="9b03a466-e47a-6df2-80c4-2629bca30032" />
 					<attribute id="PickupSound" type="FixedString" value="45a0a7d3-318a-8bf9-bfb9-5c0c1215f761" />
@@ -867,7 +867,7 @@
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="he7deb304g5922g40cbg8ff6g78af53195296" version="1" />
 					<attribute id="MapKey" type="FixedString" value="0336c232-7eae-4474-b83a-a2f0917bdff3" />
-					<attribute id="Name" type="LSString" value="FRE_Beacon_House_of_grief" />
+					<attribute id="Name" type="LSString" value="FRE_Shard_House_of_grief" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="ParentTemplateId" type="FixedString" value="86d63e81-b76e-4ce5-ae02-374c2141073b" />
 					<children>
