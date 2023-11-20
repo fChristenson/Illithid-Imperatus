@@ -907,6 +907,28 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h287fdf5fga132g45bdgab3cg5dc2d2819778" version="1" />
+					<attribute id="MapKey" type="FixedString" value="b0f59fe5-4d38-4b95-9352-6bb0e8b2f8e4" />
+					<attribute id="Name" type="LSString" value="FRE_Shard_House_of_grief" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86d63e81-b76e-4ce5-ae02-374c2141073b" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="3" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Target" type="FixedString" value="c946dad1-c4dc-41b8-9e03-51d7aa84ca3c" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
+				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="hd3fcb505g5269g4d73gad02ge0701c8dd663" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="hd375afedg6214g4404gaa36gf5129eca83c6" version="1" />
 					<attribute id="MapKey" type="FixedString" value="f391d67d-5be9-4bb2-8541-d995c19a2d63" />
