@@ -89,6 +89,23 @@
 						</node>
 					</children>
 				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="0ee28869-c95a-4634-839c-24066db617e5" />
+					<attribute id="Name" type="LSString" value="FRE_WaterQuueensHouse" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="CTY_Main_A" />
+					<attribute id="IsGlobal" type="bool" value="True" />
+					<attribute id="TemplateName" type="FixedString" value="15111ce4-12fc-4757-bb81-7c2c212e141a" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-229.000000 10.79195 -191.000" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>

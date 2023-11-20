@@ -949,6 +949,27 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hbfb8758agdfb8g4c3bg8464gd7572bb70083" version="1" />
+					<attribute id="MapKey" type="FixedString" value="dc19a124-78b7-44ab-aba4-e3b2f54e1a41" />
+					<attribute id="Name" type="LSString" value="FRE_Shard_WaterQueensHouse" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86d63e81-b76e-4ce5-ae02-374c2141073b" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="3" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Target" type="FixedString" value="0ee28869-c95a-4634-839c-24066db617e5" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="hd3fcb505g5269g4d73gad02ge0701c8dd663" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="hd375afedg6214g4404gaa36gf5129eca83c6" version="1" />
 					<attribute id="MapKey" type="FixedString" value="f391d67d-5be9-4bb2-8541-d995c19a2d63" />
