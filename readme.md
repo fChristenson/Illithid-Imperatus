@@ -40,6 +40,27 @@ Items are found in the tutorial chest.
   - Longstrider
 - Tome of the Creative Creed
   - Create Mind Flayer Mucous (Weapon Oil)
+  - Portal Shards (Warning! Using a shard on a map other than the one with the location may cause unexpected issues.)
+    - Portal Shard: Canduhallow's Tombstones
+    - Portal Shard: Chapel Ruins
+    - Portal Shard: Circus of The Last Days
+    - Portal Shard: Counting House
+    - Portal Shard: Danthelon's Dancing Axe
+    - Portal Shard: Devil's Fee
+    - Portal Shard: Elfsong Tavern
+    - Portal Shard: Emerald Grove
+    - Portal Shard: Flymm Cargo
+    - Portal Shard: House of Grief
+    - Portal Shard: House of Healing
+    - Portal Shard: Jaheira's House
+    - Portal Shard: Mountain Pass exit
+    - Portal Shard: Open Hand Temple
+    - Portal Shard: Shadow Cursed Lands mountain entrance
+    - Portal Shard: Shadow Cursed Lands Underdark entrance
+    - Portal Shard: The Risen Road Bridge
+    - Portal Shard: Thieves Guild
+    - Portal Shard: Underdark exit
+    - Portal Shard: Water Queen's House
   - Psionic Seal: Fire Immunity
   - Psionic Seal: Haste
   - Psionic Seal: Heal
