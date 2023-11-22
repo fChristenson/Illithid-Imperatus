@@ -141,7 +141,6 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="e4da9179-d4e9-4e3d-af1b-b2c287732e18" />
 					<attribute id="ReadinessFlags" type="uint32" value="12" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="Scale" type="float" value="0.8" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LocomotionParams" />
@@ -158,7 +157,6 @@
 					<attribute id="Name" type="LSString" value="FRE_Mindflayer_Emperor" />
 					<attribute id="ParentTemplateId" type="FixedString" value="e4da9179-d4e9-4e3d-af1b-b2c287732e18" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="Scale" type="float" value="0.8" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LocomotionParams" />
