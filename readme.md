@@ -146,6 +146,9 @@ Items are found in the tutorial chest.
 
 ### Passives
 
+- Aura of Fear (3m)
+- Aura of Fright (3m)
+- Aura of Terror (3m)
 - Enemy Subjugation Aura (Stun enemy who gets within 6m)
 - Mind Flayer Darkvision (150m)
 
