@@ -1159,6 +1159,111 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="ha7549610g2269g4407gad8eg02bc6f09f5e3" version="1" />
+					<attribute id="MapKey" type="FixedString" value="0ab90535-c61b-49f3-8da0-b39be472c4fa" />
+					<attribute id="Name" type="LSString" value="FRE_Shard_DenthelonsDancingAxe" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86d63e81-b76e-4ce5-ae02-374c2141073b" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="3" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Target" type="FixedString" value="afb93352-d8e8-4e91-ba1b-f64d11ffebcd" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h0409f9e1g14d1g4569gb6e4ga9fb69732ac6" version="1" />
+					<attribute id="MapKey" type="FixedString" value="d503dbd9-43e3-4def-9f82-78ab267559eb" />
+					<attribute id="Name" type="LSString" value="FRE_Shard_DenthelonsDancingAxe" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86d63e81-b76e-4ce5-ae02-374c2141073b" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="3" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Target" type="FixedString" value="682a98c9-0ad2-4be2-b92f-3533dda76071" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h55df5f9cgc5c1g4bd7gb344ga1368eeebcdd" version="1" />
+					<attribute id="MapKey" type="FixedString" value="88b2bd58-e6c6-4c81-ab1a-74a9ec84fd0e" />
+					<attribute id="Name" type="LSString" value="FRE_Shard_DenthelonsDancingAxe" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86d63e81-b76e-4ce5-ae02-374c2141073b" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="3" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Target" type="FixedString" value="45a90e6d-ee5f-4b0b-8bdd-fed0fbae11ce" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h9cff53e7gdbf2g4c19g9af4g937f58ad23da" version="1" />
+					<attribute id="MapKey" type="FixedString" value="516b407b-d392-40b6-a6d4-7572f8940cee" />
+					<attribute id="Name" type="LSString" value="FRE_Shard_DenthelonsDancingAxe" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86d63e81-b76e-4ce5-ae02-374c2141073b" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="3" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Target" type="FixedString" value="8c28b5f5-135b-4451-88d8-5e315b7e5dd9" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hc08b45bfgf4b3g4cc1g8982g9e0bdd0a3901" version="1" />
+					<attribute id="MapKey" type="FixedString" value="3b4d3370-fd9d-4244-aac7-4ce03daa3f3f" />
+					<attribute id="Name" type="LSString" value="FRE_Shard_DenthelonsDancingAxe" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86d63e81-b76e-4ce5-ae02-374c2141073b" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="3" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Target" type="FixedString" value="c8e58964-fd56-4c49-a57e-754512e82d32" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="hd3fcb505g5269g4d73gad02ge0701c8dd663" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="hd375afedg6214g4404gaa36gf5129eca83c6" version="1" />
 					<attribute id="MapKey" type="FixedString" value="f391d67d-5be9-4bb2-8541-d995c19a2d63" />
