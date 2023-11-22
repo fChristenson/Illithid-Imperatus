@@ -1350,7 +1350,7 @@
 						<node id="StatusList">
 							<children>
 								<node id="Status">
-									<attribute id="Object" type="FixedString" value="AURA_OF_HATE" />
+									<attribute id="Object" type="FixedString" value="FRE_AURA_OF_HATE" />
 								</node>
 							</children>
 						</node>
