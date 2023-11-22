@@ -40,6 +40,7 @@ Items are found in the tutorial chest.
   - Longstrider
 - Tome of the Creative Creed
   - Create Mind Flayer Mucous (Weapon Oil)
+  - Create Supplies (Creates up to 4 Supply bags. 80 supplies per bag.)
   - Portal Shards (Warning! Using a shard on a map other than the one with the location may cause unexpected issues.)
     - Portal Shard: Canduhallow's Tombstones
     - Portal Shard: Chapel Ruins
