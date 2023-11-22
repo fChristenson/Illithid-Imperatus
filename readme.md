@@ -149,6 +149,7 @@ Items are found in the tutorial chest.
 - Aura of Confusion (3m)
 - Aura of Fear (3m)
 - Aura of Fright (3m)
+- Aura of Repulsion (3m)
 - Aura of Terror (3m)
 - Enemy Subjugation Aura (Stun enemy who gets within 6m)
 - Mind Flayer Darkvision (150m)
