@@ -146,6 +146,7 @@ Items are found in the tutorial chest.
 
 ### Passives
 
+- Aura of Charm (6m)
 - Aura of Confusion (3m)
 - Aura of Fear (3m)
 - Aura of Fright (3m)
