@@ -1264,6 +1264,117 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h57d5f0bage1d3g477cga8fcgcc89e8f8a062" version="1" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEM_Onyx_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="f0b921ef-f5b6-4891-91a4-852818a969af" />
+					<attribute id="Name" type="LSString" value="FRE_LOOT_GEM_Onyx_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="93380b9c-cf4f-413d-99a7-7e2897cdb94e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="a2c0b0d7-c259-b88c-0df3-6eed90d017ed" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="FRE_OBJ_Onyx" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="da0eafad-da1d-600c-c288-fcd9d978e895" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855913" />
+					<attribute id="maxStackAmount" type="int32" value="100" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1" />
+									<attribute id="Max" type="fvec3" value="0.08959663 0.1185104 0.1285697" />
+									<attribute id="Min" type="fvec3" value="-0.0895966 -0.001500592 -0.1281792" />
+									<attribute id="Radius" type="float" value="0.433013" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1" />
+									<attribute id="Max" type="fvec3" value="0.08959663 0.1185104 0.1285697" />
+									<attribute id="Min" type="fvec3" value="-0.0895966 -0.001500592 -0.1281792" />
+									<attribute id="Radius" type="float" value="0.2165065" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1" />
+									<attribute id="Max" type="fvec3" value="0.08959663 0.1185104 0.1285697" />
+									<attribute id="Min" type="fvec3" value="-0.0895966 -0.001500592 -0.1281792" />
+									<attribute id="Radius" type="float" value="0.433013" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster">
+							<attribute id="GameMasterSpawnSection" type="int32" value="13" />
+							<attribute id="GameMasterSpawnSubSection" type="TranslatedString" handle="hbfaef520g863bg430egbfe8g62d23eb3e330" version="1" />
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="AURA_OF_COURAGE" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hdb6a68bcg7785g459egaad0gcbb1c1251f85" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="82e57fe7-f7fa-4c22-bf6e-899e0206c466" />
+					<attribute id="Name" type="LSString" value="FRE_LOOT_GEM_Onyx_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f0b921ef-f5b6-4891-91a4-852818a969af" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855913" />
+					<children>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="AURA_OF_DEVOTION" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="he4a22ec0gf3dcg46c8g9341g8b409b0ce659" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2ad4d0f0-73b4-4409-b3e4-86a7ea42ddd9" />
+					<attribute id="Name" type="LSString" value="FRE_LOOT_GEM_Onyx_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f0b921ef-f5b6-4891-91a4-852818a969af" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855913" />
+					<children>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="AURA_OF_HATE" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h5a2b49a1g5272g43cbgbe48ge8817d2d07e1" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2d5ab830-51f5-4924-a7fa-f53a9f1fe24f" />
+					<attribute id="Name" type="LSString" value="FRE_LOOT_GEM_Onyx_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f0b921ef-f5b6-4891-91a4-852818a969af" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855913" />
+					<children>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="AURA_OF_TERROR" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="hd3fcb505g5269g4d73gad02ge0701c8dd663" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="hd375afedg6214g4404gaa36gf5129eca83c6" version="1" />
 					<attribute id="MapKey" type="FixedString" value="f391d67d-5be9-4bb2-8541-d995c19a2d63" />
