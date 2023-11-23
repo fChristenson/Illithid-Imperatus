@@ -1,3 +1,4 @@
 *.lsf
 *.loca
 dist/
+*.zip
