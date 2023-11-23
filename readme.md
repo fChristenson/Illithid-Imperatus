@@ -39,9 +39,15 @@ Items are found in the tutorial chest.
   - Freedom of movement
   - Longstrider
 - Tome of the Creative Creed
+  - Caustic Bulb
   - Create Mind Flayer Mucous (Weapon Oil)
-  - Create Supplies (Creates up to 4 Supply bags. 80 supplies per bag.)
+  - Create Supplies (Creates a 80 supply point bag in inventory.)
   - Gravity stone (Bloodstone with Black Hole aura. 6m pull)
+  - Greater Caustic Bulb
+  - Greater Spiked Bulb
+  - Greater Void Bulb
+  - Spiked Bulb
+  - Void Bulb
   - Portal Shards (Warning! Using a shard on a map other than the one with the location may cause unexpected issues.)
     - Portal Shard: Canduhallow's Tombstones
     - Portal Shard: Chapel Ruins
