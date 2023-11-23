@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="319"/>
+    <region id="ItemWallTemplates">
+        <node id="root">
+            <children>
+                <node id="ItemWallTemplates">
+                    <attribute id="HighLeft" type="LSString" value="FRE_WallOfRepulsion_9d6481fa-4523-41d7-9618-78d7d8316a97"/>
+                    <attribute id="HighMiddle" type="LSString" value="FRE_WallOfRepulsion_9d6481fa-4523-41d7-9618-78d7d8316a97"/>
+                    <attribute id="HighRight" type="LSString" value="FRE_WallOfRepulsion_9d6481fa-4523-41d7-9618-78d7d8316a97"/>
+                    <attribute id="LowLeft" type="LSString" value="FRE_WallOfRepulsion_9d6481fa-4523-41d7-9618-78d7d8316a97"/>
+                    <attribute id="LowMiddle" type="LSString" value="FRE_WallOfRepulsion_9d6481fa-4523-41d7-9618-78d7d8316a97"/>
+                    <attribute id="LowRight" type="LSString" value="FRE_WallOfRepulsion_9d6481fa-4523-41d7-9618-78d7d8316a97"/>
+                    <attribute id="Name" type="LSString" value="FRE_WallOfRepulsion"/>
+                    <attribute id="Padding" type="float" value="2.0"/>
+                    <attribute id="UUID" type="guid" value="00834057-7a19-4b51-a3ee-4cf486ede11d"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
