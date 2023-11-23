@@ -41,6 +41,7 @@ Items are found in the tutorial chest.
 - Tome of the Creative Creed
   - Create Mind Flayer Mucous (Weapon Oil)
   - Create Supplies (Creates up to 4 Supply bags. 80 supplies per bag.)
+  - Gravity stone (Bloodstone with Black Hole aura. 6m pull)
   - Portal Shards (Warning! Using a shard on a map other than the one with the location may cause unexpected issues.)
     - Portal Shard: Canduhallow's Tombstones
     - Portal Shard: Chapel Ruins
@@ -70,13 +71,13 @@ Items are found in the tutorial chest.
   - Psionic Seal: Reflect Projectile
   - Psionic Seal: See Through Illusion
   - Psionic Seal: Unstoppable
+  - Repulsion stone (Bloodstone with Repulsor aura. 3m knockback.)
   - Resonance Stone: Courage
   - Resonance Stone: Devotion
   - Resonance Stone: Fear
   - Resonance Stone: Fright
   - Resonance Stone: Hate
   - Resonance Stone: Terror
-  - Stone of Repulsion (Bloodstone with Repulsor aura. 3m knockback.)
 - Psychic Reservoir
   - Psychic Haste (Haste without Lethargy)
 
