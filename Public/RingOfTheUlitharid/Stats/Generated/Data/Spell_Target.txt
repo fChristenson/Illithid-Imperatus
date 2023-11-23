@@ -802,7 +802,7 @@ new entry "FRE_Target_Base_CreateRepulsionStone"
 using "FRE_Target_Base_CreateResonanceStone"
 data "SpellProperties" "GROUND:Summon(ce4f3ffb-a363-4fa9-9401-3d60755dad71, -1,,'CombatSummonStack',,)"
 data "TargetConditions" "CanStand('ce4f3ffb-a363-4fa9-9401-3d60755dad71')"
-data "DisplayName" "he42bc1c7g154ag478cg97f5g0cf207aa1f32;2"
+data "DisplayName" "h9920afd9gc248g485fgad27g110b12520cfb;2"
 data "Icon" "Item_LOOT_GEM_Bloodstone_A"
 
 new entry "FRE_Target_Base_CreateResonanceStoneCourage"

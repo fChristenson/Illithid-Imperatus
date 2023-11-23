@@ -70,6 +70,13 @@ Items are found in the tutorial chest.
   - Psionic Seal: Reflect Projectile
   - Psionic Seal: See Through Illusion
   - Psionic Seal: Unstoppable
+  - Resonance Stone: Courage
+  - Resonance Stone: Devotion
+  - Resonance Stone: Fear
+  - Resonance Stone: Fright
+  - Resonance Stone: Hate
+  - Resonance Stone: Terror
+  - Stone of Repulsion (Bloodstone with Repulsor aura. 3m knockback.)
 - Psychic Reservoir
   - Psychic Haste (Haste without Lethargy)
 
