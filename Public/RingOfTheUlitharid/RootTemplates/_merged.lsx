@@ -1390,11 +1390,62 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hd84bc02fg6408g4cb4ga410g51c1d1aa51b8" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h38e24944ge9e4g465bg9148g1912a4de71dc" version="1" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEM_Bloodstone_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="6888eb06-767c-46b5-800d-e1464721903d" />
+					<attribute id="Name" type="LSString" value="FRE_LOOT_GEM_Bloodstone_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="93380b9c-cf4f-413d-99a7-7e2897cdb94e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="b53b629f-8d72-e6a6-57ec-5f6fd0ea4cdd" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="FRE_OBJ_Bloodstone" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="575ebcd3-0b33-403f-c4a9-4f9c044bb547" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855913" />
+					<attribute id="maxStackAmount" type="int32" value="100" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1" />
+									<attribute id="Max" type="fvec3" value="0.08556463 0.09726451 0.1293269" />
+									<attribute id="Min" type="fvec3" value="-0.08556463 -0.0009346977 -0.1290826" />
+									<attribute id="Radius" type="float" value="0.433013" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1" />
+									<attribute id="Max" type="fvec3" value="0.08556463 0.09726451 0.1293269" />
+									<attribute id="Min" type="fvec3" value="-0.08556463 -0.0009346977 -0.1290826" />
+									<attribute id="Radius" type="float" value="0.2165065" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1" />
+									<attribute id="Max" type="fvec3" value="0.08556463 0.09726451 0.1293269" />
+									<attribute id="Min" type="fvec3" value="-0.08556463 -0.0009346977 -0.1290826" />
+									<attribute id="Radius" type="float" value="0.433013" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster">
+							<attribute id="GameMasterSpawnSection" type="int32" value="13" />
+							<attribute id="GameMasterSpawnSubSection" type="TranslatedString" handle="h6bad41cag15cbg406bga5aegc47d24ccb448" version="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="h9920afd9gc248g485fgad27g110b12520cfb" version="1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="ce4f3ffb-a363-4fa9-9401-3d60755dad71" />
-					<attribute id="Name" type="LSString" value="FRE_LOOT_GEM_Onyx_A" />
-					<attribute id="ParentTemplateId" type="FixedString" value="f0b921ef-f5b6-4891-91a4-852818a969af" />
+					<attribute id="Name" type="LSString" value="FRE_LOOT_GEM_Bloodstone_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="6888eb06-767c-46b5-800d-e1464721903d" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855913" />
 					<children>
