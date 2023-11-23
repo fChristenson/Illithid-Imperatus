@@ -457,7 +457,7 @@ data "Icon" "Item_LOOT_Camp_Pack_Greater"
 data "SpellProperties" "AI_IGNORE:SummonInInventory(a24a2ca2-a213-424c-833d-47c79934c0ce,-1,1,true,true,true)"
 data "DisplayName" "h5d413befgcb10g408cgb92bg64e03f434af6;2"
 
-new entry "FRE_CreateBrineGrenades"
+new entry "FRE_CreateVoidBulb"
 type "SpellData"
 data "SpellType" "Shout"
 using "FRE_CreateSupplies"
