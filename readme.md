@@ -150,6 +150,7 @@ Items are found in the tutorial chest.
   - Summon Spectator
   - Summon Werewolf
   - Summon Wolf
+- Wall of Repulsion (Enemy Knockback, 3m.)
 
 ### Passives
 
