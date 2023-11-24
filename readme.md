@@ -43,6 +43,8 @@ Items are found in the tutorial chest.
   - Caustic Bulb
   - Create Mind Flayer Mucous (Weapon Oil)
   - Create Supplies (Creates a 80 supply point bag in inventory.)
+  - Furniture Shard
+    - Mind Flayer Aquariums
   - Gravity stone (Bloodstone with Black Hole aura. 6m pull)
   - Greater Caustic Bulb
   - Greater Spiked Bulb
