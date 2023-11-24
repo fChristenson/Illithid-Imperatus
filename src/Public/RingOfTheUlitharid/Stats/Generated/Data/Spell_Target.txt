@@ -829,8 +829,8 @@ data "DisplayName" "h5a2b49a1g5272g43cbgbe48ge8817d2d07e1;2"
 
 new entry "FRE_TEST"
 using "FRE_Target_Base_CreateResonanceStone"
-data "SpellProperties" "GROUND:Summon(3172edda-e042-40ba-b505-bf283a71c7c7, -1,,'CombatSummonStack',,)"
-data "TargetConditions" "CanStand('3172edda-e042-40ba-b505-bf283a71c7c7')"
+data "SpellProperties" "GROUND:Summon(8be146d4-9432-45cc-a713-6b12a06c80e6, -1,,'CombatSummonStack',,)"
+data "TargetConditions" "CanStand('8be146d4-9432-45cc-a713-6b12a06c80e6')"
 data "DisplayName" "h5a2b49a1g5272g43cbgbe48ge8817d2d07e1;2"
 
 new entry "FRE_Target_Base_Summon_Shard"

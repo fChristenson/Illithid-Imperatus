@@ -93,7 +93,7 @@
     <attribute id="CoverAmount" type="uint8" value="0" />
     <attribute id="Flag" type="int32" value="1" />
     <attribute id="GroupID" type="uint32" value="18729" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="LoopSound" type="FixedString" value="92182f4d-e6e8-1022-0ee2-8df5446bf303" />
     <attribute id="MapKey" type="FixedString" value="f6587f6a-198e-45c7-afdc-4b57d6a8592d" />
     <attribute id="Name" type="LSString" value="DEC_MF_Brain_Jar_C_004" />
@@ -129,7 +129,7 @@
     <attribute id="Flag" type="int32" value="1" />
     <attribute id="GroupID" type="uint32" value="18483" />
     <attribute id="IsPointerBlocker" type="bool" value="False" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="LoopSound" type="FixedString" value="" />
     <attribute id="MapKey" type="FixedString" value="95e21d62-f0d9-4318-b969-47cc81fce7c1" />
     <attribute id="Name" type="LSString" value="FUR_MF_Aquarium_A_004" />
@@ -213,7 +213,7 @@
 <node id="GameObjects">
     <attribute id="CanShootThrough" type="bool" value="True" />
     <attribute id="Flag" type="int32" value="1" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="LoopSound" type="FixedString" value="92182f4d-e6e8-1022-0ee2-8df5446bf303" />
     <attribute id="MapKey" type="FixedString" value="14b89325-93b9-476d-9357-c12485f10faf" />
     <attribute id="Name" type="LSString" value="FUR_MF_Aquarium_B_002" />
@@ -323,7 +323,7 @@
     <attribute id="Flag" type="int32" value="1" />
     <attribute id="GroupID" type="uint32" value="18908" />
     <attribute id="IsInteractionDisabled" type="bool" value="True" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="MapKey" type="FixedString" value="1873c426-7c77-4e4e-b7f5-f6c33f6e01e9" />
     <attribute id="Name" type="LSString" value="BLD_MF_Mind_Draining_Device_control_Panel_A_005" />
     <attribute id="SeeThrough" type="bool" value="True" />
@@ -426,7 +426,7 @@
 <node id="GameObjects">
     <attribute id="CanShootThrough" type="bool" value="False" />
     <attribute id="Flag" type="int32" value="1" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="MapKey" type="FixedString" value="4d71e1c3-17e2-44a3-b3d9-4261c039cf86" />
     <attribute id="Name" type="LSString" value="PUZ_MF_Explosive_Contraption_A_004" />
     <attribute id="TemplateName" type="FixedString" value="24e01b77-0a74-410d-869f-919918f20278" />
@@ -439,10 +439,45 @@
 <node id="GameObjects">
     <attribute id="Flag" type="int32" value="1" />
     <attribute id="GravityType" type="uint8" value="2" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="MapKey" type="FixedString" value="d4248413-9609-4319-b14a-2f0e587d57fd" />
     <attribute id="Name" type="LSString" value="S_TUT_MindflayerRoom_Chair_004" />
     <attribute id="TemplateName" type="FixedString" value="fc7357cb-1de1-46a3-a3ac-3d4daef38729" />
     <attribute id="Type" type="FixedString" value="item" />
     <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209013" />
+</node>
+<node id="GameObjects">
+    <attribute id="CanClickThrough" type="bool" value="False" />
+    <attribute id="CanClimbOn" type="bool" value="False" />
+    <attribute id="CanShootThrough" type="bool" value="False" />
+    <attribute id="CoverAmount" type="uint8" value="1" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="IsPointerBlocker" type="bool" value="False" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="LoopSound" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="8be146d4-9432-45cc-a713-6b12a06c80e6" />
+    <attribute id="Name" type="LSString" value="S_TUT_Misc_TransformPod_000" />
+    <attribute id="SoundAttenuation" type="int16" value="-1" />
+    <attribute id="SoundInitEvent" type="FixedString" value="" />
+    <attribute id="TemplateName" type="FixedString" value="97fb4f34-d19b-4624-96c1-ffee45a584b4" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Wadable" type="bool" value="False" />
+    <attribute id="WalkOn" type="bool" value="False" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209006" />
+    <children>
+        <node id="OnUsePeaceActions">
+            <children>
+                <node id="Action">
+                    <attribute id="ActionType" type="int32" value="8" />
+                    <children>
+                        <node id="Attributes">
+                            <attribute id="Animation" type="FixedString" value="" />
+                            <attribute id="Conditions" type="LSString" value="" />
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </children>
 </node>
