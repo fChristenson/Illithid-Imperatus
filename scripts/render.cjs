@@ -7,6 +7,18 @@ const inputFiles = [
     "mindFlayerModels",
     "src/Public/RingOfTheUlitharid/RootTemplates/mind_flayer_models.xml",
   ],
+  [
+    "portalShards",
+    "src/Public/RingOfTheUlitharid/RootTemplates/portal_shards.xml",
+  ],
+  [
+    "gravityStones",
+    "src/Public/RingOfTheUlitharid/RootTemplates/gravity_stones.xml",
+  ],
+  [
+    "resonanceStones",
+    "src/Public/RingOfTheUlitharid/RootTemplates/resonance_stones.xml",
+  ],
 ];
 const template =
   "src/Public/RingOfTheUlitharid/RootTemplates/_merged.lsx.template";
