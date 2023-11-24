@@ -1,35 +1,20 @@
 <node id="GameObjects">
+    <attribute id="MapKey" type="FixedString" value="f8a5d08e-2700-4882-abe2-b9439e69debf" />
+    <attribute id="Name" type="LSString" value="FRE_FUR_MF_Aquarium_B_002" />
     <attribute id="CanShootThrough" type="bool" value="True" />
-    <attribute id="Flag" type="int32" value="1" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="DisplayName" type="TranslatedString" handle="h3aa6b913gfd09g4733ga8f8g64dcf115fd30" version="3" />
+    <attribute id="Icon" type="FixedString" value="Item_LOOT_MF_Alchemy_Device_F" />
+    <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="LoopSound" type="FixedString" value="92182f4d-e6e8-1022-0ee2-8df5446bf303" />
-    <attribute id="MapKey" type="FixedString" value="20384207-ae98-4956-a8a8-f6987fcc1ac5" />
-    <attribute id="Name" type="LSString" value="FUR_MF_Aquarium_B_002" />
-    <attribute id="TemplateName" type="FixedString" value="a3aae9e6-505f-4a7c-ac71-d0f74f0385a4" />
+    <attribute id="ParentTemplateId" type="FixedString" value="115d2399-a009-4a63-82d0-f6c9ef6afdb0" />
+    <attribute id="PhysicsTemplate" type="FixedString" value="8da8c639-d9a9-bad8-efaf-74f60f6ff7be" />
+    <attribute id="ReadinessFlags" type="uint32" value="128" />
+    <attribute id="SoundAttenuation" type="int16" value="10" />
+    <attribute id="Stats" type="FixedString" value="OBJ_Barrel" />
     <attribute id="Type" type="FixedString" value="item" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
+    <attribute id="VisualTemplate" type="FixedString" value="187657a5-4e84-fe98-a58d-a3fd5a1cbe41" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
     <children>
-        <node id="LayerList">
-            <children>
-                <node id="Layers">
-                    <children>
-                        <node id="Object">
-                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
-                            <children>
-                                <node id="Layer">
-                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
-                                </node>
-                            </children>
-                        </node>
-                    </children>
-                </node>
-            </children>
-        </node>
-        <node id="Transform">
-            <attribute id="Position" type="fvec3" value="0.9605114 18.2737 -386.5508" />
-            <attribute id="RotationQuat" type="fvec4" value="0 -0.2799876 0 0.9600037" />
-            <attribute id="Scale" type="float" value="1" />
-        </node>
     </children>
 </node>
 <node id="GameObjects">
@@ -54,26 +39,5 @@
     <attribute id="WalkThrough" type="bool" value="False" />
     <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
     <children>
-        <node id="LayerList">
-            <children>
-                <node id="Layers">
-                    <children>
-                        <node id="Object">
-                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
-                            <children>
-                                <node id="Layer">
-                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
-                                </node>
-                            </children>
-                        </node>
-                    </children>
-                </node>
-            </children>
-        </node>
-        <node id="Transform">
-            <attribute id="Position" type="fvec3" value="2.657019 21.96269 -442.9819" />
-            <attribute id="RotationQuat" type="fvec4" value="0 0.4833405 0 0.8754324" />
-            <attribute id="Scale" type="float" value="0.7" />
-        </node>
     </children>
 </node>

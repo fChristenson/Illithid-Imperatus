@@ -28,6 +28,7 @@ const inputFiles = [
   ["spells", "src/Public/RingOfTheUlitharid/RootTemplates/spells.xml"],
   ["thralls", "src/Public/RingOfTheUlitharid/RootTemplates/thralls.xml"],
   ["weaponOils", "src/Public/RingOfTheUlitharid/RootTemplates/weapon_oils.xml"],
+  ["aquariums", "src/Public/RingOfTheUlitharid/RootTemplates/aquarium.xml"],
 ];
 const template =
   "src/Public/RingOfTheUlitharid/RootTemplates/_merged.lsx.template";
