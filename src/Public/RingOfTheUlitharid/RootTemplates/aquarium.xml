@@ -18,21 +18,26 @@
     </children>
 </node>
 <node id="GameObjects">
+    <attribute id="ParentTemplateId" type="FixedString" value="115d2399-a009-4a63-82d0-f6c9ef6afdb0" />
+    <attribute id="PhysicsTemplate" type="FixedString" value="8e2a2783-dde9-6064-d009-52995b5eb2a6" />
+    <attribute id="ReadinessFlags" type="uint32" value="128" />
+    <attribute id="Stats" type="FixedString" value="OBJ_Barrel" />
+    <attribute id="VisualTemplate" type="FixedString" value="cb1c05aa-d9e4-f1fd-b08a-978542ee6763" />
     <attribute id="CanClickThrough" type="bool" value="False" />
     <attribute id="CanClimbOn" type="bool" value="False" />
     <attribute id="CanShootThrough" type="bool" value="True" />
     <attribute id="CoverAmount" type="uint8" value="0" />
     <attribute id="DisplayName" type="TranslatedString" handle="hd8f0137ag7fb1g48fbg9c89gf60212d79d08" version="1" />
+    <attribute id="Icon" type="FixedString" value="Item_LOOT_MF_Alchemy_Device_F" />
     <attribute id="Flag" type="int32" value="1" />
     <attribute id="GroupID" type="uint32" value="18502" />
     <attribute id="IsPointerBlocker" type="bool" value="False" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="LoopSound" type="FixedString" value="" />
-    <attribute id="MapKey" type="FixedString" value="9807f63f-5654-4baa-9b7b-a4ee8e0f3035" />
-    <attribute id="Name" type="LSString" value="FUR_MF_Aquarium_A_013" />
+    <attribute id="MapKey" type="FixedString" value="a5ac3fee-655b-4ba6-8434-937bc4a990bf" />
+    <attribute id="Name" type="LSString" value="FRE_FUR_MF_Aquarium_A_013" />
     <attribute id="SoundAttenuation" type="int16" value="-1" />
     <attribute id="SoundInitEvent" type="FixedString" value="" />
-    <attribute id="TemplateName" type="FixedString" value="760b9f69-d486-4844-988a-9a2a4789b88f" />
     <attribute id="Type" type="FixedString" value="item" />
     <attribute id="Wadable" type="bool" value="False" />
     <attribute id="WalkOn" type="bool" value="False" />
