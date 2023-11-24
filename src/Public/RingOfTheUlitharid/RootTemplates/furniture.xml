@@ -1,4 +1,50 @@
 <node id="GameObjects">
+    <attribute id="Description" type="TranslatedString" handle="hd9921942g92e9g4b16g8f62gd5f816e77d86" version="1" />
+    <attribute id="DisplayName" type="TranslatedString" handle="h822b390dg80e2g4750g8d44g8da9927ce566" version="1" />
+    <attribute id="DropSound" type="FixedString" value="1137349e-191e-cf1b-a977-dfec58897122" />
+    <attribute id="Icon" type="FixedString" value="Item_LOOT_MF_Rune_Tablet_A" />
+    <attribute id="ImpactSound" type="FixedString" value="ba06bceb-c096-05cd-5be1-b9dfb08e55bd" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="1e08358e-b2e7-4201-bc0a-340e550256ab" />
+    <attribute id="Name" type="LSString" value="FRE_Furniture_shard" />
+    <attribute id="ReadinessFlags" type="uint32" value="128" />
+    <attribute id="PhysicsTemplate" type="FixedString" value="9b03a466-e47a-6df2-80c4-2629bca30032" />
+    <attribute id="PickupSound" type="FixedString" value="45a0a7d3-318a-8bf9-bfb9-5c0c1215f761" />
+    <attribute id="VisualTemplate" type="FixedString" value="efeb2c02-466e-ebe9-d201-f112abee6188" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+    <attribute id="TreasureOnDestroy" type="bool" value="False" />
+    <attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+    <children>
+        <node id="OnUsePeaceActions">
+            <children>
+                <node id="Action">
+                    <attribute id="ActionType" type="int32" value="12" />
+                    <children>
+                        <node id="Attributes">
+                            <attribute id="Animation" type="FixedString" value="" />
+                            <attribute id="Conditions" type="LSString" value="" />
+                            <attribute id="SkillID" type="FixedString" value="FRE_Target_Summon_Furniture_Container" />
+                            <attribute id="Consume" type="bool" value="False" />
+                        </node>
+                    </children>
+                </node>
+                <node id="Action">
+                    <attribute id="ActionType" type="int32" value="33" />
+                    <children>
+                        <node id="Attributes">
+                            <attribute id="Animation" type="FixedString" value="" />
+                            <attribute id="Conditions" type="LSString" value="" />
+                            <attribute id="SpellId" type="FixedString" value="FRE_Target_Summon_Furniture_Container" />
+                            <attribute id="Consume" type="bool" value="False" />
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
     <attribute id="CanClickThrough" type="bool" value="False" />
     <attribute id="CanClimbOn" type="bool" value="False" />
     <attribute id="CanShootThrough" type="bool" value="False" />

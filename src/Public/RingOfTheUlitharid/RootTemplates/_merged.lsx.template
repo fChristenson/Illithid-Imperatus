@@ -15,6 +15,7 @@
 				<%- thralls %>
 				<%- weaponOils %>
 				<%- aquariums %>
+				<%- furniture %>
 			</children>
 		</node>
 	</region>
