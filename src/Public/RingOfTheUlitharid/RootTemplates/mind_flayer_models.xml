@@ -115,6 +115,19 @@
     <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 </node>
 <node id="GameObjects">
+    <attribute id="CharacterVisualResourceID" type="FixedString" value="11bbd6fb-325a-3867-126a-36b46f11e206" />
+    <attribute id="Icon" type="FixedString" value="11bbd6fb-325a-3867-126a-36b46f11e206-EQP_Robe_(Icon_Mindflayer)" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="LevelOverride" type="int32" value="1" />
+    <attribute id="MapKey" type="FixedString" value="5781da68-1a8a-46b2-b1d5-87d2b54417e6" />
+    <attribute id="Name" type="LSString" value="S_GLO_SocietyOfBrilliance_MindFlayer" />
+    <attribute id="ParentTemplateId" type="FixedString" value="4eaf7833-aff5-4d26-b54c-14effbd404c0" />
+    <attribute id="SpellSet" type="FixedString" value="PlayerMindFlayerActions" />
+    <attribute id="Stats" type="FixedString" value="MindFlayer_Player" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+</node>
+<node id="GameObjects">
     <attribute id="CharacterVisualResourceID" type="FixedString" value="d0f0d853-ca12-0fc5-3b88-13ac5ac1f554" />
     <attribute id="GeneratePortrait" type="LSString" value="Icon_Mindflayer_Player" />
     <attribute id="Icon" type="FixedString" value="d0f0d853-ca12-0fc5-3b88-13ac5ac1f554-_(Icon_Mindflayer_Player)" />

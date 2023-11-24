@@ -33,6 +33,12 @@ data "DisplayName" "h058ad937g7762g4addg914eg2807c7490789;1"
 data "SpellProperties" "ApplyStatus(FRE_MIND_FLAYER_FORM,100,-1)"
 data "TooltipStatusApply" "ApplyStatus(FRE_MIND_FLAYER_FORM,100,-1)"
 
+new entry "FRE_Shout_SocOfBril_MindFlayerForm"
+using "FRE_Shout_UlitharidForm"
+data "DisplayName" "ha6e19be8ge6f9g463bgb544g0d8170fa7277;1"
+data "SpellProperties" "ApplyStatus(FRE_SOCOBRIL_MIND_FLAYER_FORM,100,-1)"
+data "TooltipStatusApply" "ApplyStatus(FRE_SOCOBRIL_MIND_FLAYER_FORM,100,-1)"
+
 new entry "FRE_Shout_EmperorForm"
 using "FRE_Shout_UlitharidForm"
 data "DisplayName" "h0f3805ebg7f48g4298g96c8g41d604c1aee2;1"
