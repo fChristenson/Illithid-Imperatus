@@ -10,7 +10,6 @@
 				<%- gravityStones %>
 				<%- resonanceStones %>
 				<%- commonWeapons %>
-				<%- furniture %>
 				<%- grenades %>
 				<%- spells %>
 				<%- thralls %>

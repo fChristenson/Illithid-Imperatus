@@ -1,0 +1,106 @@
+<node id="GameObjects">
+    <attribute id="Description" type="TranslatedString" handle="he395cf4cg5b8ag4f04gb6d3g3ab64fb7507b" version="2" />
+    <attribute id="DisplayName" type="TranslatedString" handle="h5114a800g50e1g44b4g8d84gae73bba1dd66" version="1" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GroupID" type="uint32" value="18485" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="88754118-7c80-4eba-9191-02ad5f6c213c" />
+    <attribute id="Name" type="LSString" value="S_TUT_Lab_Book_001" />
+    <attribute id="OnUseDescription" type="TranslatedString" handle="h7aca668fg2e87g43fdg8d56gd20909d4bd64" version="1" />
+    <attribute id="ReadinessFlags" type="uint32" value="128" />
+    <attribute id="TemplateName" type="FixedString" value="469e789d-8018-4159-ac35-9950dce9b521" />
+    <attribute id="Tooltip" type="uint8" value="2" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Unimportant" type="bool" value="True" />
+    <attribute id="UnknownDescription" type="TranslatedString" handle="ha5045a8cg966ag42d6gba28gbb79f3a67fb6" version="1" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="OnUsePeaceActions">
+            <children>
+                <node id="Action">
+                    <attribute id="ActionType" type="int32" value="8" />
+                    <children>
+                        <node id="Attributes">
+                            <attribute id="Animation" type="FixedString" value="" />
+                            <attribute id="Conditions" type="LSString" value="" />
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-9.043112 18.58808 -408.6205" />
+            <attribute id="RotationQuat" type="fvec4" value="-0.002706613 -0.4173097 0.005893982 0.9087412" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="Description" type="TranslatedString" handle="h2823bbcagf34fg47ebga85bg5b5fe719a039" version="2" />
+    <attribute id="DisplayName" type="TranslatedString" handle="h1d74bf96ga266g426eg9d04gc6a83988adeb" version="1" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GroupID" type="uint32" value="18730" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="e7f3d57d-3ab1-4189-b79a-b803a66e832b" />
+    <attribute id="Name" type="LSString" value="S_TUT_Lab_Book_000" />
+    <attribute id="OnUseDescription" type="TranslatedString" handle="h22323274g53d7g4040g93d8g491c3ec02e3c" version="1" />
+    <attribute id="ReadinessFlags" type="uint32" value="128" />
+    <attribute id="TemplateName" type="FixedString" value="9d4c197a-20d3-4415-89b1-a9a7cbde8fa2" />
+    <attribute id="Tooltip" type="uint8" value="2" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Unimportant" type="bool" value="True" />
+    <attribute id="UnknownDescription" type="TranslatedString" handle="h0c15ff33gea6dg428agac2egac7a808d929c" version="1" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="OnUsePeaceActions">
+            <children>
+                <node id="Action">
+                    <attribute id="ActionType" type="int32" value="8" />
+                    <children>
+                        <node id="Attributes">
+                            <attribute id="Animation" type="FixedString" value="" />
+                            <attribute id="Conditions" type="LSString" value="" />
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="9.464512 18.99093 -416.3444" />
+            <attribute id="RotationQuat" type="fvec4" value="0 0.9795243 0 -0.2013258" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>

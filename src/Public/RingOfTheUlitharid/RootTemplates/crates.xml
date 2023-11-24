@@ -1,0 +1,86 @@
+<node id="GameObjects">
+    <attribute id="CanClickThrough" type="bool" value="False" />
+    <attribute id="CanClimbOn" type="bool" value="True" />
+    <attribute id="CanShootThrough" type="bool" value="True" />
+    <attribute id="CoverAmount" type="uint8" value="0" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="IsPointerBlocker" type="bool" value="False" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LoopSound" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="c380f29d-c75f-431c-b4b2-04d677ea353f" />
+    <attribute id="Name" type="LSString" value="FUR_MF_Platform_Crate_B_003" />
+    <attribute id="SoundAttenuation" type="int16" value="-1" />
+    <attribute id="SoundInitEvent" type="FixedString" value="" />
+    <attribute id="TemplateName" type="FixedString" value="ec771c95-abe0-40bc-81aa-5bc997225ddf" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Wadable" type="bool" value="False" />
+    <attribute id="WalkOn" type="bool" value="True" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-13.14659 17.06986 -362.6622" />
+            <attribute id="RotationQuat" type="fvec4" value="0.0008079763 -0.351842 0.0003036985 0.936059" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="CanClickThrough" type="bool" value="False" />
+    <attribute id="CanClimbOn" type="bool" value="True" />
+    <attribute id="CanShootThrough" type="bool" value="True" />
+    <attribute id="CoverAmount" type="uint8" value="0" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="IsPointerBlocker" type="bool" value="False" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LoopSound" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="007ae732-b993-481e-8b43-bed749d8c51e" />
+    <attribute id="Name" type="LSString" value="FUR_MF_Platform_Crate_A_006" />
+    <attribute id="SoundAttenuation" type="int16" value="-1" />
+    <attribute id="SoundInitEvent" type="FixedString" value="" />
+    <attribute id="TemplateName" type="FixedString" value="154779a1-8502-44f8-ad87-58a5723c945b" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Wadable" type="bool" value="False" />
+    <attribute id="WalkOn" type="bool" value="True" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-13.02852 16.89328 -361.368" />
+            <attribute id="RotationQuat" type="fvec4" value="0.0004510652 0.8525965 -0.0007359335 0.5225692" />
+            <attribute id="Scale" type="float" value="0.8" />
+        </node>
+    </children>
+</node>

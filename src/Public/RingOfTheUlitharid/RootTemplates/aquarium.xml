@@ -1,0 +1,79 @@
+<node id="GameObjects">
+    <attribute id="CanShootThrough" type="bool" value="True" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LoopSound" type="FixedString" value="92182f4d-e6e8-1022-0ee2-8df5446bf303" />
+    <attribute id="MapKey" type="FixedString" value="20384207-ae98-4956-a8a8-f6987fcc1ac5" />
+    <attribute id="Name" type="LSString" value="FUR_MF_Aquarium_B_002" />
+    <attribute id="TemplateName" type="FixedString" value="a3aae9e6-505f-4a7c-ac71-d0f74f0385a4" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="0.9605114 18.2737 -386.5508" />
+            <attribute id="RotationQuat" type="fvec4" value="0 -0.2799876 0 0.9600037" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="CanClickThrough" type="bool" value="False" />
+    <attribute id="CanClimbOn" type="bool" value="False" />
+    <attribute id="CanShootThrough" type="bool" value="True" />
+    <attribute id="CoverAmount" type="uint8" value="0" />
+    <attribute id="DisplayName" type="TranslatedString" handle="hd8f0137ag7fb1g48fbg9c89gf60212d79d08" version="1" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GroupID" type="uint32" value="18502" />
+    <attribute id="IsPointerBlocker" type="bool" value="False" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LoopSound" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="9807f63f-5654-4baa-9b7b-a4ee8e0f3035" />
+    <attribute id="Name" type="LSString" value="FUR_MF_Aquarium_A_013" />
+    <attribute id="SoundAttenuation" type="int16" value="-1" />
+    <attribute id="SoundInitEvent" type="FixedString" value="" />
+    <attribute id="TemplateName" type="FixedString" value="760b9f69-d486-4844-988a-9a2a4789b88f" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Wadable" type="bool" value="False" />
+    <attribute id="WalkOn" type="bool" value="False" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="2.657019 21.96269 -442.9819" />
+            <attribute id="RotationQuat" type="fvec4" value="0 0.4833405 0 0.8754324" />
+            <attribute id="Scale" type="float" value="0.7" />
+        </node>
+    </children>
+</node>

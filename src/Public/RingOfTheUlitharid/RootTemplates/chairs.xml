@@ -1,0 +1,169 @@
+<node id="GameObjects">
+    <attribute id="CanClickThrough" type="bool" value="False" />
+    <attribute id="CanClimbOn" type="bool" value="False" />
+    <attribute id="CanShootThrough" type="bool" value="False" />
+    <attribute id="CoverAmount" type="uint8" value="1" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GravityType" type="uint8" value="2" />
+    <attribute id="GroupID" type="uint32" value="18908" />
+    <attribute id="IsPointerBlocker" type="bool" value="False" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LoopSound" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="ac9222c9-03d3-44e9-842e-bd3a3c9c0f35" />
+    <attribute id="Name" type="LSString" value="FUR_MF_Chair_C_001" />
+    <attribute id="SeeThrough" type="bool" value="False" />
+    <attribute id="SoundAttenuation" type="int16" value="-1" />
+    <attribute id="SoundInitEvent" type="FixedString" value="" />
+    <attribute id="TemplateName" type="FixedString" value="77057f4f-5aed-4c4c-a471-73bbd7e5aaa8" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Wadable" type="bool" value="False" />
+    <attribute id="WalkOn" type="bool" value="False" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="50d0102b-20d6-e358-fc29-38d368dcb1d0" />
+                                </node>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="57b4068d-f5bb-be4b-9094-f5b1ee40d144" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-77.62778 17.55976 -382.2968" />
+            <attribute id="RotationQuat" type="fvec4" value="0 -0.2390872 0 0.9709981" />
+            <attribute id="Scale" type="float" value="1.2" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="CanClickThrough" type="bool" value="False" />
+    <attribute id="CanClimbOn" type="bool" value="False" />
+    <attribute id="CanShootThrough" type="bool" value="False" />
+    <attribute id="CoverAmount" type="uint8" value="1" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GravityType" type="uint8" value="2" />
+    <attribute id="GroupID" type="uint32" value="18908" />
+    <attribute id="IsPointerBlocker" type="bool" value="False" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LoopSound" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="ac9222c9-03d3-44e9-842e-bd3a3c9c0f35" />
+    <attribute id="Name" type="LSString" value="FUR_MF_Chair_C_001" />
+    <attribute id="SeeThrough" type="bool" value="False" />
+    <attribute id="SoundAttenuation" type="int16" value="-1" />
+    <attribute id="SoundInitEvent" type="FixedString" value="" />
+    <attribute id="TemplateName" type="FixedString" value="77057f4f-5aed-4c4c-a471-73bbd7e5aaa8" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Wadable" type="bool" value="False" />
+    <attribute id="WalkOn" type="bool" value="False" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="50d0102b-20d6-e358-fc29-38d368dcb1d0" />
+                                </node>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="57b4068d-f5bb-be4b-9094-f5b1ee40d144" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-77.62778 17.55976 -382.2968" />
+            <attribute id="RotationQuat" type="fvec4" value="0 -0.2390872 0 0.9709981" />
+            <attribute id="Scale" type="float" value="1.2" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GravityType" type="uint8" value="2" />
+    <attribute id="GroupID" type="uint32" value="18981" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="e40c77ac-03fb-4c7f-8b33-93dd26d74a87" />
+    <attribute id="Name" type="LSString" value="FUR_MF_Chair_A_002" />
+    <attribute id="SeeThrough" type="bool" value="False" />
+    <attribute id="TemplateName" type="FixedString" value="5a1b7b31-53f6-445b-8695-e13e8d808854" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="50d0102b-20d6-e358-fc29-38d368dcb1d0" />
+                                </node>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="57b4068d-f5bb-be4b-9094-f5b1ee40d144" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-51.53842 17.56028 -377.7229" />
+            <attribute id="RotationQuat" type="fvec4" value="0 0.8877633 0 -0.4603004" />
+            <attribute id="Scale" type="float" value="1.2" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GravityType" type="uint8" value="2" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="53497b8e-2a46-4f0e-91df-34b467a689ac" />
+    <attribute id="Name" type="LSString" value="S_TUT_MindflayerRoom_Chair_004" />
+    <attribute id="TemplateName" type="FixedString" value="fc7357cb-1de1-46a3-a3ac-3d4daef38729" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209013" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="42.62186 17.90542 -349.9881" />
+            <attribute id="RotationQuat" type="fvec4" value="0 -0.313839 0 0.9494763" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>

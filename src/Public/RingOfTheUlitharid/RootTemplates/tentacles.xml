@@ -1,0 +1,271 @@
+<node id="GameObjects">
+    <attribute id="CanClickThrough" type="bool" value="False" />
+    <attribute id="CanClimbOn" type="bool" value="False" />
+    <attribute id="CanShootThrough" type="bool" value="False" />
+    <attribute id="CoverAmount" type="uint8" value="1" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="FreezeGravity" type="bool" value="True" />
+    <attribute id="IsBlocker" type="bool" value="False" />
+    <attribute id="IsPointerBlocker" type="bool" value="False" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="0c6851bc-3cdc-491b-b50e-b53a76ed82c3" />
+    <attribute id="Name" type="LSString" value="S_TUT_Misc_Tentacle_002" />
+    <attribute id="SoundAttenuation" type="int16" value="-1" />
+    <attribute id="TemplateName" type="FixedString" value="533d5438-c828-4ad0-aee5-8109c461f9a6" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Wadable" type="bool" value="False" />
+    <attribute id="WalkOn" type="bool" value="False" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274113" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-161.7868 -7.421547 -381.6843" />
+            <attribute id="RotationQuat" type="fvec4" value="-0.03102237 0.9983329 -0.01708881 -0.04557373" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="CanClickThrough" type="bool" value="False" />
+    <attribute id="CanClimbOn" type="bool" value="False" />
+    <attribute id="CanShootThrough" type="bool" value="False" />
+    <attribute id="CoverAmount" type="uint8" value="1" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GravityType" type="uint8" value="1" />
+    <attribute id="IsBlocker" type="bool" value="False" />
+    <attribute id="IsPointerBlocker" type="bool" value="False" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="e05e6677-2c82-4833-bc9a-94afb89bfed8" />
+    <attribute id="Name" type="LSString" value="S_TUT_Misc_Tentacle_000" />
+    <attribute id="SoundAttenuation" type="int16" value="-1" />
+    <attribute id="TemplateName" type="FixedString" value="63600eaf-0ba9-48e2-96c1-ea0d7432f004" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Wadable" type="bool" value="False" />
+    <attribute id="WalkOn" type="bool" value="False" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-153.9158 -5.56348 -403.4368" />
+            <attribute id="RotationQuat" type="fvec4" value="-0.03504382 0.9509876 -0.005132839 0.3071942" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GravityType" type="uint8" value="1" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="ee0c39bf-1926-4ba2-b9e8-e36fb15f6ede" />
+    <attribute id="Name" type="LSString" value="BLD_MFL_Nautiloid_Tentacle_Rigged_Small_A_004" />
+    <attribute id="TemplateName" type="FixedString" value="97fa8214-e35f-41c2-b001-87ba59e62ab3" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209012" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-67.5063 4.164074 -361.8615" />
+            <attribute id="RotationQuat" type="fvec4" value="-0.02107978 0.9469651 -0.06742457 -0.3134755" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="CanClickThrough" type="bool" value="False" />
+    <attribute id="CanClimbOn" type="bool" value="False" />
+    <attribute id="CanShootThrough" type="bool" value="False" />
+    <attribute id="CoverAmount" type="uint8" value="1" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="FreezeGravity" type="bool" value="True" />
+    <attribute id="IsBlocker" type="bool" value="False" />
+    <attribute id="IsPointerBlocker" type="bool" value="False" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="d0d2522e-8f6f-439d-9f3e-79b620bb79a9" />
+    <attribute id="Name" type="LSString" value="S_TUT_Misc_Tentacle_003" />
+    <attribute id="SoundAttenuation" type="int16" value="-1" />
+    <attribute id="TemplateName" type="FixedString" value="9ba67b71-25ac-457e-8d96-68895984388b" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Wadable" type="bool" value="False" />
+    <attribute id="WalkOn" type="bool" value="False" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274113" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-152.6236 -5.722432 -375.6726" />
+            <attribute id="RotationQuat" type="fvec4" value="-0.02527167 0.9491453 -0.02481444 -0.3128398" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GravityType" type="uint8" value="1" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="e703018b-334d-4ff7-a463-7339fe65b2bc" />
+    <attribute id="Name" type="LSString" value="BLD_MFL_Nautiloid_Tentacle_Rigged_Small_A_006" />
+    <attribute id="TemplateName" type="FixedString" value="a288bb37-eef2-4432-8e08-d39e8f6435b2" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209012" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-72.14319 6.268422 -363.1179" />
+            <attribute id="RotationQuat" type="fvec4" value="-0.02459975 0.9356036 -0.08338401 -0.342181" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="CanClickThrough" type="bool" value="False" />
+    <attribute id="CanClimbOn" type="bool" value="False" />
+    <attribute id="CanShootThrough" type="bool" value="False" />
+    <attribute id="CoverAmount" type="uint8" value="1" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="FreezeGravity" type="bool" value="True" />
+    <attribute id="IsBlocker" type="bool" value="False" />
+    <attribute id="IsPointerBlocker" type="bool" value="False" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="b71aae2a-9350-4ede-ac5d-ddf907d8c814" />
+    <attribute id="Name" type="LSString" value="S_TUT_Misc_Tentacle_001" />
+    <attribute id="SoundAttenuation" type="int16" value="-1" />
+    <attribute id="TemplateName" type="FixedString" value="a77e37d9-f01e-4c7a-952e-8a0a42132657" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Wadable" type="bool" value="False" />
+    <attribute id="WalkOn" type="bool" value="False" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274113" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-160.7285 -7.367371 -395.9641" />
+            <attribute id="RotationQuat" type="fvec4" value="-0.03267686 0.9974595 -0.01366153 0.06180837" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GravityType" type="uint8" value="1" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="d39f088a-06ab-4194-be1d-b7af9ba61c6a" />
+    <attribute id="Name" type="LSString" value="BLD_MFL_Nautiloid_Tentacle_Rigged_Small_A_005" />
+    <attribute id="TemplateName" type="FixedString" value="b74fe54d-c7c2-491c-826f-3275961c1457" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209012" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-72.58344 3.06052 -361.7301" />
+            <attribute id="RotationQuat" type="fvec4" value="0.04836876 0.945817 -0.1022069 -0.3043754" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>

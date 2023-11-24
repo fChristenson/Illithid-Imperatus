@@ -1,0 +1,147 @@
+<node id="GameObjects">
+    <attribute id="CanShootThrough" type="bool" value="True" />
+    <attribute id="CoverAmount" type="uint8" value="0" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LoopSound" type="FixedString" value="92182f4d-e6e8-1022-0ee2-8df5446bf303" />
+    <attribute id="MapKey" type="FixedString" value="71677352-8164-458b-91a6-2374658dafbe" />
+    <attribute id="Name" type="LSString" value="DEC_MF_Brain_Jar_B_013" />
+    <attribute id="TemplateName" type="FixedString" value="d8cad0bc-4d38-4ecf-a716-dd78ee9cec4f" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="7.597002 17.28578 -361.5732" />
+            <attribute id="RotationQuat" type="fvec4" value="0 -0.6495811 0 0.7602924" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="CanShootThrough" type="bool" value="True" />
+    <attribute id="CoverAmount" type="uint8" value="0" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GroupID" type="uint32" value="18768" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="e1ccad07-cddf-491c-8826-4699551e131e" />
+    <attribute id="Name" type="LSString" value="DEC_MF_Brain_Jar_A_009" />
+    <attribute id="TemplateName" type="FixedString" value="e28ad82a-f0eb-4f80-b3ec-bfedcbbe877d" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="7.702768 21.79697 -440.0428" />
+            <attribute id="RotationQuat" type="fvec4" value="0 -0.1345379 0 0.9909084" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="CanShootThrough" type="bool" value="True" />
+    <attribute id="CoverAmount" type="uint8" value="0" />
+    <attribute id="DisplayName" type="TranslatedString" handle="h05c2e8f7gc636g4f26ga023ga1fd83849840" version="1" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GroupID" type="uint32" value="18483" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LoopSound" type="FixedString" value="92182f4d-e6e8-1022-0ee2-8df5446bf303" />
+    <attribute id="MapKey" type="FixedString" value="2c737fd4-6dde-4019-9717-e3ef8b52f93f" />
+    <attribute id="Name" type="LSString" value="DEC_MF_Brain_Jar_D_000" />
+    <attribute id="TemplateName" type="FixedString" value="85ff87eb-ccaa-43e4-9c35-83b69801dc60" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="6.322715 22.03108 -439.8233" />
+            <attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+            <attribute id="Scale" type="float" value="0.7" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="CanShootThrough" type="bool" value="True" />
+    <attribute id="CoverAmount" type="uint8" value="0" />
+    <attribute id="FadeGroup" type="FixedString" value="" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GroupID" type="uint32" value="18761" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="af028d8b-1618-46bb-b7f2-7b7a7d36ab4c" />
+    <attribute id="Name" type="LSString" value="DEC_MF_Brain_Jar_C_052" />
+    <attribute id="TemplateName" type="FixedString" value="915aeb6b-6804-47d5-a5a6-c1b4da2dab81" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-10.57322 21.82225 -438.2731" />
+            <attribute id="RotationQuat" type="fvec4" value="-0.06309678 0.3997448 0.007973773 0.9144176" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>

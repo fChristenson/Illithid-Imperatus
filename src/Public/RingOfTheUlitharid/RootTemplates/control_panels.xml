@@ -1,0 +1,80 @@
+<node id="GameObjects">
+    <attribute id="FadeGroup" type="FixedString" value="" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GroupID" type="uint32" value="18875" />
+    <attribute id="IsInteractionDisabled" type="bool" value="True" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="95bbb561-0f4d-48b3-9f45-940c78155235" />
+    <attribute id="Name" type="LSString" value="BLD_MF_Mind_Draining_Device_control_Panel_A_004" />
+    <attribute id="TemplateName" type="FixedString" value="4ca89954-f6c0-4bb1-8544-1d4e19c390b9" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="93696ccc-9a3e-b35c-1c1e-b3477a9c7ddd" />
+                                </node>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="5d30771b-b636-4bbe-204d-5e9289627191" />
+                                </node>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="a33937aa-c269-6049-9959-b652b5378370" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-39.77174 17.63767 -402.483" />
+            <attribute id="RotationQuat" type="fvec4" value="0.2391265 -0.8111501 -0.1509186 0.5119351" />
+            <attribute id="Scale" type="float" value="1.2" />
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="Fadeable" type="bool" value="True" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GroupID" type="uint32" value="18874" />
+    <attribute id="HierarchyOnlyFade" type="bool" value="True" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="bcbba417-6403-40a6-aef6-6785d585df2a" />
+    <attribute id="Name" type="LSString" value="S_TUT_Helm_ControlPanel" />
+    <attribute id="SeeThrough" type="bool" value="False" />
+    <attribute id="TemplateName" type="FixedString" value="a1087b26-dbe3-43dd-9bc6-7fb4621b985f" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+    <children>
+        <node id="LayerList">
+            <children>
+                <node id="Layers">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <children>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="50d0102b-20d6-e358-fc29-38d368dcb1d0" />
+                                </node>
+                                <node id="Layer">
+                                    <attribute id="Object" type="guid" value="57b4068d-f5bb-be4b-9094-f5b1ee40d144" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="Transform">
+            <attribute id="Position" type="fvec3" value="-82.36242 18.12924 -388.97" />
+            <attribute id="RotationQuat" type="fvec4" value="0 0.7071068 0 0.7071068" />
+            <attribute id="Scale" type="float" value="1" />
+        </node>
+    </children>
+</node>
