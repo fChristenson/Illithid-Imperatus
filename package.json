@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "npx rimraf dist",
     "copy": "npm run copy:stats && npm run copy:meta",
-    "copy:stats": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/Stats ./dist/Public/RingOfTheUlitharid/Stats",
-    "copy:meta": "node scripts/cp.cjs ./src/Mods/RingOfTheUlitharid/meta.lsx ./dist/Mods/RingOfTheUlitharid/meta.lsx"
+    "copy:stats": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/Stats ./dist/RingOfTheUlitharid/Public/RingOfTheUlitharid/Stats",
+    "copy:meta": "node scripts/cp.cjs ./src/Mods/RingOfTheUlitharid/meta.lsx ./dist/RingOfTheUlitharid/Mods/RingOfTheUlitharid/meta.lsx"
   },
   "repository": {
     "type": "git",
