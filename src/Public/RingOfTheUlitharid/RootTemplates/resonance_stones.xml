@@ -73,3 +73,75 @@
         </node>
     </children>
 </node>
+<node id="GameObjects">
+    <attribute id="DisplayName" type="TranslatedString" handle="he4a22ec0gf3dcg46c8g9341g8b409b0ce659" version="1" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="2ad4d0f0-73b4-4409-b3e4-86a7ea42ddd9" />
+    <attribute id="Name" type="LSString" value="FRE_LOOT_GEM_Onyx_A" />
+    <attribute id="ParentTemplateId" type="FixedString" value="f0b921ef-f5b6-4891-91a4-852818a969af" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855913" />
+    <children>
+        <node id="StatusList">
+            <children>
+                <node id="Status">
+                    <attribute id="Object" type="FixedString" value="FRE_AURA_OF_HATE" />
+                </node>
+            </children>
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="DisplayName" type="TranslatedString" handle="h5a2b49a1g5272g43cbgbe48ge8817d2d07e1" version="1" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="2d5ab830-51f5-4924-a7fa-f53a9f1fe24f" />
+    <attribute id="Name" type="LSString" value="FRE_LOOT_GEM_Onyx_A" />
+    <attribute id="ParentTemplateId" type="FixedString" value="f0b921ef-f5b6-4891-91a4-852818a969af" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855913" />
+    <children>
+        <node id="StatusList">
+            <children>
+                <node id="Status">
+                    <attribute id="Object" type="FixedString" value="FRE_AURA_OF_TERROR" />
+                </node>
+            </children>
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="DisplayName" type="TranslatedString" handle="hcbaccc26ge760g45afgb70cg7e143d93e52b" version="1" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="9285aa5d-1098-4972-a7f3-ad66057caedb" />
+    <attribute id="Name" type="LSString" value="FRE_LOOT_GEM_Onyx_A" />
+    <attribute id="ParentTemplateId" type="FixedString" value="f0b921ef-f5b6-4891-91a4-852818a969af" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855913" />
+    <children>
+        <node id="StatusList">
+            <children>
+                <node id="Status">
+                    <attribute id="Object" type="FixedString" value="FRE_AURA_OF_FEAR" />
+                </node>
+            </children>
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="DisplayName" type="TranslatedString" handle="he3825285g4d70g43e0gbd9bg9656c1248805" version="1" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="16f24ee7-bc33-4dcc-ba09-79886cf9f24f" />
+    <attribute id="Name" type="LSString" value="FRE_LOOT_GEM_Onyx_A" />
+    <attribute id="ParentTemplateId" type="FixedString" value="f0b921ef-f5b6-4891-91a4-852818a969af" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855913" />
+    <children>
+        <node id="StatusList">
+            <children>
+                <node id="Status">
+                    <attribute id="Object" type="FixedString" value="FRE_AURA_OF_FRIGHT" />
+                </node>
+            </children>
+        </node>
+    </children>
+</node>

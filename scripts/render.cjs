@@ -31,7 +31,7 @@ const inputFiles = [
 ];
 const template =
   "src/Public/RingOfTheUlitharid/RootTemplates/_merged.lsx.template";
-const outputFile = "src/Public/RingOfTheUlitharid/RootTemplates/_merged.xml";
+const outputFile = "src/Public/RingOfTheUlitharid/RootTemplates/_merged.lsx";
 
 const dataStore = {};
 
