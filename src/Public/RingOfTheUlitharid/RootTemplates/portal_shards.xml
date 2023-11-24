@@ -1,4 +1,50 @@
 <node id="GameObjects">
+    <attribute id="Description" type="TranslatedString" handle="h79a0f813gafbag46b0gb825gce57f57eb7bd" version="1" />
+    <attribute id="DisplayName" type="TranslatedString" handle="h4ad25208gffb7g441cgb3ecga64a7a2677f1" version="1" />
+    <attribute id="DropSound" type="FixedString" value="1137349e-191e-cf1b-a977-dfec58897122" />
+    <attribute id="Icon" type="FixedString" value="Item_LOOT_MF_Rune_Tablet_A" />
+    <attribute id="ImpactSound" type="FixedString" value="ba06bceb-c096-05cd-5be1-b9dfb08e55bd" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="4d28ae05-c70f-4c6b-b884-ed1d17bcb7a8" />
+    <attribute id="Name" type="LSString" value="FRE_Shard_Prime" />
+    <attribute id="ReadinessFlags" type="uint32" value="128" />
+    <attribute id="PhysicsTemplate" type="FixedString" value="9b03a466-e47a-6df2-80c4-2629bca30032" />
+    <attribute id="PickupSound" type="FixedString" value="45a0a7d3-318a-8bf9-bfb9-5c0c1215f761" />
+    <attribute id="VisualTemplate" type="FixedString" value="efeb2c02-466e-ebe9-d201-f112abee6188" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+    <attribute id="TreasureOnDestroy" type="bool" value="False" />
+    <attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+    <children>
+        <node id="OnUsePeaceActions">
+            <children>
+                <node id="Action">
+                    <attribute id="ActionType" type="int32" value="12" />
+                    <children>
+                        <node id="Attributes">
+                            <attribute id="Animation" type="FixedString" value="" />
+                            <attribute id="Conditions" type="LSString" value="" />
+                            <attribute id="SkillID" type="FixedString" value="FRE_Target_Summon_PortalShard_Container" />
+                            <attribute id="Consume" type="bool" value="False" />
+                        </node>
+                    </children>
+                </node>
+                <node id="Action">
+                    <attribute id="ActionType" type="int32" value="33" />
+                    <children>
+                        <node id="Attributes">
+                            <attribute id="Animation" type="FixedString" value="" />
+                            <attribute id="Conditions" type="LSString" value="" />
+                            <attribute id="SpellId" type="FixedString" value="FRE_Target_Summon_PortalShard_Container" />
+                            <attribute id="Consume" type="bool" value="False" />
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
     <attribute id="Description" type="TranslatedString" handle="hb524e01cgec28g4e81ga312g3cdc939ddcce" version="1" />
     <attribute id="DisplayName" type="TranslatedString" handle="h508b6354g5465g4f6fg92c0g0ec67d2a7c7c" version="1" />
     <attribute id="DropSound" type="FixedString" value="1137349e-191e-cf1b-a977-dfec58897122" />

@@ -7,7 +7,7 @@ data "ContainerSpells" "FRE_Target_Summon_Furniture_Aquarium1;FRE_Target_Summon_
 data "SpellProperties" ""
 data "Icon" "Spell_Conjuration_FindFamiliar"
 data "DisplayName" "h822b390dg80e2g4750g8d44g8da9927ce566;2"
-data "Description" "4ffd5c4b-4c56-4f05-a228-a33754bb1806;3"
+data "Description" "hd9921942g92e9g4b16g8f62gd5f816e77d86;3"
 data "DescriptionParams" ""
 data "TooltipStatusApply" ""
 data "UseCosts" "ActionPoint:1"
