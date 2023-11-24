@@ -49,7 +49,7 @@ Items are found in the tutorial chest.
   - Greater Void Bulb
   - Spiked Bulb
   - Void Bulb
-  - Portal Shards (Warning! Using a shard on a map other than the one with the location may cause unexpected issues.)
+  - Prime Portal Shard (Warning! Using a shard on a map other than the one with the location may cause unexpected issues.)
     - Portal Shard: Canduhallow's Tombstones
     - Portal Shard: Chapel Ruins
     - Portal Shard: Circus of The Last Days
