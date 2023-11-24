@@ -182,3 +182,9 @@ Items are found in the tutorial chest.
 
 - [clintmich](https://www.nexusmods.com/baldursgate3/mods/286)
 - [Gazgemauch](https://www.nexusmods.com/baldursgate3/mods/900)
+- [Baldur's Gate 3 Modder's Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool)
+- [lslib](https://github.com/Norbyte/lslib)
+
+### Mirrors
+
+- [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/3956)
