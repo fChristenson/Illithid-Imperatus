@@ -19,10 +19,19 @@ const inputFiles = [
     "resonanceStones",
     "src/Public/RingOfTheUlitharid/RootTemplates/resonance_stones.xml",
   ],
+  [
+    "commonWeapons",
+    "src/Public/RingOfTheUlitharid/RootTemplates/common_weapons.xml",
+  ],
+  ["furniture", "src/Public/RingOfTheUlitharid/RootTemplates/furniture.xml"],
+  ["grenades", "src/Public/RingOfTheUlitharid/RootTemplates/grenades.xml"],
+  ["spells", "src/Public/RingOfTheUlitharid/RootTemplates/spells.xml"],
+  ["thralls", "src/Public/RingOfTheUlitharid/RootTemplates/thralls.xml"],
+  ["weaponOils", "src/Public/RingOfTheUlitharid/RootTemplates/weapon_oils.xml"],
 ];
 const template =
   "src/Public/RingOfTheUlitharid/RootTemplates/_merged.lsx.template";
-const outputFile = "src/Public/RingOfTheUlitharid/RootTemplates/output.xml";
+const outputFile = "src/Public/RingOfTheUlitharid/RootTemplates/_merged.xml";
 
 const dataStore = {};
 

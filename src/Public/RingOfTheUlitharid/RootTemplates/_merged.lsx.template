@@ -9,6 +9,12 @@
 				<%- portalShards %>
 				<%- gravityStones %>
 				<%- resonanceStones %>
+				<%- commonWeapons %>
+				<%- furniture %>
+				<%- grenades %>
+				<%- spells %>
+				<%- thralls %>
+				<%- weaponOils %>
 			</children>
 		</node>
 	</region>
