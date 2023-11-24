@@ -15,10 +15,10 @@ Items are found in the tutorial chest.
 - Ring of the Ulitharid
   - Ceremorphosis (Turn in to endgame Mind Flayer)
   - Emperor Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Emperor model)
-  - Society of Brilliance Mind Flayer Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Society of Brilliance Mind Flayer model)
   - Gale Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Gale model)
   - Mind Flayer Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Mind Flayer model)
   - Orpheus Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Orpheus model)
+  - Society of Brilliance Mind Flayer Ulitharid Ceremorphosis (Ulitharid Ceremorphosis with Society of Brilliance Mind Flayer model)
   - Ulitharid Ceremorphosis (Ceremorphosis with Ulitharid spells)
   - Ulitharid Power Infusion (Gain all Mind Flayer and Ulitharid powers. Returns player to original form if using Mind Flayer form.)
 - Staff of Ilsensine
