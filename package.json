@@ -4,7 +4,11 @@
   "description": "Probably the best Mind Flayer experience, *in the world*.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "npx rimraf dist",
+    "copy": "npm run copy:stats && npm run copy:meta",
+    "copy:stats": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/Stats ./dist/Public/RingOfTheUlitharid/Stats",
+    "copy:meta": "node scripts/cp.cjs ./src/Mods/RingOfTheUlitharid/meta.lsx ./dist/Mods/RingOfTheUlitharid/meta.lsx"
   },
   "repository": {
     "type": "git",
@@ -18,6 +22,8 @@
   },
   "homepage": "https://github.com/fChristenson/Ring-of-the-Ulitharid#readme",
   "dependencies": {
-    "nodemon": "^3.0.1"
+    "cp-cli": "^2.0.0",
+    "nodemon": "^3.0.1",
+    "rimraf": "^5.0.5"
   }
 }
