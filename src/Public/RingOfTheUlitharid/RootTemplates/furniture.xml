@@ -481,3 +481,80 @@
         </node>
     </children>
 </node>
+<node id="GameObjects">
+    <attribute id="FadeGroup" type="FixedString" value="" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="GroupID" type="uint32" value="18981" />
+    <attribute id="IsInteractionDisabled" type="bool" value="True" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="a277ccdb-8281-4573-8ee8-dffebf040352" />
+    <attribute id="Name" type="LSString" value="BLD_MF_Mind_Draining_Device_control_Panel_A_003" />
+    <attribute id="TemplateName" type="FixedString" value="4ca89954-f6c0-4bb1-8544-1d4e19c390b9" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+    <children>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="CanShootThrough" type="bool" value="True" />
+    <attribute id="CoverAmount" type="uint8" value="0" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LoopSound" type="FixedString" value="92182f4d-e6e8-1022-0ee2-8df5446bf303" />
+    <attribute id="MapKey" type="FixedString" value="12a081c0-8251-425e-91d2-8a9cdb83e5b9" />
+    <attribute id="Name" type="LSString" value="DEC_MF_Brain_Jar_A_014" />
+    <attribute id="TemplateName" type="FixedString" value="e28ad82a-f0eb-4f80-b3ec-bfedcbbe877d" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
+    <children>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="CanShootThrough" type="bool" value="False" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="MapKey" type="FixedString" value="0fbe73f0-bd2d-48f9-8975-93c5bac1983e" />
+    <attribute id="Name" type="LSString" value="PUZ_MF_Explosive_Contraption_B_006" />
+    <attribute id="TemplateName" type="FixedString" value="29a36662-ccd9-4599-b2a1-16fb2cb31366" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+    <children>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="CanClickThrough" type="bool" value="False" />
+    <attribute id="CanClimbOn" type="bool" value="False" />
+    <attribute id="CanShootThrough" type="bool" value="False" />
+    <attribute id="CoverAmount" type="uint8" value="1" />
+    <attribute id="Flag" type="int32" value="1" />
+    <attribute id="IsPointerBlocker" type="bool" value="False" />
+    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LoopSound" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="a88eb8f4-53fd-4aa0-af9f-097f5c7f6f1c" />
+    <attribute id="Name" type="LSString" value="S_TUT_TransformChamber_DrainBed_000" />
+    <attribute id="SoundAttenuation" type="int16" value="-1" />
+    <attribute id="SoundInitEvent" type="FixedString" value="" />
+    <attribute id="TemplateName" type="FixedString" value="2ce0dda2-06a0-4794-aac4-ecbeef2bac07" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Wadable" type="bool" value="False" />
+    <attribute id="WalkOn" type="bool" value="False" />
+    <attribute id="WalkThrough" type="bool" value="False" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274313" />
+    <children>
+        <node id="OnUsePeaceActions">
+            <children>
+                <node id="Action">
+                    <attribute id="ActionType" type="int32" value="15" />
+                    <children>
+                        <node id="Attributes">
+                            <attribute id="Animation" type="FixedString" value="" />
+                            <attribute id="Heal" type="float" value="0" />
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </children>
+</node>
