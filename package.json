@@ -9,7 +9,8 @@
     "copy": "npm run copy:stats && npm run copy:meta",
     "copy:stats": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/Stats ./dist/RingOfTheUlitharid/Public/RingOfTheUlitharid/Stats",
     "copy:meta": "node scripts/cp.cjs ./src/Mods/RingOfTheUlitharid/meta.lsx ./dist/RingOfTheUlitharid/Mods/RingOfTheUlitharid/meta.lsx",
-    "render": "node scripts/render.cjs"
+    "render": "node scripts/render.cjs",
+    "dev": "npx nodemon -x \"npm run render\" -e \"xml\"  src/Public/RingOfTheUlitharid/RootTemplates"
   },
   "repository": {
     "type": "git",
