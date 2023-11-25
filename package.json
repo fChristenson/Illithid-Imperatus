@@ -10,8 +10,8 @@
     "copy:stats": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/Stats ./dist/RingOfTheUlitharid/Public/RingOfTheUlitharid/Stats",
     "copy:meta": "node scripts/cp.cjs ./src/Mods/RingOfTheUlitharid/meta.lsx ./dist/RingOfTheUlitharid/Mods/RingOfTheUlitharid/meta.lsx",
     "render": "node scripts/render.cjs",
-    "dev:xml": "npx nodemon -x \"npm run render\" -e \"xml template\"  ./src/Public/RingOfTheUlitharid/RootTemplates",
-    "dev:txt": "npx nodemon -x \"npm run copy\" -e \"txt\"  ./src/Public/RingOfTheUlitharid/Stats"
+    "dev:xml": "npx nodemon -x \"npm run render\" -e \"xml template\" -w ./src/Public/RingOfTheUlitharid/RootTemplates",
+    "dev:txt": "npx nodemon -x \"npm run copy\" -e \"txt\" -w ./src/Public/RingOfTheUlitharid/Stats"
   },
   "repository": {
     "type": "git",
