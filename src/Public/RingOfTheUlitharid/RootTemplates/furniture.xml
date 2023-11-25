@@ -280,34 +280,24 @@
     </children>
 </node>
 <node id="GameObjects">
+    <attribute id="DisplayName" type="TranslatedString" handle="h80947f90g95f4g4140gb41aga4102f4c689c" version="2" />
+    <attribute id="Icon" type="FixedString" value="Item_FUR_MF_Resting_Device_A" />
+    <attribute id="ParentTemplateId" type="FixedString" value="e4d2628f-78b3-4fc5-a8aa-21ac2ced5f0c" />
+    <attribute id="PhysicsTemplate" type="FixedString" value="13af0f61-76bb-a10b-3981-2dfa8d0de022" />
+    <attribute id="SoundAttenuation" type="int16" value="-1" />
+    <attribute id="Stats" type="FixedString" value="MF_RestingDevice" />
+    <attribute id="VisualTemplate" type="FixedString" value="3b2a50f3-f2ad-2f5d-1ccb-699e465ebd84" />
     <attribute id="CanClimbOn" type="bool" value="False" />
     <attribute id="CoverAmount" type="uint8" value="1" />
     <attribute id="Flag" type="int32" value="1" />
     <attribute id="GravityType" type="uint8" value="1" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
-    <attribute id="MapKey" type="FixedString" value="9dd6015a-ddd2-4719-a456-99abebc90e79" />
-    <attribute id="Name" type="LSString" value="S_TUT_Misc_RestingStation_002" />
-    <attribute id="TemplateName" type="FixedString" value="40fbca32-5df3-480a-b0f0-d81214a0c170" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="bbfec76a-01a8-4869-b431-ddee639807ab" />
+    <attribute id="Name" type="LSString" value="FRE_S_TUT_Misc_RestingStation_002" />
     <attribute id="Type" type="FixedString" value="item" />
     <attribute id="WalkOn" type="bool" value="False" />
     <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
     <children>
-        <node id="LayerList">
-            <children>
-                <node id="Layers">
-                    <children>
-                        <node id="Object">
-                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
-                            <children>
-                                <node id="Layer">
-                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
-                                </node>
-                            </children>
-                        </node>
-                    </children>
-                </node>
-            </children>
-        </node>
         <node id="OnUsePeaceActions">
             <children>
                 <node id="Action">
@@ -319,12 +309,26 @@
                         </node>
                     </children>
                 </node>
+
             </children>
         </node>
-        <node id="Transform">
-            <attribute id="Position" type="fvec3" value="0.6815109 18.15149 -388.9682" />
-            <attribute id="RotationQuat" type="fvec4" value="-0.02222308 0.7414173 0.02009368 0.6703751" />
-            <attribute id="Scale" type="float" value="1" />
+        <node id="Scripts">
+            <children>
+                <node id="Script">
+                    <attribute id="UUID" type="FixedString" value="7e6de9b7-56f4-43db-b7ab-1a63e7475f56" />
+                    <children>
+                        <node id="Parameters">
+                            <children>
+                                <node id="Parameter">
+                                    <attribute id="MapKey" type="FixedString" value="Event" />
+                                    <attribute id="Type" type="int32" value="3" />
+                                    <attribute id="Value" type="LSString" value="LOW_HouseOfHope_OpenBoudoir" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
         </node>
     </children>
 </node>
