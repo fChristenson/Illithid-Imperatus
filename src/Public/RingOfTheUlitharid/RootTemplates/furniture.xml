@@ -314,6 +314,7 @@
 </node>
 <node id="GameObjects">
     <attribute id="DisplayName" type="TranslatedString" handle="h9fcbbd69gef28g4ad4gb737g4b5063ef0462" version="2" />
+    <attribute id="Description" type="TranslatedString" handle="h8479a635ga309g4f3agb227g893768e98f7c" version="1" />
     <attribute id="Stats" type="FixedString" value="FRE_MF_RestingDevice" />
     <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="ParentTemplateId" type="FixedString" value="bbfec76a-01a8-4869-b431-ddee639807ab" />
