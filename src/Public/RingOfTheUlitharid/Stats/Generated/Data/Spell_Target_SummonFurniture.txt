@@ -57,3 +57,12 @@ data "SpellProperties" "GROUND:Summon(bbfec76a-01a8-4869-b431-ddee639807ab, -1,,
 data "TargetConditions" "CanStand('bbfec76a-01a8-4869-b431-ddee639807ab')"
 data "DisplayName" "h80947f90g95f4g4140gb41aga4102f4c689c;2"
 data "Icon" "Item_FUR_MF_Resting_Device_A"
+
+new entry "FRE_Target_Summon_Furniture_CombatRestorationStation"
+type "SpellData"
+data "SpellType" "Target"
+using "FRE_Target_Base_Summon_Furniture"
+data "SpellProperties" "GROUND:Summon(9a1356da-2d7f-44fe-a9b9-b7ec78cb4ff2, -1,,'CombatSummonStack',,)"
+data "TargetConditions" "CanStand('9a1356da-2d7f-44fe-a9b9-b7ec78cb4ff2')"
+data "DisplayName" "h9fcbbd69gef28g4ad4gb737g4b5063ef0462;2"
+data "Icon" "Item_FUR_MF_Resting_Device_A"

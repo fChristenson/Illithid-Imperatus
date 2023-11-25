@@ -284,7 +284,7 @@
     <attribute id="Icon" type="FixedString" value="Item_FUR_MF_Resting_Device_A" />
     <attribute id="PhysicsTemplate" type="FixedString" value="13af0f61-76bb-a10b-3981-2dfa8d0de022" />
     <attribute id="SoundAttenuation" type="int16" value="-1" />
-    <attribute id="Stats" type="FixedString" value="FRE_MF_RestingDevice" />
+    <attribute id="Stats" type="FixedString" value="MF_RestingDevice" />
     <attribute id="VisualTemplate" type="FixedString" value="3b2a50f3-f2ad-2f5d-1ccb-699e465ebd84" />
     <attribute id="CanClimbOn" type="bool" value="False" />
     <attribute id="CoverAmount" type="uint8" value="1" />
@@ -300,15 +300,48 @@
         <node id="OnUsePeaceActions">
             <children>
                 <node id="Action">
+                    <attribute id="ActionType" type="int32" value="8" />
+                    <children>
+                        <node id="Attributes">
+                            <attribute id="Animation" type="FixedString" value="" />
+                            <attribute id="Conditions" type="LSString" value="" />
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="DisplayName" type="TranslatedString" handle="h9fcbbd69gef28g4ad4gb737g4b5063ef0462" version="2" />
+    <attribute id="Stats" type="FixedString" value="FRE_MF_RestingDevice" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="ParentTemplateId" type="FixedString" value="bbfec76a-01a8-4869-b431-ddee639807ab" />
+    <attribute id="MapKey" type="FixedString" value="9a1356da-2d7f-44fe-a9b9-b7ec78cb4ff2" />
+    <attribute id="Name" type="LSString" value="FRE_Combat_RestorationDevice" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+    <attribute id="Scale" type="float" value="0.5" />
+    <children>
+        <node id="OnUsePeaceActions">
+            <children>
+                <node id="Action">
                     <attribute id="ActionType" type="int32" value="12" />
                     <children>
                         <node id="Attributes">
                             <attribute id="Animation" type="FixedString" value="" />
                             <attribute id="Conditions" type="LSString" value="" />
-                            <attribute id="SkillID" type="FixedString" value="FRE_Shout_DivineIntervention_Healing" />
+                            <attribute id="SkillID" type="FixedString" value="Teleportation_TrueResurrection_Scroll" />
                             <attribute id="Consume" type="bool" value="False" />
                         </node>
                     </children>
+                </node>
+            </children>
+        </node>
+        <node id="StatusList">
+            <children>
+                <node id="Status">
+                    <attribute id="Object" type="FixedString" value="FRE_AURA_OF_RESTORATION" />
                 </node>
             </children>
         </node>
