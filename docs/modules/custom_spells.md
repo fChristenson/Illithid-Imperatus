@@ -1,5 +1,9 @@
 # Custom spells
 
+Discover the Magic: Explore Our Custom Spells Page! 🌟📜
+
+Welcome to the enchanting realm of custom spells! Dive into the extraordinary with our Mind Flayer Ceremorphosis mod. On this webpage, unravel the secrets of each spell, meticulously crafted to enhance your Mind Flayer experience. Don't miss out, navigate to the page showcasing all the [Creative Creed spells][1] for more item summoning powers. Unleash the arcane wonders that await you! 
+
 <!-- heebfccaag4396g482dgabf2gc0f7cf9a52f1 -->
 ## Aura of Charm
 <!-- h4082f487gdc9cg4cddgb61fg0f40bf800a47 -->
@@ -44,6 +48,10 @@
 ## Stun
 <!-- h72d412aagcd14g46a5gb3b8g648699ac0386 -->
 ## Stun Aura
+<!-- h85555a33gc2b4g4b97g8408gb97b34937981 -->
+## Summon Mindless Thrall
+<!-- hf94294f8g773bg4f2cg8496g831a64e75089 -->
+## Summon Thrall
 <!-- h7f8e12aagddb8g4641gb6a1gf184dc10efdc -->
 ## Teleport Target
 <!-- h2651caaeg6f9ag401agb88cgf212a8e833e9 -->
@@ -56,3 +64,5 @@
 ## Ulitharid Telekinesis
 <!-- hd9249b3egdd27g47c5gb610g200847a26a16 -->
 ## Wall of Repulsion
+
+[1]: ./tome_spells.md
