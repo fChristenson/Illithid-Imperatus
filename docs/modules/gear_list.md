@@ -1,5 +1,7 @@
 # Gear
 
+![gear](../assets/gear.png)
+
 # Ring of the Ulitharid
 
 ![ring](../assets/ring.png)
