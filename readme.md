@@ -1,4 +1,4 @@
-# Ring of the Ulitharid
+# Mind Flayer Ceremorphosis: Illithid Imperatus
 
 Probably the best Mind Flayer experience, *in the world*.
 
