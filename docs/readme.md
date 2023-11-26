@@ -15,11 +15,11 @@ Dive into the "Mind Flayer Ceremorphosis: Illithid Imperatus" mod, where custom 
 
 ## Ceremorphosis
 
-<video src="https://youtu.be/j2ZMxOXv_5I">Ceremorphosis</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EKkapRiecHo?si=03E7N_lkavyBLDxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Gear
 
-<video src="https://www.youtube.com/watch?v=EKkapRiecHo">gear</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EKkapRiecHo?si=_HIiugg1vDu_6dYJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Custom spells
 
