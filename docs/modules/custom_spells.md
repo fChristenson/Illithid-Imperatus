@@ -58,7 +58,7 @@ This spell allows a caster to teleport directly to the visualized location with 
 
 Make target side with caster.
 
-<video width="100%" style="max-width: 560px" src="/assets/uli_greater_mind_mastery.mp4">spell</video>
+<video width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/uli_greater_mind_mastery.mp4">spell</video>
 <!-- ha11d5e02g2981g4607g95c8g720724d75ec6 -->
 ## Kill Thralls
 
@@ -106,7 +106,7 @@ Make target side with caster.
 
 Summon a wall of repulsion fields.
 
-<video width="100%" style="max-width: 560px" src="/assets/wall_of_repulsion.mp4">spell</video>
+<video width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/wall_of_repulsion.mp4">spell</video>
 
 [1]: ./tome_spells.md
 [2]: ./thrall_spells.md
