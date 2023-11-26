@@ -8,8 +8,8 @@ Dive into the "Mind Flayer Ceremorphosis: Illithid Imperatus" mod, where custom 
 
 - **Shape Your Identity:** Choose from a variety of [Mind Flayer forms](./ceremorphosis_models.md), unlocking their unique abilities.
 - **Mystical Mastery:** Unlock an arsenal of Enchantment, Illusion, and other Mind Flayer-themed spells for an immersive experience.
-- **Forged in Lore:** Equip a complete Mind Flayer gear set inspired by the rich tapestry of the Forgotten Realms lore books.
-- **Lord of the Mind:** Immerse yourself in the playstyle of a Mind Flayer Lord with a collection of new custom spells tailored to enhance your power.
+- **Forged in Lore:** Equip a complete [Mind Flayer gear](./gear_list.md) set inspired by the rich tapestry of the Forgotten Realms lore books.
+- **Lord of the Mind:** Immerse yourself in the playstyle of a Mind Flayer Lord with a collection of [new custom spells](./custom_spells.md) tailored to enhance your power.
 
 **[Download Now][1] 🚀**
 
