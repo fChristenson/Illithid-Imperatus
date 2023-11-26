@@ -23,6 +23,8 @@ Dive into the "Mind Flayer Ceremorphosis: Illithid Imperatus" mod, where custom 
 
 ## Custom spells
 
+<video src="../assets/custom_spells.mp4"></video>
+
 Unleash the untold power of the Mind Flayer with our immersive mod, "Mind Flayer Ceremorphosis: Illithid Imperatus." Shape-shift between enigmatic forms, master Mind Flayer-themed spells, and don the legendary gear inspired by Forgotten Realms lore. Your journey awaits, download the mod now and immerse yourself in the eldritch realms of unparalleled adventure! Embrace the Mind Flayer legacy and rewrite the story of your gaming experience. 🎮✨
 
 **[Download Now][1] 🚀**
