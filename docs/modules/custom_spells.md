@@ -87,12 +87,18 @@ Find a complete list of Thralls that can be summoned to your side [here][2].
 Find a complete list of Thralls that can be summoned to your side [here][2].
 <!-- h7f8e12aagddb8g4641gb6a1gf184dc10efdc -->
 ## Teleport Target
+
+Teleports a target to the desired location.
 <!-- h2651caaeg6f9ag401agb88cgf212a8e833e9 -->
 ## Ulitharid Beast Domination
 <!-- h033ef54fg5ed8g417fg90bdg9faebb80191d -->
 ## Ulitharid Domination
+
+Dominate any sentient lifeform.
 <!-- h036ccef3gd588g4ef0gbda2g8d2db35e6835 -->
 ## Ulitharid Mind Mastery
+
+Make target side with caster.
 <!-- h6cabdcc2g8f43g47a3gb1bcg5eb972316b16 -->
 ## Ulitharid Telekinesis
 <!-- hd9249b3egdd27g47c5gb610g200847a26a16 -->
