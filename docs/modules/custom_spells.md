@@ -50,8 +50,12 @@ Welcome to the enchanting realm of custom spells! Dive into the extraordinary wi
 ## Stun Aura
 <!-- h85555a33gc2b4g4b97g8408gb97b34937981 -->
 ## Summon Mindless Thrall
+
+Find a complete list of Thralls that can be summoned to your side [here][2].
 <!-- hf94294f8g773bg4f2cg8496g831a64e75089 -->
 ## Summon Thrall
+
+Find a complete list of Thralls that can be summoned to your side [here][2].
 <!-- h7f8e12aagddb8g4641gb6a1gf184dc10efdc -->
 ## Teleport Target
 <!-- h2651caaeg6f9ag401agb88cgf212a8e833e9 -->
@@ -66,3 +70,4 @@ Welcome to the enchanting realm of custom spells! Dive into the extraordinary wi
 ## Wall of Repulsion
 
 [1]: ./tome_spells.md
+[2]: ./thrall_spells.md
