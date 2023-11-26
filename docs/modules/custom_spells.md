@@ -6,26 +6,42 @@ Welcome to the enchanting realm of custom spells! Dive into the extraordinary wi
 
 <!-- heebfccaag4396g482dgabf2gc0f7cf9a52f1 -->
 ## Aura of Charm
+
+Casues enemies to be charmed
 <!-- h4082f487gdc9cg4cddgb61fg0f40bf800a47 -->
 ## Aura of Confusion
+
+Casues target to become confused.
 <!-- hbde38e64gc65bg4805gb32cg689007f2b808 -->
 ## Aura of Fear
+
+Casues target to flee in fear.
 <!-- h4684894agf08ag40eag9e50ge285add63f2d -->
 ## Aura of Fright
+
+Casues target to freeze in fright.
 <!-- h5e244d68g5ebcg43a4gb90cg901445c8f59d -->
 ## Aura of Repulsion
+
+Casues enemies to be knocked back.
 <!-- h248e821eg81f4g4dcagbd3dg0015cdfe8111 -->
 ## Dismiss Thralls
 <!-- h4028d03dg7b41g4a77gb241g2ea3d2c760e4 -->
 ## Enemy Subjugation Aura
+
+Stun enemies who get too close
 <!-- haa0d9cc6g11ceg4648g82fag401b309dc26e -->
 ## Force Cone
 <!-- h0244ea93g5f16g41d2g85d3g608e1589567f -->
 ## Force Push
 <!-- h277a27d6g97b4g4c18g97a8g205bb90aac0a -->
 ## Greater Black Hole
+
+Create a black hole that pulls in enemies with extreme force.
 <!-- hcbbdaf4fga06bg4912g8cefge20b1560205a -->
 ## Greater Crown Of Madness
+
+Force enemies to attack the closest target, other than you.
 <!-- h0ddbdcc3g0009g4515g9311g7cfadd7d34aa -->
 ## Greater Dissonant Whispers
 <!-- haaf16385g1376g4efdgaf34g28efae7b7c32 -->
@@ -34,6 +50,9 @@ Welcome to the enchanting realm of custom spells! Dive into the extraordinary wi
 ## Greater Power Word Kill
 <!-- h9a15ac8fg7dc1g42fcgbff3g4cdfaa126b14 -->
 ## Greater Teleportation
+
+This spell allows a caster to teleport directly to the visualized location with perfect accuracy.
+
 <!-- h48f155b3ga637g4e9dg80ecg146326a7e01b -->
 ## Greater Ulitharid Mind Mastery
 
@@ -42,6 +61,8 @@ Make target side with caster.
 <video src="../assets/uli_greater_mind_mastery.mp4">spell</video>
 <!-- ha11d5e02g2981g4607g95c8g720724d75ec6 -->
 ## Kill Thralls
+
+Order all Thralls to take their own life.
 <!-- h5ffed731g350fg4b01ga2a9g4803f892b77b -->
 ## Nautiloid Bombardment
 <!-- h53381874g8c9fg4454g86b4gc1535313fd6e -->
@@ -50,8 +71,12 @@ Make target side with caster.
 ## Psychic Haste
 <!-- h858f30dcg7409g4280g99f3g8b40e2c86717 -->
 ## Stun
+
+Stun targets inside the field.
 <!-- h72d412aagcd14g46a5gb3b8g648699ac0386 -->
 ## Stun Aura
+
+Stuns targets in range.
 <!-- h85555a33gc2b4g4b97g8408gb97b34937981 -->
 ## Summon Mindless Thrall
 
