@@ -36,6 +36,10 @@ Welcome to the enchanting realm of custom spells! Dive into the extraordinary wi
 ## Greater Teleportation
 <!-- h48f155b3ga637g4e9dg80ecg146326a7e01b -->
 ## Greater Ulitharid Mind Mastery
+
+Make target side with caster.
+
+<video src="../assets/uli_greater_mind_mastery.mp4">spell</video>
 <!-- ha11d5e02g2981g4607g95c8g720724d75ec6 -->
 ## Kill Thralls
 <!-- h5ffed731g350fg4b01ga2a9g4803f892b77b -->
@@ -68,6 +72,10 @@ Find a complete list of Thralls that can be summoned to your side [here][2].
 ## Ulitharid Telekinesis
 <!-- hd9249b3egdd27g47c5gb610g200847a26a16 -->
 ## Wall of Repulsion
+
+Summon a wall of repulsion fields.
+
+<video src="../assets/wall_of_repulsion.mp4">spell</video>
 
 [1]: ./tome_spells.md
 [2]: ./thrall_spells.md
