@@ -1,82 +1,58 @@
 # Custom spells
 
-<!-- hd9249b3egdd27g47c5gb610g200847a26a16 -->
-## Wall of Repulsion
-
-<!-- h033ef54fg5ed8g417fg90bdg9faebb80191d -->
-## Ulitharid Domination
-
-<!-- h2651caaeg6f9ag401agb88cgf212a8e833e9 -->
-## Ulitharid Beast Domination
-
-<!-- h9a15ac8fg7dc1g42fcgbff3g4cdfaa126b14 -->
-## Greater Teleportation
-
-<!-- hcbbdaf4fga06bg4912g8cefge20b1560205a -->
-## Greater Crown Of Madness
-
-<!-- h0ddbdcc3g0009g4515g9311g7cfadd7d34aa -->
-## Greater Dissonant Whispers
-
-<!-- haaf16385g1376g4efdgaf34g28efae7b7c32 -->
-## Greater Phantasmal Killer
-
-<!-- h7f8e12aagddb8g4641gb6a1gf184dc10efdc -->
-## Teleport Target
-
-<!-- h277a27d6g97b4g4c18g97a8g205bb90aac0a -->
-## Greater Black Hole
-
-<!-- h6cabdcc2g8f43g47a3gb1bcg5eb972316b16 -->
-## Ulitharid Telekinesis
-
-<!-- h5ffed731g350fg4b01ga2a9g4803f892b77b -->
-## Nautiloid Bombardment
-
-<!-- h5bfb4f12gdf5fg441cg9ed4gd26997afc597 -->
-## Psychic Haste
-
-<!-- h4028d03dg7b41g4a77gb241g2ea3d2c760e4 -->
-## Enemy Subjugation Aura
-
-<!-- h72d412aagcd14g46a5gb3b8g648699ac0386 -->
-## Stun Aura
-
-<!-- h858f30dcg7409g4280g99f3g8b40e2c86717 -->
-## Stun
-
-<!-- h48f155b3ga637g4e9dg80ecg146326a7e01b -->
-## Greater Ulitharid Mind Mastery
-
-<!-- ha11d5e02g2981g4607g95c8g720724d75ec6 -->
-## Kill Thralls
-
-<!-- h0a1f2340geed2g4465g8164g05ab1222ff54 -->
-## Greater Power Word Kill
-
-<!-- h248e821eg81f4g4dcagbd3dg0015cdfe8111 -->
-## Dismiss Thralls
-
-<!-- h53381874g8c9fg4454g86b4gc1535313fd6e -->
-## Psionic Burst
-
-<!-- haa0d9cc6g11ceg4648g82fag401b309dc26e -->
-## Force Cone
-
-<!-- h0244ea93g5f16g41d2g85d3g608e1589567f -->
-## Force Push
-
-<!-- hbde38e64gc65bg4805gb32cg689007f2b808 -->
-## Aura of Fear
-
-<!-- h4684894agf08ag40eag9e50ge285add63f2d -->
-## Aura of Fright
-
-<!-- h4082f487gdc9cg4cddgb61fg0f40bf800a47 -->
-## Aura of Confusion
-
-<!-- h5e244d68g5ebcg43a4gb90cg901445c8f59d -->
-## Aura of Repulsion
-
 <!-- heebfccaag4396g482dgabf2gc0f7cf9a52f1 -->
 ## Aura of Charm
+<!-- h4082f487gdc9cg4cddgb61fg0f40bf800a47 -->
+## Aura of Confusion
+<!-- hbde38e64gc65bg4805gb32cg689007f2b808 -->
+## Aura of Fear
+<!-- h4684894agf08ag40eag9e50ge285add63f2d -->
+## Aura of Fright
+<!-- h5e244d68g5ebcg43a4gb90cg901445c8f59d -->
+## Aura of Repulsion
+<!-- h248e821eg81f4g4dcagbd3dg0015cdfe8111 -->
+## Dismiss Thralls
+<!-- h4028d03dg7b41g4a77gb241g2ea3d2c760e4 -->
+## Enemy Subjugation Aura
+<!-- haa0d9cc6g11ceg4648g82fag401b309dc26e -->
+## Force Cone
+<!-- h0244ea93g5f16g41d2g85d3g608e1589567f -->
+## Force Push
+<!-- h277a27d6g97b4g4c18g97a8g205bb90aac0a -->
+## Greater Black Hole
+<!-- hcbbdaf4fga06bg4912g8cefge20b1560205a -->
+## Greater Crown Of Madness
+<!-- h0ddbdcc3g0009g4515g9311g7cfadd7d34aa -->
+## Greater Dissonant Whispers
+<!-- haaf16385g1376g4efdgaf34g28efae7b7c32 -->
+## Greater Phantasmal Killer
+<!-- h0a1f2340geed2g4465g8164g05ab1222ff54 -->
+## Greater Power Word Kill
+<!-- h9a15ac8fg7dc1g42fcgbff3g4cdfaa126b14 -->
+## Greater Teleportation
+<!-- h48f155b3ga637g4e9dg80ecg146326a7e01b -->
+## Greater Ulitharid Mind Mastery
+<!-- ha11d5e02g2981g4607g95c8g720724d75ec6 -->
+## Kill Thralls
+<!-- h5ffed731g350fg4b01ga2a9g4803f892b77b -->
+## Nautiloid Bombardment
+<!-- h53381874g8c9fg4454g86b4gc1535313fd6e -->
+## Psionic Burst
+<!-- h5bfb4f12gdf5fg441cg9ed4gd26997afc597 -->
+## Psychic Haste
+<!-- h858f30dcg7409g4280g99f3g8b40e2c86717 -->
+## Stun
+<!-- h72d412aagcd14g46a5gb3b8g648699ac0386 -->
+## Stun Aura
+<!-- h7f8e12aagddb8g4641gb6a1gf184dc10efdc -->
+## Teleport Target
+<!-- h2651caaeg6f9ag401agb88cgf212a8e833e9 -->
+## Ulitharid Beast Domination
+<!-- h033ef54fg5ed8g417fg90bdg9faebb80191d -->
+## Ulitharid Domination
+<!-- h036ccef3gd588g4ef0gbda2g8d2db35e6835 -->
+## Ulitharid Mind Mastery
+<!-- h6cabdcc2g8f43g47a3gb1bcg5eb972316b16 -->
+## Ulitharid Telekinesis
+<!-- hd9249b3egdd27g47c5gb610g200847a26a16 -->
+## Wall of Repulsion
