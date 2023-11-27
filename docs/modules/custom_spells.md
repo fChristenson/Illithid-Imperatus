@@ -69,6 +69,8 @@ Welcome to the enchanting realm of custom spells! Dive into the extraordinary wi
 <!-- h9a15ac8fg7dc1g42fcgbff3g4cdfaa126b14 -->
 ## Greater Teleportation
 
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/greater_teleport.mp4">spell</video>
+
 <!-- h48f155b3ga637g4e9dg80ecg146326a7e01b -->
 ## Greater Ulitharid Mind Mastery
 
@@ -87,6 +89,8 @@ Welcome to the enchanting realm of custom spells! Dive into the extraordinary wi
 <video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/psionic_burst.mp4">spell</video>
 <!-- h5bfb4f12gdf5fg441cg9ed4gd26997afc597 -->
 ## Psychic Haste
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/psychic_haste.mp4">spell</video>
 <!-- h858f30dcg7409g4280g99f3g8b40e2c86717 -->
 ## Stun
 
@@ -107,12 +111,16 @@ Find a complete list of Thralls that can be summoned to your side [here][2].
 ## Ulitharid Beast Domination
 <!-- h033ef54fg5ed8g417fg90bdg9faebb80191d -->
 ## Ulitharid Domination
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/uli_domination.mp4">spell</video>
 <!-- h036ccef3gd588g4ef0gbda2g8d2db35e6835 -->
 ## Ulitharid Mind Mastery
 
 <video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/uli_mind_mastery.mp4">spell</video>
 <!-- h6cabdcc2g8f43g47a3gb1bcg5eb972316b16 -->
 ## Ulitharid Telekinesis
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/uli_telekinesis.mp4">spell</video>
 <!-- hd9249b3egdd27g47c5gb610g200847a26a16 -->
 ## Wall of Repulsion
 
