@@ -7,8 +7,6 @@
 ## Create Supplies
 <!-- h822b390dg80e2g4750g8d44g8da9927ce566 -->
 ## Furniture Shard
-
-Summon Illithid furniture
 <!-- h08cc55e8gf417g4835g9e22g9a9a40cb155d -->
 ## Gravity stone
 <!-- h3b028120g0a59g422cgb810gfa413d584b62 -->
@@ -19,8 +17,6 @@ Summon Illithid furniture
 ## Greater Void Bulb
 <!-- h9fcbbd69gef28g4ad4gb737g4b5063ef0462 -->
 ## Illithid Field Restoration Device
-
-Provides a restoring aura and the ability to resurrect fallen allies.
 <!-- h4ad25208gffb7g441cgb3ecga64a7a2677f1 -->
 ## Prime Portal Shard
 <!-- h5f6465bbg5051g4057g9e6egab45e3b2fdfc -->
