@@ -111,6 +111,8 @@ Find a complete list of Thralls that can be summoned to your side [here][2].
 <video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/teleport_target.mp4">spell</video>
 <!-- h2651caaeg6f9ag401agb88cgf212a8e833e9 -->
 ## Ulitharid Beast Domination
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/uli_dominate_beast.mp4">spell</video>
 <!-- h033ef54fg5ed8g417fg90bdg9faebb80191d -->
 ## Ulitharid Domination
 
