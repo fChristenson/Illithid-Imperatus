@@ -15,7 +15,6 @@ Dive into the "Mind Flayer Ceremorphosis: Illithid Imperatus" mod, where custom 
 
 Download, install and check the [Tutorial chest](https://www.nexusmods.com/baldursgate3/mods/457?tab=posts) for your new gear!
 
-
 ## Ceremorphosis
 
 <iframe width="100%" style="max-width: 560px" height="315" src="https://www.youtube.com/embed/EKkapRiecHo?si=03E7N_lkavyBLDxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
