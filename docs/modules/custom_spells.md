@@ -7,6 +7,8 @@ Welcome to the enchanting realm of custom spells! Dive into the extraordinary wi
 <!-- heebfccaag4396g482dgabf2gc0f7cf9a52f1 -->
 ## Aura of Charm
 
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/aura_of_charm.mp4">spell</video>
+
 <!-- h4082f487gdc9cg4cddgb61fg0f40bf800a47 -->
 ## Aura of Confusion
 
@@ -14,12 +16,16 @@ Welcome to the enchanting realm of custom spells! Dive into the extraordinary wi
 <!-- hbde38e64gc65bg4805gb32cg689007f2b808 -->
 ## Aura of Fear
 
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/aura_of_fear.mp4">spell</video>
+
 <!-- h4684894agf08ag40eag9e50ge285add63f2d -->
 ## Aura of Fright
 
 <video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/aura_of_fright.mp4">spell</video>
 <!-- h5e244d68g5ebcg43a4gb90cg901445c8f59d -->
 ## Aura of Repulsion
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/aura_of_repulsion.mp4">spell</video>
 
 <!-- h248e821eg81f4g4dcagbd3dg0015cdfe8111 -->
 ## Dismiss Thralls
@@ -30,6 +36,8 @@ Welcome to the enchanting realm of custom spells! Dive into the extraordinary wi
 
 <!-- haa0d9cc6g11ceg4648g82fag401b309dc26e -->
 ## Force Cone
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/force_cone.mp4">spell</video>
 <!-- h0244ea93g5f16g41d2g85d3g608e1589567f -->
 ## Force Push
 
@@ -75,12 +83,14 @@ Welcome to the enchanting realm of custom spells! Dive into the extraordinary wi
 <video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/nautiloid_bombardment.mp4">spell</video>
 <!-- h53381874g8c9fg4454g86b4gc1535313fd6e -->
 ## Psionic Burst
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/psionic_burst.mp4">spell</video>
 <!-- h5bfb4f12gdf5fg441cg9ed4gd26997afc597 -->
 ## Psychic Haste
 <!-- h858f30dcg7409g4280g99f3g8b40e2c86717 -->
 ## Stun
-<!-- h72d412aagcd14g46a5gb3b8g648699ac0386 -->
-## Stun Aura
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/stun.mp4">spell</video>
 <!-- h85555a33gc2b4g4b97g8408gb97b34937981 -->
 ## Summon Mindless Thrall
 
