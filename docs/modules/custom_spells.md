@@ -11,15 +11,14 @@ Casues enemies to be charmed
 <!-- h4082f487gdc9cg4cddgb61fg0f40bf800a47 -->
 ## Aura of Confusion
 
-Casues target to become confused.
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/aura_of_confusion.mp4">spell</video>
 <!-- hbde38e64gc65bg4805gb32cg689007f2b808 -->
 ## Aura of Fear
 
-Casues target to flee in fear.
 <!-- h4684894agf08ag40eag9e50ge285add63f2d -->
 ## Aura of Fright
 
-Casues target to freeze in fright.
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/aura_of_fright.mp4">spell</video>
 <!-- h5e244d68g5ebcg43a4gb90cg901445c8f59d -->
 ## Aura of Repulsion
 
@@ -28,6 +27,8 @@ Casues enemies to be knocked back.
 ## Dismiss Thralls
 <!-- h4028d03dg7b41g4a77gb241g2ea3d2c760e4 -->
 ## Enemy Subjugation Aura
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/enemy_sub_aura.mp4">spell</video>
 
 Stun enemies who get too close
 <!-- haa0d9cc6g11ceg4648g82fag401b309dc26e -->
@@ -44,10 +45,20 @@ Create a black hole that pulls in enemies with extreme force.
 Force enemies to attack the closest target, other than you.
 <!-- h0ddbdcc3g0009g4515g9311g7cfadd7d34aa -->
 ## Greater Dissonant Whispers
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/greater_dissonant_whispers.mp4">spell</video>
+<!-- h93e1029cgb24eg4a26gb810g9ea6b1316f27 -->
+## Greater Hold Monster
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/greater_hold_monster.mp4">spell</video>
 <!-- haaf16385g1376g4efdgaf34g28efae7b7c32 -->
 ## Greater Phantasmal Killer
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/greater_phantasmal_killer.mp4">spell</video>
 <!-- h0a1f2340geed2g4465g8164g05ab1222ff54 -->
 ## Greater Power Word Kill
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/greater_pw_kill.mp4">spell</video>
 <!-- h9a15ac8fg7dc1g42fcgbff3g4cdfaa126b14 -->
 ## Greater Teleportation
 
@@ -65,6 +76,8 @@ Make target side with caster.
 Order all Thralls to take their own life.
 <!-- h5ffed731g350fg4b01ga2a9g4803f892b77b -->
 ## Nautiloid Bombardment
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/nautiloid_bombardment.mp4">spell</video>
 <!-- h53381874g8c9fg4454g86b4gc1535313fd6e -->
 ## Psionic Burst
 <!-- h5bfb4f12gdf5fg441cg9ed4gd26997afc597 -->
