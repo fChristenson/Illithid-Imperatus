@@ -5,11 +5,11 @@
 		<node id="TextureBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="c2f37c46-86b6-4749-88be-c57cb796b5c6" /> Generate new UUID. Same value as UUID for TextureAtlasPath at Icons_Items.lsx
+					<attribute id="ID" type="FixedString" value="688d0348-2882-4949-89b9-8a9b86071788" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="FU_Icons" /> Rename
+					<attribute id="Name" type="LSString" value="RingOfTheUlitharid_Icons" />
 					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Public/FU/Assets/Textures/Icons/FU_Icons.dds" /> Rename and change filepath
+					<attribute id="SourceFile" type="LSString" value="Public/FU/Assets/Textures/Icons/RingOfTheUlitharid_Icons.dds" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Icons_FU" />
 					<attribute id="Type" type="int64" value="0" />
