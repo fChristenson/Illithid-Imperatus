@@ -29,6 +29,8 @@ Welcome to the enchanting realm of custom spells! Dive into the extraordinary wi
 
 <!-- h248e821eg81f4g4dcagbd3dg0015cdfe8111 -->
 ## Dismiss Thralls
+
+<video controls width="100%" style="max-width: 560px" src="/Illithid-Imperatus/assets/dismiss_thrall.mp4">spell</video>
 <!-- h4028d03dg7b41g4a77gb241g2ea3d2c760e4 -->
 ## Enemy Subjugation Aura
 
