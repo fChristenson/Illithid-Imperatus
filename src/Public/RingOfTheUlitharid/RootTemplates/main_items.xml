@@ -569,7 +569,7 @@
     <attribute id="Name" type="LSString" value="FRE_Tessadyle_boots" />
     <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="Type" type="FixedString" value="item" />
-    <attribute id="ParentTemplateId" type="FixedString" value="c1f9f7af-cdb2-49f6-8459-521f2b9263cb" />
+    <attribute id="ParentTemplateId" type="FixedString" value="397331d6-e86e-448d-8255-014dab6f860f" />
     <attribute id="Stats" type="FixedString" value="FRE_Tessadyle_boots" />
     <children>
         <node id="GameMaster" />
