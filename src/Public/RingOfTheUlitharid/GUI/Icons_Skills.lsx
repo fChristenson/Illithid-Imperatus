@@ -22,7 +22,7 @@
                     <attribute id="Width" type="int32" value="64"/>
                 </node>
                 <node id="TextureAtlasPath">
-                    <attribute id="Path" type="string" value="Assets/Textures/Icons/RingOfTheUlitharid_Icons.dds"/>
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/Icons_Skills.dds"/>
                     <attribute id="UUID" type="FixedString" value="688d0348-2882-4949-89b9-8a9b86071788"/>
                 </node>
                 <node id="TextureAtlasTextureSize">

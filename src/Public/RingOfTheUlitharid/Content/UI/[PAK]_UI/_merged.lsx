@@ -7,13 +7,16 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="688d0348-2882-4949-89b9-8a9b86071788" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="RingOfTheUlitharid_Icons" />
-					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Public/RingOfTheUlitharid/Assets/Textures/Icons/RingOfTheUlitharid_Icons.dds" />
+					<attribute id="SourceFile" type="LSString" value="Public/RingOfTheUlitharid/Assets/Textures/Icons/Icons_Skills.dds" />
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="Name" type="LSString" value="Icons_Skills" />
+					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="RingOfTheUlitharid_Icons" />
-					<attribute id="Type" type="int64" value="0" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<attribute id="Template" type="FixedString" value="Icons_Skills" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
 				</node>
 			</children>
 		</node>
