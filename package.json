@@ -6,10 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "npx rimraf dist",
-    "copy": "npm run copy:stats && npm run copy:meta && npm run copy:icons",
+    "copy": "npm run copy:stats && npm run copy:meta && npm run copy:iconmap && npm run copy:tooltipicons",
     "copy:stats": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/Stats ./dist/RingOfTheUlitharid/Public/RingOfTheUlitharid/Stats",
     "copy:meta": "node scripts/cp.cjs ./src/Mods/RingOfTheUlitharid/meta.lsx ./dist/RingOfTheUlitharid/Mods/RingOfTheUlitharid/meta.lsx",
-    "copy:icons": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/Assets/Textures/Icons/RingOfTheUlitharid_Icons.dds ./dist/RingOfTheUlitharid/Public/RingOfTheUlitharid/Assets/Textures/Icons/RingOfTheUlitharid_Icons.dds",
+    "copy:iconmap": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/Assets/Textures/Icons/RingOfTheUlitharid_Icons.dds ./dist/RingOfTheUlitharid/Public/RingOfTheUlitharid/Assets/Textures/Icons/RingOfTheUlitharid_Icons.dds",
+    "copy:tooltipicons": "node scripts/cp.cjs ./src/Public/Game/GUI/Assets/Tooltips/Icons ./dist/RingOfTheUlitharid/Public/Game/GUI/Assets/Tooltips/Icons",
     "render": "node scripts/render.cjs",
     "dev:xml": "npx nodemon -x \"npm run render\" -e \"xml template\" -w ./src/Public/RingOfTheUlitharid/RootTemplates",
     "dev:txt": "npx nodemon -x \"npm run copy\" -e \"txt\" -w ./src/Public/RingOfTheUlitharid/Stats"

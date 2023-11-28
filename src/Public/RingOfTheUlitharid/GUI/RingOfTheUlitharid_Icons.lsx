@@ -7,9 +7,9 @@
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="FRE_Icon_HoodedSkull"/>
                     <attribute id="U1" type="float" value="0.0"/>
-                    <attribute id="U2" type="float" value="0.03125"/>
+                    <attribute id="U2" type="float" value="0.042"/>
                     <attribute id="V1" type="float" value="0.0"/>
-                    <attribute id="V2" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="1.0"/>
                 </node>
             </children>
         </node>
