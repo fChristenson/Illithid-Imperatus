@@ -14,7 +14,7 @@ const getTemplate = ({ mapKey, u1 }) =>
     '<node id="IconUV">',
     `  <attribute id="MapKey" type="FixedString" value="${mapKey}"/>`,
     `  <attribute id="U1" type="float" value="${u1}"/>`,
-    '  <attribute id="U2" type="float" value="0.042"/>',
+    `  <attribute id="U2" type="float" value="${widthMultiple}"/>`,
     '  <attribute id="V1" type="float" value="0.0"/>',
     '  <attribute id="V2" type="float" value="1.0"/>',
     "</node>",
@@ -24,7 +24,7 @@ for (let i = 0; i < filenames.length; i++) {
   const filename = filenames[i];
   const conf = {
     mapKey: `FRE_${p.basename(filename, ".jpeg")}`,
-    u1: i * widthMultiple,
+    u1: (i === 0 ? 0.0 : widthMultiple * Math.pow(2, (i - 1) % 14)).toFixed(3),
   };
   result.push(getTemplate(conf));
 }
@@ -52,8 +52,8 @@ const configTemplate = [
   '                    <attribute id="UUID" type="FixedString" value="688d0348-2882-4949-89b9-8a9b86071788"/>',
   "                </node>",
   '                <node id="TextureAtlasTextureSize">',
-  '                    <attribute id="Height" type="int32" value="64"/>',
-  '                    <attribute id="Width" type="int32" value="9600"/>',
+  '                    <attribute id="Height" type="int32" value="2048"/>',
+  '                    <attribute id="Width" type="int32" value="2048"/>',
   "                </node>",
   "            </children>",
   "        </node>",
