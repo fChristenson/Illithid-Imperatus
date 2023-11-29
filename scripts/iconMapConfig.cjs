@@ -7,24 +7,27 @@ const pathToOutputFile = process.argv[3];
 const filenames = fs.readdirSync(pathToFiles);
 
 const result = [];
-const widthMultiple = 0.042;
+const start = 0.00024414062;
+const width = 0.031005859;
 
-const getTemplate = ({ mapKey, u1 }) =>
+const getTemplate = ({ mapKey, u1, u2 }) =>
   [
     '<node id="IconUV">',
     `  <attribute id="MapKey" type="FixedString" value="${mapKey}"/>`,
     `  <attribute id="U1" type="float" value="${u1}"/>`,
-    `  <attribute id="U2" type="float" value="${widthMultiple}"/>`,
-    '  <attribute id="V1" type="float" value="0.0"/>',
-    '  <attribute id="V2" type="float" value="1.0"/>',
+    `  <attribute id="U2" type="float" value="${u2}"/>`,
+    '  <attribute id="V1" type="float" value="0.00024414062"/>',
+    '  <attribute id="V2" type="float" value="0.031005859"/>',
     "</node>",
   ].join("\n");
 
 for (let i = 0; i < filenames.length; i++) {
   const filename = filenames[i];
+  const u1 = i === 0 ? start : (start + width) * i;
   const conf = {
     mapKey: `FRE_${p.basename(filename, ".jpeg")}`,
-    u1: (i === 0 ? 0.0 : widthMultiple * Math.pow(2, (i - 1) % 14)).toFixed(3),
+    u1,
+    u2: u1 + width,
   };
   result.push(getTemplate(conf));
 }
@@ -32,7 +35,7 @@ for (let i = 0; i < filenames.length; i++) {
 const configTemplate = [
   '<?xml version="1.0" encoding="UTF-8"?>',
   "<save>",
-  '    <version major="4" minor="3" revision="0" build="0"/>',
+  '    <version major="4" minor="0" revision="9" build="328"/>',
   '    <region id="IconUVList">',
   '        <node id="root">',
   "            <children>",
