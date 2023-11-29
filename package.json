@@ -15,7 +15,8 @@
     "render": "node scripts/render.cjs",
     "dev:xml": "npx nodemon -x \"npm run render\" -e \"xml template\" -w ./src/Public/RingOfTheUlitharid/RootTemplates",
     "dev:copy": "npx nodemon -x \"npm run copy\" -e \"txt xml dds lsx\" -w ./src/Public",
-    "resize:64": "node ./scripts/resize.cjs 64 ./src/Icons/Originals ./src/Icons/64x64"
+    "resize:64": "node ./scripts/resize.cjs 64 ./src/Icons/Originals ./src/Icons/64x64",
+    "resize:256": "node ./scripts/resize.cjs 256 ./src/Icons/Originals ./src/Icons/256x256"
   },
   "repository": {
     "type": "git",
