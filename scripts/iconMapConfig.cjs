@@ -9,6 +9,7 @@ const filenames = fs.readdirSync(pathToFiles);
 const result = [];
 const start = 0.00024414062;
 const width = 0.031005859;
+const columns = 32;
 
 const getTemplate = ({ mapKey, u1, u2 }) =>
   [
@@ -23,7 +24,8 @@ const getTemplate = ({ mapKey, u1, u2 }) =>
 
 for (let i = 0; i < filenames.length; i++) {
   const filename = filenames[i];
-  const u1 = i === 0 ? start : (start + width) * i;
+  const pointer = i % columns;
+  const u1 = pointer === 0 ? start : (start + width) * pointer;
   const conf = {
     mapKey: `FRE_${p.basename(filename, ".jpeg")}`,
     u1,
