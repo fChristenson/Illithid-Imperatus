@@ -21,6 +21,6 @@ data "SpellSoundMagnitude" "Big"
 
 new entry "FRE_WallOfRepulsion"
 using "FRE_BaseWall"
-data "Icon" "TadpoleSuperPower_Repulsor"
+data "Icon" "FRE_shield_1"
 data "DisplayName" "hd9249b3egdd27g47c5gb610g200847a26a16;2"
 data "Description" "h1587691ag4421g4d1cgbcb4g3019e8c00eac;2"
