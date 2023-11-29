@@ -11,25 +11,31 @@ const start = 0.00024414062;
 const width = 0.031005859;
 const columns = 32;
 
-const getTemplate = ({ mapKey, u1, u2 }) =>
+const getTemplate = ({ mapKey, u1, u2, v1, v2 }) =>
   [
     '<node id="IconUV">',
     `  <attribute id="MapKey" type="FixedString" value="${mapKey}"/>`,
     `  <attribute id="U1" type="float" value="${u1}"/>`,
     `  <attribute id="U2" type="float" value="${u2}"/>`,
-    '  <attribute id="V1" type="float" value="0.00024414062"/>',
-    '  <attribute id="V2" type="float" value="0.031005859"/>',
+    `  <attribute id="V1" type="float" value="${v1}"/>`,
+    `  <attribute id="V2" type="float" value="${v2}"/>`,
     "</node>",
   ].join("\n");
 
 for (let i = 0; i < filenames.length; i++) {
   const filename = filenames[i];
   const pointer = i % columns;
+  const rowPointer = Math.floor(i / (columns + 1));
   const u1 = pointer === 0 ? start : (start + width) * pointer;
+  const u2 = u1 + width;
+  const v1 = pointer === 0 ? start : (start + width) * rowPointer;
+  const v2 = v1 + width;
   const conf = {
     mapKey: `FRE_${p.basename(filename, ".jpeg")}`,
     u1,
-    u2: u1 + width,
+    u2,
+    v1,
+    v2,
   };
   result.push(getTemplate(conf));
 }
