@@ -29,4 +29,36 @@ for (let i = 0; i < filenames.length; i++) {
   result.push(getTemplate(conf));
 }
 
-fs.writeFileSync(pathToOutputFile, result.join("\n"));
+const configTemplate = [
+  '<?xml version="1.0" encoding="UTF-8"?>',
+  "<save>",
+  '    <version major="4" minor="3" revision="0" build="0"/>',
+  '    <region id="IconUVList">',
+  '        <node id="root">',
+  "            <children>",
+  result.join("\n"),
+  "            </children>",
+  "        </node>",
+  "    </region>",
+  '    <region id="TextureAtlasInfo">',
+  '        <node id="root">',
+  "            <children>",
+  '                <node id="TextureAtlasIconSize">',
+  '                    <attribute id="Height" type="int32" value="64"/>',
+  '                    <attribute id="Width" type="int32" value="64"/>',
+  "                </node>",
+  '                <node id="TextureAtlasPath">',
+  '                    <attribute id="Path" type="string" value="Assets/Textures/Icons/Icons_Skills.dds"/>',
+  '                    <attribute id="UUID" type="FixedString" value="688d0348-2882-4949-89b9-8a9b86071788"/>',
+  "                </node>",
+  '                <node id="TextureAtlasTextureSize">',
+  '                    <attribute id="Height" type="int32" value="2048"/>',
+  '                    <attribute id="Width" type="int32" value="2048"/>',
+  "                </node>",
+  "            </children>",
+  "        </node>",
+  "    </region>",
+  "</save>",
+];
+
+fs.writeFileSync(pathToOutputFile, configTemplate.join("\n"));
