@@ -6,14 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "npx rimraf dist",
-    "copy": "npm run copy:stats && npm run copy:meta && npm run copy:iconmap && npm run copy:assets",
+    "copy": "npm run copy:stats && npm run copy:meta && npm run copy:iconmap && npm run copy:assets && npm run copy:gui",
     "copy:stats": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/Stats ./dist/RingOfTheUlitharid/Public/RingOfTheUlitharid/Stats",
     "copy:meta": "node scripts/cp.cjs ./src/Mods/RingOfTheUlitharid/meta.lsx ./dist/RingOfTheUlitharid/Mods/RingOfTheUlitharid/meta.lsx",
     "copy:iconmap": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/Assets/Textures/Icons ./dist/RingOfTheUlitharid/Public/RingOfTheUlitharid/Assets/Textures/Icons",
+    "copy:gui": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/GUI ./dist/RingOfTheUlitharid/Public/RingOfTheUlitharid/GUI",
     "copy:assets": "node scripts/cp.cjs ./src/Public/Game/GUI/Assets ./dist/RingOfTheUlitharid/Public/Game/GUI/Assets",
     "render": "node scripts/render.cjs",
     "dev:xml": "npx nodemon -x \"npm run render\" -e \"xml template\" -w ./src/Public/RingOfTheUlitharid/RootTemplates",
-    "dev:txt": "npx nodemon -x \"npm run copy\" -e \"txt\" -w ./src/Public/RingOfTheUlitharid/Stats"
+    "dev:copy": "npx nodemon -x \"npm run copy\" -e \"txt xml dds lsx\" -w ./src/Public"
   },
   "repository": {
     "type": "git",
