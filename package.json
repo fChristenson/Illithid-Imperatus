@@ -14,7 +14,8 @@
     "copy:assets": "node scripts/cp.cjs ./src/Public/Game/GUI/Assets ./dist/RingOfTheUlitharid/Public/Game/GUI/Assets",
     "render": "node scripts/render.cjs",
     "dev:xml": "npx nodemon -x \"npm run render\" -e \"xml template\" -w ./src/Public/RingOfTheUlitharid/RootTemplates",
-    "dev:copy": "npx nodemon -x \"npm run copy\" -e \"txt xml dds lsx\" -w ./src/Public"
+    "dev:copy": "npx nodemon -x \"npm run copy\" -e \"txt xml dds lsx\" -w ./src/Public",
+    "resize:64": "node ./scripts/resize.cjs 64 ./src/Icons/Originals ./src/Icons/64x64"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,7 @@
   "dependencies": {
     "cp-cli": "^2.0.0",
     "ejs": "^3.1.9",
+    "jimp": "^0.22.10",
     "nodemon": "^3.0.1",
     "rimraf": "^5.0.5"
   }
