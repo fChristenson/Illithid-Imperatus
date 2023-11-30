@@ -1,7 +1,6 @@
 new entry "FRE_Teleportation_Target"
 type "SpellData"
 data "SpellType" "Teleportation"
-data "Level" "6"
 data "SpellSchool" "Conjuration"
 data "TargetRadius" "100"
 data "AreaRadius" "100"
