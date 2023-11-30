@@ -28,10 +28,11 @@ for (let i = 0; i < filenames.length; i++) {
   const filename = filenames[i];
   const pointer = i % columns;
   const rowPointer = Math.floor(i / columns);
-  const u1 = pointer === 0 ? start : (start + width) * pointer;
+  const u1 = width * pointer + start;
   const u2 = u1 + width;
-  const v1 = pointer === 0 ? start : (start + width) * rowPointer;
+  const v1 = width * rowPointer + start;
   const v2 = v1 + width;
+
   const conf = {
     mapKey: `FRE_${p.basename(filename, ".jpeg")}`,
     u1,
