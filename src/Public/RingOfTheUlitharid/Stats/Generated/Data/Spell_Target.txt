@@ -406,7 +406,7 @@ data "PrepareEffect" "bde2ae3f-f179-4e22-81a6-96ad4db6f212"
 data "CastEffect" "8801615b-2942-418b-821b-4f29a8af10dc"
 data "TargetEffect" "c76a7a05-3a68-4bfb-b1a4-db8ff29ce088"
 
-new entry "FRE_Target_Repulsor"
+new entry "FRE_Target_PsionicBurst"
 type "SpellData"
 data "SpellType" "Target"
 data "SpellProperties" ""

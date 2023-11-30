@@ -4,7 +4,9 @@ const p = require("path");
 const pathToFiles = process.argv[2];
 const pathToOutputFile = process.argv[3];
 
-const filenames = fs.readdirSync(pathToFiles);
+const filenames = fs
+  .readdirSync(pathToFiles)
+  .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
 
 const result = [];
 const start = 0.00024414062;
@@ -25,7 +27,7 @@ const getTemplate = ({ mapKey, u1, u2, v1, v2 }) =>
 for (let i = 0; i < filenames.length; i++) {
   const filename = filenames[i];
   const pointer = i % columns;
-  const rowPointer = Math.floor(i / (columns + 1));
+  const rowPointer = Math.floor(i / columns);
   const u1 = pointer === 0 ? start : (start + width) * pointer;
   const u2 = u1 + width;
   const v1 = pointer === 0 ? start : (start + width) * rowPointer;

@@ -264,63 +264,63 @@
   <attribute id="V2" type="float" value="0.06225585862"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_eye_10"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_eye_2"/>
   <attribute id="U1" type="float" value="0.1562499981"/>
   <attribute id="U2" type="float" value="0.1872558571"/>
   <attribute id="V1" type="float" value="0.03124999962"/>
   <attribute id="V2" type="float" value="0.06225585862"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_eye_2"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_eye_3"/>
   <attribute id="U1" type="float" value="0.18749999772"/>
   <attribute id="U2" type="float" value="0.21850585672"/>
   <attribute id="V1" type="float" value="0.03124999962"/>
   <attribute id="V2" type="float" value="0.06225585862"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_eye_3"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_eye_4"/>
   <attribute id="U1" type="float" value="0.21874999734"/>
   <attribute id="U2" type="float" value="0.24975585634"/>
   <attribute id="V1" type="float" value="0.03124999962"/>
   <attribute id="V2" type="float" value="0.06225585862"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_eye_4"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_eye_5"/>
   <attribute id="U1" type="float" value="0.24999999696"/>
   <attribute id="U2" type="float" value="0.28100585596"/>
   <attribute id="V1" type="float" value="0.03124999962"/>
   <attribute id="V2" type="float" value="0.06225585862"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_eye_5"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_eye_6"/>
   <attribute id="U1" type="float" value="0.28124999658"/>
   <attribute id="U2" type="float" value="0.31225585558"/>
   <attribute id="V1" type="float" value="0.03124999962"/>
   <attribute id="V2" type="float" value="0.06225585862"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_eye_6"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_eye_7"/>
   <attribute id="U1" type="float" value="0.3124999962"/>
   <attribute id="U2" type="float" value="0.34350585520000004"/>
   <attribute id="V1" type="float" value="0.03124999962"/>
   <attribute id="V2" type="float" value="0.06225585862"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_eye_7"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_eye_8"/>
   <attribute id="U1" type="float" value="0.34374999582"/>
   <attribute id="U2" type="float" value="0.37475585482"/>
   <attribute id="V1" type="float" value="0.03124999962"/>
   <attribute id="V2" type="float" value="0.06225585862"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_eye_8"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_eye_9"/>
   <attribute id="U1" type="float" value="0.37499999544"/>
   <attribute id="U2" type="float" value="0.40600585444000004"/>
   <attribute id="V1" type="float" value="0.03124999962"/>
   <attribute id="V2" type="float" value="0.06225585862"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_eye_9"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_eye_10"/>
   <attribute id="U1" type="float" value="0.40624999506"/>
   <attribute id="U2" type="float" value="0.43725585406"/>
   <attribute id="V1" type="float" value="0.03124999962"/>
@@ -463,8 +463,8 @@
   <attribute id="MapKey" type="FixedString" value="FRE_hole_3"/>
   <attribute id="U1" type="float" value="0.03124999962"/>
   <attribute id="U2" type="float" value="0.06225585862"/>
-  <attribute id="V1" type="float" value="0.03124999962"/>
-  <attribute id="V2" type="float" value="0.06225585862"/>
+  <attribute id="V1" type="float" value="0.06249999924"/>
+  <attribute id="V2" type="float" value="0.09350585824"/>
 </node>
 <node id="IconUV">
   <attribute id="MapKey" type="FixedString" value="FRE_lock_1"/>
@@ -687,15 +687,15 @@
   <attribute id="MapKey" type="FixedString" value="FRE_rat_2"/>
   <attribute id="U1" type="float" value="0.03124999962"/>
   <attribute id="U2" type="float" value="0.06225585862"/>
-  <attribute id="V1" type="float" value="0.06249999924"/>
-  <attribute id="V2" type="float" value="0.09350585824"/>
+  <attribute id="V1" type="float" value="0.09374999886"/>
+  <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
   <attribute id="MapKey" type="FixedString" value="FRE_rat_3"/>
   <attribute id="U1" type="float" value="0.06249999924"/>
   <attribute id="U2" type="float" value="0.09350585824"/>
-  <attribute id="V1" type="float" value="0.06249999924"/>
-  <attribute id="V2" type="float" value="0.09350585824"/>
+  <attribute id="V1" type="float" value="0.09374999886"/>
+  <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
   <attribute id="MapKey" type="FixedString" value="FRE_shield_1"/>
@@ -740,91 +740,91 @@
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_10"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_2"/>
   <attribute id="U1" type="float" value="0.28124999658"/>
   <attribute id="U2" type="float" value="0.31225585558"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_11"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_3"/>
   <attribute id="U1" type="float" value="0.3124999962"/>
   <attribute id="U2" type="float" value="0.34350585520000004"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_12"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_4"/>
   <attribute id="U1" type="float" value="0.34374999582"/>
   <attribute id="U2" type="float" value="0.37475585482"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_13"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_5"/>
   <attribute id="U1" type="float" value="0.37499999544"/>
   <attribute id="U2" type="float" value="0.40600585444000004"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_14"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_6"/>
   <attribute id="U1" type="float" value="0.40624999506"/>
   <attribute id="U2" type="float" value="0.43725585406"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_2"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_7"/>
   <attribute id="U1" type="float" value="0.43749999468"/>
   <attribute id="U2" type="float" value="0.46850585368000003"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_3"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_8"/>
   <attribute id="U1" type="float" value="0.4687499943"/>
   <attribute id="U2" type="float" value="0.4997558533"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_4"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_9"/>
   <attribute id="U1" type="float" value="0.49999999392"/>
   <attribute id="U2" type="float" value="0.53100585292"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_5"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_10"/>
   <attribute id="U1" type="float" value="0.53124999354"/>
   <attribute id="U2" type="float" value="0.56225585254"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_6"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_11"/>
   <attribute id="U1" type="float" value="0.56249999316"/>
   <attribute id="U2" type="float" value="0.59350585216"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_7"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_12"/>
   <attribute id="U1" type="float" value="0.59374999278"/>
   <attribute id="U2" type="float" value="0.6247558517799999"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_8"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_13"/>
   <attribute id="U1" type="float" value="0.6249999924"/>
   <attribute id="U2" type="float" value="0.6560058514"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_9"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_skull_hood_14"/>
   <attribute id="U1" type="float" value="0.65624999202"/>
   <attribute id="U2" type="float" value="0.68725585102"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
@@ -859,140 +859,140 @@
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_10"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_2"/>
   <attribute id="U1" type="float" value="0.81249999012"/>
   <attribute id="U2" type="float" value="0.8435058491199999"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_11"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_3"/>
   <attribute id="U1" type="float" value="0.84374998974"/>
   <attribute id="U2" type="float" value="0.87475584874"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_12"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_4"/>
   <attribute id="U1" type="float" value="0.87499998936"/>
   <attribute id="U2" type="float" value="0.90600584836"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_13"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_5"/>
   <attribute id="U1" type="float" value="0.90624998898"/>
   <attribute id="U2" type="float" value="0.93725584798"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_14"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_6"/>
   <attribute id="U1" type="float" value="0.9374999886"/>
   <attribute id="U2" type="float" value="0.9685058475999999"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_15"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_7"/>
   <attribute id="U1" type="float" value="0.96874998822"/>
   <attribute id="U2" type="float" value="0.99975584722"/>
   <attribute id="V1" type="float" value="0.09374999886"/>
   <attribute id="V2" type="float" value="0.12475585786"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_16"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_8"/>
   <attribute id="U1" type="float" value="0.00024414062"/>
   <attribute id="U2" type="float" value="0.03124999962"/>
   <attribute id="V1" type="float" value="0.00024414062"/>
   <attribute id="V2" type="float" value="0.03124999962"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_17"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_9"/>
   <attribute id="U1" type="float" value="0.03124999962"/>
   <attribute id="U2" type="float" value="0.06225585862"/>
-  <attribute id="V1" type="float" value="0.09374999886"/>
-  <attribute id="V2" type="float" value="0.12475585786"/>
+  <attribute id="V1" type="float" value="0.12499999848"/>
+  <attribute id="V2" type="float" value="0.15600585748"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_18"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_10"/>
   <attribute id="U1" type="float" value="0.06249999924"/>
   <attribute id="U2" type="float" value="0.09350585824"/>
-  <attribute id="V1" type="float" value="0.09374999886"/>
-  <attribute id="V2" type="float" value="0.12475585786"/>
+  <attribute id="V1" type="float" value="0.12499999848"/>
+  <attribute id="V2" type="float" value="0.15600585748"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_19"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_11"/>
   <attribute id="U1" type="float" value="0.09374999886"/>
   <attribute id="U2" type="float" value="0.12475585786"/>
-  <attribute id="V1" type="float" value="0.09374999886"/>
-  <attribute id="V2" type="float" value="0.12475585786"/>
+  <attribute id="V1" type="float" value="0.12499999848"/>
+  <attribute id="V2" type="float" value="0.15600585748"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_2"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_12"/>
   <attribute id="U1" type="float" value="0.12499999848"/>
   <attribute id="U2" type="float" value="0.15600585748"/>
   <attribute id="V1" type="float" value="0.12499999848"/>
   <attribute id="V2" type="float" value="0.15600585748"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_20"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_13"/>
   <attribute id="U1" type="float" value="0.1562499981"/>
   <attribute id="U2" type="float" value="0.1872558571"/>
   <attribute id="V1" type="float" value="0.12499999848"/>
   <attribute id="V2" type="float" value="0.15600585748"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_21"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_14"/>
   <attribute id="U1" type="float" value="0.18749999772"/>
   <attribute id="U2" type="float" value="0.21850585672"/>
   <attribute id="V1" type="float" value="0.12499999848"/>
   <attribute id="V2" type="float" value="0.15600585748"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_3"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_15"/>
   <attribute id="U1" type="float" value="0.21874999734"/>
   <attribute id="U2" type="float" value="0.24975585634"/>
   <attribute id="V1" type="float" value="0.12499999848"/>
   <attribute id="V2" type="float" value="0.15600585748"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_4"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_16"/>
   <attribute id="U1" type="float" value="0.24999999696"/>
   <attribute id="U2" type="float" value="0.28100585596"/>
   <attribute id="V1" type="float" value="0.12499999848"/>
   <attribute id="V2" type="float" value="0.15600585748"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_5"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_17"/>
   <attribute id="U1" type="float" value="0.28124999658"/>
   <attribute id="U2" type="float" value="0.31225585558"/>
   <attribute id="V1" type="float" value="0.12499999848"/>
   <attribute id="V2" type="float" value="0.15600585748"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_6"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_18"/>
   <attribute id="U1" type="float" value="0.3124999962"/>
   <attribute id="U2" type="float" value="0.34350585520000004"/>
   <attribute id="V1" type="float" value="0.12499999848"/>
   <attribute id="V2" type="float" value="0.15600585748"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_7"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_19"/>
   <attribute id="U1" type="float" value="0.34374999582"/>
   <attribute id="U2" type="float" value="0.37475585482"/>
   <attribute id="V1" type="float" value="0.12499999848"/>
   <attribute id="V2" type="float" value="0.15600585748"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_8"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_20"/>
   <attribute id="U1" type="float" value="0.37499999544"/>
   <attribute id="U2" type="float" value="0.40600585444000004"/>
   <attribute id="V1" type="float" value="0.12499999848"/>
   <attribute id="V2" type="float" value="0.15600585748"/>
 </node>
 <node id="IconUV">
-  <attribute id="MapKey" type="FixedString" value="FRE_squid_9"/>
+  <attribute id="MapKey" type="FixedString" value="FRE_squid_21"/>
   <attribute id="U1" type="float" value="0.40624999506"/>
   <attribute id="U2" type="float" value="0.43725585406"/>
   <attribute id="V1" type="float" value="0.12499999848"/>
