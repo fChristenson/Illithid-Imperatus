@@ -1,4 +1,4 @@
-new entry "FRE_MindFlayer"
+new entry "FRE_MindFlayer_Thrall"
 type "Character"
 using "_Aberration"
 data "Strength" "20"

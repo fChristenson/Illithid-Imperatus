@@ -1,143 +1,10 @@
 <node id="GameObjects">
-    <attribute id="Archetype" type="FixedString" value="mindflayer" />
-    <attribute id="CharacterVisualResourceID" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b" />
-    <attribute id="Icon" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b-_(Icon_Mindflayer)" />
-    <attribute id="LevelName" type="FixedString" value="" />
-    <attribute id="LevelOverride" type="int32" value="8" />
-    <attribute id="MapKey" type="FixedString" value="7231547d-51ed-4f3d-aa72-b223d45d6f14" />
-    <attribute id="Name" type="LSString" value="FRE_Mindflayer" />
-    <attribute id="ParentTemplateId" type="FixedString" value="e4da9179-d4e9-4e3d-af1b-b2c287732e18" />
-    <attribute id="ReadinessFlags" type="uint32" value="12" />
-    <attribute id="Type" type="FixedString" value="character" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
-    <children>
-        <node id="LocomotionParams" />
-    </children>
-</node>
-<node id="GameObjects">
-    <attribute id="Archetype" type="FixedString" value="mindflayer" />
-    <attribute id="CharacterVisualResourceID" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b" />
-    <attribute id="Icon" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b-_(Icon_Mindflayer)" />
-    <attribute id="LevelName" type="FixedString" value="" />
-    <attribute id="LevelOverride" type="int32" value="8" />
-    <attribute id="MapKey" type="FixedString" value="ae6e38f3-79aa-4258-b3fd-9a7a1d0c1370" />
-    <attribute id="Name" type="LSString" value="Mindflayer" />
-    <attribute id="ParentTemplateId" type="FixedString" value="e4da9179-d4e9-4e3d-af1b-b2c287732e18" />
-    <attribute id="ReadinessFlags" type="uint32" value="12" />
-    <attribute id="Type" type="FixedString" value="character" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
-    <children>
-        <node id="LocomotionParams" />
-    </children>
-</node>
-<node id="GameObjects">
-    <attribute id="Archetype" type="FixedString" value="mindflayer" />
-    <attribute id="CharacterVisualResourceID" type="FixedString" value="785f27dd-1c2a-07c7-ac2f-6a679d4e850e" />
-    <attribute id="GeneratePortrait" type="LSString" value="Icon_Mindflayer_Emperor" />
-    <attribute id="Icon" type="FixedString" value="785f27dd-1c2a-07c7-ac2f-6a679d4e850e-_(Icon_Mindflayer_Emperor)" />
-    <attribute id="LevelName" type="FixedString" value="" />
-    <attribute id="LevelOverride" type="int32" value="8" />
-    <attribute id="MapKey" type="FixedString" value="969c3f50-3994-4e38-b2a4-3e59d213c97f" />
-    <attribute id="Name" type="LSString" value="FRE_Mindflayer_Emperor" />
-    <attribute id="ParentTemplateId" type="FixedString" value="e4da9179-d4e9-4e3d-af1b-b2c287732e18" />
-    <attribute id="Type" type="FixedString" value="character" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
-    <children>
-        <node id="LocomotionParams" />
-    </children>
-</node>
-<node id="GameObjects">
-    <attribute id="Archetype" type="FixedString" value="mindflayer" />
-    <attribute id="CharacterVisualResourceID" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b" />
-    <attribute id="Icon" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b-_(Icon_Mindflayer)" />
-    <attribute id="LevelName" type="FixedString" value="" />
-    <attribute id="LevelOverride" type="int32" value="8" />
-    <attribute id="MapKey" type="FixedString" value="6341764a-3d49-4a70-b555-5802946a76c5" />
-    <attribute id="Name" type="LSString" value="FRE_Mindflayer" />
-    <attribute id="ParentTemplateId" type="FixedString" value="e4da9179-d4e9-4e3d-af1b-b2c287732e18" />
-    <attribute id="ReadinessFlags" type="uint32" value="12" />
-    <attribute id="Type" type="FixedString" value="character" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
-</node>
-<node id="GameObjects">
     <attribute id="CharacterVisualResourceID" type="FixedString" value="d0f0d853-ca12-0fc5-3b88-13ac5ac1f554" />
     <attribute id="GeneratePortrait" type="LSString" value="Icon_Mindflayer_Player" />
     <attribute id="Icon" type="FixedString" value="d0f0d853-ca12-0fc5-3b88-13ac5ac1f554-_(Icon_Mindflayer_Player)" />
-    <attribute id="LevelName" type="FixedString" value="" />
-    <attribute id="LevelOverride" type="int32" value="1" />
-    <attribute id="MapKey" type="FixedString" value="71db98d6-eed8-4a15-925b-fa3f720c1d6c" />
-    <attribute id="Name" type="LSString" value="FRE_Mindflayer_Form_Player" />
-    <attribute id="ParentTemplateId" type="FixedString" value="6341764a-3d49-4a70-b555-5802946a76c5" />
-    <attribute id="SpellSet" type="FixedString" value="" />
-    <attribute id="Stats" type="FixedString" value="MindFlayer_Player" />
-    <attribute id="Type" type="FixedString" value="character" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
-</node>
-<node id="GameObjects">
-    <attribute id="CharacterVisualResourceID" type="FixedString" value="0a670558-0772-51ab-2410-046d6d62bac4" />
-    <attribute id="Icon" type="FixedString" value="0a670558-0772-51ab-2410-046d6d62bac4-_(Icon_Mindflayer_Player)" />
-    <attribute id="LevelName" type="FixedString" value="" />
-    <attribute id="MapKey" type="FixedString" value="ab49d851-bfdd-469f-ba8e-04b4a4b1167f" />
-    <attribute id="Name" type="LSString" value="FRE_Mindflayer_Form_Player_Orpheus" />
-    <attribute id="ParentTemplateId" type="FixedString" value="71db98d6-eed8-4a15-925b-fa3f720c1d6c" />
-    <attribute id="SpellSet" type="FixedString" value="PlayerMindFlayerActions" />
-    <attribute id="Type" type="FixedString" value="character" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
-    <children>
-        <node id="LocomotionParams" />
-    </children>
-</node>
-<node id="GameObjects">
-    <attribute id="Archetype" type="FixedString" value="mindflayer" />
-    <attribute id="CharacterVisualResourceID" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b" />
-    <attribute id="Icon" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b-_(Icon_Mindflayer)" />
-    <attribute id="LevelName" type="FixedString" value="" />
-    <attribute id="LevelOverride" type="int32" value="8" />
-    <attribute id="MapKey" type="FixedString" value="4eaf7833-aff5-4d26-b54c-14effbd404c0" />
-    <attribute id="Name" type="LSString" value="FRE_Mindflayer" />
-    <attribute id="ParentTemplateId" type="FixedString" value="e4da9179-d4e9-4e3d-af1b-b2c287732e18" />
-    <attribute id="ReadinessFlags" type="uint32" value="12" />
-    <attribute id="Type" type="FixedString" value="character" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
-</node>
-<node id="GameObjects">
-    <attribute id="CharacterVisualResourceID" type="FixedString" value="16f11ba6-0417-6e20-1ecb-fb43c8f14fc7" />
-    <attribute id="GeneratePortrait" type="LSString" value="Icon_Mindflayer_Player" />
-    <attribute id="Icon" type="FixedString" value="16f11ba6-0417-6e20-1ecb-fb43c8f14fc7-_(Icon_Mindflayer_Player)" />
-    <attribute id="LevelName" type="FixedString" value="" />
-    <attribute id="LevelOverride" type="int32" value="1" />
-    <attribute id="MapKey" type="FixedString" value="8e8f3a59-f3de-46fe-ab6f-d6d397499008" />
-    <attribute id="Name" type="LSString" value="Mindflayer_Form_Player_Gale_God" />
-    <attribute id="ParentTemplateId" type="FixedString" value="4eaf7833-aff5-4d26-b54c-14effbd404c0" />
-    <attribute id="SpellSet" type="FixedString" value="PlayerMindFlayerActions" />
-    <attribute id="Stats" type="FixedString" value="MindFlayer_Player" />
-    <attribute id="Type" type="FixedString" value="character" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
-</node>
-<node id="GameObjects">
-    <attribute id="CharacterVisualResourceID" type="FixedString" value="11bbd6fb-325a-3867-126a-36b46f11e206" />
-    <attribute id="Icon" type="FixedString" value="11bbd6fb-325a-3867-126a-36b46f11e206-EQP_Robe_(Icon_Mindflayer)" />
-    <attribute id="LevelName" type="FixedString" value="" />
-    <attribute id="LevelOverride" type="int32" value="1" />
-    <attribute id="MapKey" type="FixedString" value="5781da68-1a8a-46b2-b1d5-87d2b54417e6" />
-    <attribute id="Name" type="LSString" value="S_GLO_SocietyOfBrilliance_MindFlayer" />
-    <attribute id="ParentTemplateId" type="FixedString" value="4eaf7833-aff5-4d26-b54c-14effbd404c0" />
-    <attribute id="SpellSet" type="FixedString" value="PlayerMindFlayerActions" />
-    <attribute id="Stats" type="FixedString" value="MindFlayer_Player" />
-    <attribute id="Type" type="FixedString" value="character" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
-</node>
-<node id="GameObjects">
-    <attribute id="CharacterVisualResourceID" type="FixedString" value="d0f0d853-ca12-0fc5-3b88-13ac5ac1f554" />
-    <attribute id="GeneratePortrait" type="LSString" value="Icon_Mindflayer_Player" />
-    <attribute id="Icon" type="FixedString" value="d0f0d853-ca12-0fc5-3b88-13ac5ac1f554-_(Icon_Mindflayer_Player)" />
-    <attribute id="LevelName" type="FixedString" value="" />
-    <attribute id="LevelOverride" type="int32" value="1" />
     <attribute id="MapKey" type="FixedString" value="3ffcbb8a-b8ec-41f4-97d0-e3088293b489" />
     <attribute id="Name" type="LSString" value="FRE_Mindflayer_Form_Player" />
-    <attribute id="ParentTemplateId" type="FixedString" value="7231547d-51ed-4f3d-aa72-b223d45d6f14" />
-    <attribute id="SpellSet" type="FixedString" value="" />
-    <attribute id="Stats" type="FixedString" value="FRE_MindFlayer" />
+    <attribute id="ParentTemplateId" type="FixedString" value="e4da9179-d4e9-4e3d-af1b-b2c287732e18" />
     <attribute id="Type" type="FixedString" value="character" />
     <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
     <children>
@@ -174,4 +41,47 @@
             </children>
         </node>
     </children>
+</node>
+<node id="GameObjects">
+    <attribute id="Archetype" type="FixedString" value="mindflayer" />
+    <attribute id="CharacterVisualResourceID" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b" />
+    <attribute id="Icon" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b-_(Icon_Mindflayer)" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="ae6e38f3-79aa-4258-b3fd-9a7a1d0c1370" />
+    <attribute id="Name" type="LSString" value="Mindflayer" />
+    <attribute id="ParentTemplateId" type="FixedString" value="3ffcbb8a-b8ec-41f4-97d0-e3088293b489" />
+    <attribute id="Type" type="FixedString" value="character" />
+</node>
+<node id="GameObjects">
+    <attribute id="CharacterVisualResourceID" type="FixedString" value="785f27dd-1c2a-07c7-ac2f-6a679d4e850e" />
+    <attribute id="GeneratePortrait" type="LSString" value="Icon_Mindflayer_Emperor" />
+    <attribute id="Icon" type="FixedString" value="785f27dd-1c2a-07c7-ac2f-6a679d4e850e-_(Icon_Mindflayer_Emperor)" />
+    <attribute id="MapKey" type="FixedString" value="969c3f50-3994-4e38-b2a4-3e59d213c97f" />
+    <attribute id="Name" type="LSString" value="FRE_Mindflayer_Emperor" />
+    <attribute id="ParentTemplateId" type="FixedString" value="3ffcbb8a-b8ec-41f4-97d0-e3088293b489" />
+    <attribute id="Type" type="FixedString" value="character" />
+</node>
+<node id="GameObjects">
+    <attribute id="CharacterVisualResourceID" type="FixedString" value="0a670558-0772-51ab-2410-046d6d62bac4" />
+    <attribute id="Icon" type="FixedString" value="0a670558-0772-51ab-2410-046d6d62bac4-_(Icon_Mindflayer_Player)" />
+    <attribute id="MapKey" type="FixedString" value="ab49d851-bfdd-469f-ba8e-04b4a4b1167f" />
+    <attribute id="Name" type="LSString" value="FRE_Mindflayer_Form_Player_Orpheus" />
+    <attribute id="ParentTemplateId" type="FixedString" value="3ffcbb8a-b8ec-41f4-97d0-e3088293b489" />
+    <attribute id="Type" type="FixedString" value="character" />
+</node>
+<node id="GameObjects">
+    <attribute id="CharacterVisualResourceID" type="FixedString" value="16f11ba6-0417-6e20-1ecb-fb43c8f14fc7" />
+    <attribute id="Icon" type="FixedString" value="16f11ba6-0417-6e20-1ecb-fb43c8f14fc7-_(Icon_Mindflayer_Player)" />
+    <attribute id="MapKey" type="FixedString" value="8e8f3a59-f3de-46fe-ab6f-d6d397499008" />
+    <attribute id="Name" type="LSString" value="Mindflayer_Form_Player_Gale_God" />
+    <attribute id="ParentTemplateId" type="FixedString" value="3ffcbb8a-b8ec-41f4-97d0-e3088293b489" />
+    <attribute id="Type" type="FixedString" value="character" />
+</node>
+<node id="GameObjects">
+    <attribute id="CharacterVisualResourceID" type="FixedString" value="11bbd6fb-325a-3867-126a-36b46f11e206" />
+    <attribute id="Icon" type="FixedString" value="11bbd6fb-325a-3867-126a-36b46f11e206-EQP_Robe_(Icon_Mindflayer)" />
+    <attribute id="MapKey" type="FixedString" value="5781da68-1a8a-46b2-b1d5-87d2b54417e6" />
+    <attribute id="Name" type="LSString" value="FRE_Omeluum" />
+    <attribute id="ParentTemplateId" type="FixedString" value="3ffcbb8a-b8ec-41f4-97d0-e3088293b489" />
+    <attribute id="Type" type="FixedString" value="character" />
 </node>

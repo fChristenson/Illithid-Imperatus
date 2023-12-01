@@ -4364,10 +4364,10 @@
     <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="Type" type="FixedString" value="character" />
     <attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
-    <attribute id="ParentTemplateId" type="FixedString" value="e4da9179-d4e9-4e3d-af1b-b2c287732e18" />
+    <attribute id="ParentTemplateId" type="FixedString" value="23ac81c1-597e-41c3-8c3c-6688ca399be1" />
     <attribute id="DisplayName" type="TranslatedString" handle="hd7f7da2cgb4a0g4a20gb0dagb282b57520d8" version="1" />
     <attribute id="Icon" type="FixedString" value="e3eb7d86-7d04-a45e-dae3-9ae3a4827f7b-_(Icon_Mindflayer)" />
-    <attribute id="Stats" type="FixedString" value="FRE_MindFlayer" />
+    <attribute id="Stats" type="FixedString" value="FRE_MindFlayer_Thrall" />
     <attribute id="SpellSet" type="FixedString" value="CommonSummonActions" />
     <attribute id="LevelOverride" type="int32" value="8" />
     <attribute id="DisableEquipping" type="bool" value="True" />
