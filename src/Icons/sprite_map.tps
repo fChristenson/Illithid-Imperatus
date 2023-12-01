@@ -260,6 +260,8 @@
             <key type="filename">64x64/monster_2.jpeg</key>
             <key type="filename">64x64/monster_3.jpeg</key>
             <key type="filename">64x64/orc_1.jpeg</key>
+            <key type="filename">64x64/orc_2.jpeg</key>
+            <key type="filename">64x64/orc_3.jpeg</key>
             <key type="filename">64x64/owl_1.jpeg</key>
             <key type="filename">64x64/owl_2.jpeg</key>
             <key type="filename">64x64/owl_3.jpeg</key>
