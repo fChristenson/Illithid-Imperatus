@@ -6,6 +6,7 @@
     <attribute id="Name" type="LSString" value="FRE_Mindflayer_Form_Player" />
     <attribute id="ParentTemplateId" type="FixedString" value="e4da9179-d4e9-4e3d-af1b-b2c287732e18" />
     <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="Stats" type="FixedString" value="FRE_MindFlayer" />
     <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
     <children>
         <node id="LocomotionParams" />
