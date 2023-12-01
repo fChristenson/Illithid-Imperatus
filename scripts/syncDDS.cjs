@@ -43,6 +43,9 @@ const getFiles = async () => {
   return iconsToSync;
 };
 
+fs.rmSync(targetPath, { recursive: true, force: true });
+fs.mkdirSync(targetPath, { recursive: true });
+
 getFiles().then((fa) =>
   fa.forEach((f) => fs.copyFileSync(f, `${targetPath}/${path.basename(f)}`))
 );
