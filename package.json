@@ -14,7 +14,7 @@
     "copy:assets": "node scripts/cp.cjs ./src/Public/Game/GUI/Assets ./dist/RingOfTheUlitharid/Public/Game/GUI/Assets",
     "render": "node scripts/render.cjs",
     "dev:xml": "npx nodemon -x \"npm run render\" -e \"xml template\" -w ./src/Public/RingOfTheUlitharid/RootTemplates",
-    "dev:copy": "npx nodemon -x \"npm run copy\" -e \"txt xml dds lsx\" -w ./src/Public",
+    "dev:copy": "npx nodemon -x \"npm run copy\" -e \"txt xml dds lsx\" -w ./src",
     "resize:64": "node ./scripts/resize.cjs 64 ./src/Icons/Originals ./src/Icons/64x64",
     "resize:256": "node ./scripts/resize.cjs 256 ./src/Icons/Originals ./src/Icons/256x256",
     "iconconfigmap": "node ./scripts/iconMapConfig.cjs ./src/Icons/64x64 ./src/Public/RingOfTheUlitharid/GUI/Icons_Skills.lsx",
