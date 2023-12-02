@@ -2,8 +2,6 @@
 
 <head>
     <title>Illithid Imperatus</title>
-    <link rel="stylesheet"
-        href="https://fchristenson.github.io/Illithid-Imperatus/assets/css/style.css?v=4d7707ba5ef428d79afc597ee838df429eeade54">
     <style>
         *,
         p {
@@ -12,16 +10,39 @@
             box-sizing: border-box;
         }
 
+        :root {
+            font-size: 1.4em;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            line-height: 1.5;
+        }
+
+        video {
+            width: 100%;
+        }
+
+        @media screen and (min-width: 768px) {
+            :root {
+                font-size: 1em;
+            }
+
+            video {
+                max-width: 560px;
+            }
+        }
+
         p,
         h1,
         h2 {
-            margin: 12px 0;
+            margin: 0.8rem 0;
         }
 
         body {
             background-color: black;
             color: #E6F2E1;
-            font-size: 1rem;
+        }
+
+        img {
+            max-width: 100%;
         }
 
         #background {
@@ -40,7 +61,7 @@
         }
 
         main {
-            padding: 12px;
+            padding: 1.2rem;
             max-width: 1024px;
             margin: 0 auto;
             background: rgba(0, 0, 0, 0.6);
@@ -48,8 +69,8 @@
         }
 
         ul {
-            margin: 0 0 0 18px;
-            padding: 18px 0;
+            margin: 0 0 0 1.2rem;
+            padding: 1.2rem 0;
             display: block;
         }
     </style>
@@ -59,7 +80,7 @@
     <div id="background"></div>
     <main>
         <header>
-            <h1><a href="./index.html">Illithid Imperatus</a></h1>
+            <h1><a href="index.html">Illithid Imperatus</a></h1>
         </header>
         <div><h1>Gear</h1>
 
