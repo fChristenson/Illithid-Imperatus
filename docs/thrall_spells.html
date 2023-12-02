@@ -20,16 +20,6 @@
             width: 100%;
         }
 
-        @media screen and (min-width: 768px) {
-            :root {
-                font-size: 1em;
-            }
-
-            video {
-                max-width: 560px;
-            }
-        }
-
         p,
         h1,
         h2 {
@@ -73,6 +63,17 @@
             padding: 1.2rem 0;
             display: block;
         }
+
+        /* Tablets and above */
+        @media only screen and (min-width: 768px) {
+            :root {
+                font-size: 1em;
+            }
+
+            video {
+                max-width: 560px;
+            }
+        }
     </style>
 </head>
 
@@ -106,7 +107,7 @@
 
 <h2>Summon Githyanki Raider</h2>
 
-<video controls src="assets/summon_gith_archers.mp4">spell</video>
+<video controls src="assets/summon_gith_archer.mp4">spell</video>
 
 <h2>Summon Githyanki Warrior</h2>
 
