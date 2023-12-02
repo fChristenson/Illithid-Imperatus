@@ -66,8 +66,10 @@
 
         .archetypes__ul {
             display: flex;
+            flex-direction: column;
             width: 100%;
             margin: 0;
+            gap: 0.4em;
         }
 
         .archetypes__ul li {
@@ -82,6 +84,11 @@
         @media only screen and (min-width: 768px) {
             video {
                 max-width: 560px;
+            }
+
+            .archetypes__ul {
+                flex-direction: row;
+                gap: 0;
             }
         }
     </style>
