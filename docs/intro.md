@@ -6,10 +6,10 @@ Do you want to experience Baldurs Gate 3 with the overwhelming power of a Mind F
 
 Dive into the "Mind Flayer Ceremorphosis: Illithid Imperatus" mod, where custom spells and mysterious Illithid gear await. Choose from multiple Mind Flayer forms, shaping your destiny in the immersive depths of psionic power.
 
-- **Shape Your Identity:** Choose from a variety of [Mind Flayer forms](./modules/ceremorphosis_models.md), unlocking their unique abilities.
+- **Shape Your Identity:** Choose from a variety of [Mind Flayer forms](./modules/ceremorphosis_models.html), unlocking their unique abilities.
 - **Mystical Mastery:** Unlock an arsenal of Enchantment, Illusion, and other Mind Flayer-themed spells for an immersive experience.
-- **Forged in Lore:** Equip a complete [Mind Flayer gear set](./modules/gear_list.md) inspired by the rich tapestry of the Forgotten Realms lore books.
-- **Lord of the Mind:** Immerse yourself in the playstyle of a Mind Flayer Lord with a collection of [new custom spells](./modules/custom_spells.md) tailored to enhance your power.
+- **Forged in Lore:** Equip a complete [Mind Flayer gear set](./modules/gear_list.html) inspired by the rich tapestry of the Forgotten Realms lore books.
+- **Lord of the Mind:** Immerse yourself in the playstyle of a Mind Flayer Lord with a collection of [new custom spells](./modules/custom_spells.html) tailored to enhance your power.
 
 Download, install and check the [Tutorial chest](https://www.nexusmods.com/baldursgate3/mods/457?tab=posts) for your new gear!
 
