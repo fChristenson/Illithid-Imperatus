@@ -3,7 +3,7 @@ const ejs = require("ejs");
 const path = require("path");
 
 const contentDir = "./docs/content";
-const outDir = "./docs/modules";
+const outDir = "./docs";
 const inputFiles = fs.readdirSync(contentDir);
 const templateData = fs.readFileSync("./docs/template.html", "utf8");
 
