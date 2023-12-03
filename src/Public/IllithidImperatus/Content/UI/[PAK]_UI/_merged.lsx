@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="688d0348-2882-4949-89b9-8a9b86071788" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Public/RingOfTheUlitharid/Assets/Textures/Icons/Icons_Skills.dds" />
+					<attribute id="SourceFile" type="LSString" value="Public/IllithidImperatus/Assets/Textures/Icons/Icons_Skills.dds" />
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="Name" type="LSString" value="Icons_Skills" />

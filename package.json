@@ -1,5 +1,5 @@
 {
-  "name": "ring-of-the-ulitharid",
+  "name": "illithid-imperatus",
   "version": "1.0.0",
   "description": "Probably the best Mind Flayer experience, *in the world*.",
   "main": "index.js",
@@ -7,32 +7,32 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "npx rimraf dist",
     "copy": "npm run copy:stats && npm run copy:meta && npm run copy:iconmap && npm run copy:assets && npm run copy:gui",
-    "copy:stats": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/Stats ./dist/RingOfTheUlitharid/Public/RingOfTheUlitharid/Stats",
-    "copy:meta": "node scripts/cp.cjs ./src/Mods/RingOfTheUlitharid/meta.lsx ./dist/RingOfTheUlitharid/Mods/RingOfTheUlitharid/meta.lsx",
-    "copy:iconmap": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/Assets/Textures/Icons ./dist/RingOfTheUlitharid/Public/RingOfTheUlitharid/Assets/Textures/Icons",
-    "copy:gui": "node scripts/cp.cjs ./src/Public/RingOfTheUlitharid/GUI ./dist/RingOfTheUlitharid/Public/RingOfTheUlitharid/GUI",
-    "copy:assets": "node scripts/cp.cjs ./src/Public/Game/GUI/Assets ./dist/RingOfTheUlitharid/Public/Game/GUI/Assets",
+    "copy:stats": "node scripts/cp.cjs ./src/Public/IllithidImperatus/Stats ./dist/IllithidImperatus/Public/IllithidImperatus/Stats",
+    "copy:meta": "node scripts/cp.cjs ./src/Mods/IllithidImperatus/meta.lsx ./dist/IllithidImperatus/Mods/IllithidImperatus/meta.lsx",
+    "copy:iconmap": "node scripts/cp.cjs ./src/Public/IllithidImperatus/Assets/Textures/Icons ./dist/IllithidImperatus/Public/IllithidImperatus/Assets/Textures/Icons",
+    "copy:gui": "node scripts/cp.cjs ./src/Public/IllithidImperatus/GUI ./dist/IllithidImperatus/Public/IllithidImperatus/GUI",
+    "copy:assets": "node scripts/cp.cjs ./src/Public/Game/GUI/Assets ./dist/IllithidImperatus/Public/Game/GUI/Assets",
     "render:xml": "node scripts/render.cjs",
     "render:docs": "node scripts/renderDocs.cjs",
-    "dev:xml": "npx nodemon -x \"npm run render:xml\" -e \"xml template\" -w ./src/Public/RingOfTheUlitharid/RootTemplates",
+    "dev:xml": "npx nodemon -x \"npm run render:xml\" -e \"xml template\" -w ./src/Public/IllithidImperatus/RootTemplates",
     "dev:copy": "npx nodemon -x \"npm run copy\" -e \"txt xml dds lsx\" -w ./src",
     "dev:html": "npx nodemon -x \"npm run render:docs\" -e \"html\" -w ./docs/content -w ./docs/template.html",
     "resize:64": "node ./scripts/resize.cjs 64 ./src/Icons/Originals ./src/Icons/64x64",
     "resize:256": "node ./scripts/resize.cjs 256 ./src/Icons/Originals ./src/Icons/256x256",
-    "iconconfigmap": "node ./scripts/iconMapConfig.cjs ./src/Icons/64x64 ./src/Public/RingOfTheUlitharid/GUI/Icons_Skills.lsx",
+    "iconconfigmap": "node ./scripts/iconMapConfig.cjs ./src/Icons/64x64 ./src/Public/IllithidImperatus/GUI/Icons_Skills.lsx",
     "syncdds": "node ./scripts/syncDDS.cjs"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fChristenson/Ring-of-the-Ulitharid.git"
+    "url": "git+https://github.com/fChristenson/Illithid-Imperatus.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fChristenson/Ring-of-the-Ulitharid/issues"
+    "url": "https://github.com/fChristenson/Illithid-Imperatus/issues"
   },
-  "homepage": "https://github.com/fChristenson/Ring-of-the-Ulitharid#readme",
+  "homepage": "https://github.com/fChristenson/Illithid-Imperatus#readme",
   "dependencies": {
     "cp-cli": "^2.0.0",
     "ejs": "^3.1.9",

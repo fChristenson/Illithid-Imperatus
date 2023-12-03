@@ -2,41 +2,41 @@ const fs = require("fs");
 const ejs = require("ejs");
 
 const inputFiles = [
-  ["mainItems", "src/Public/RingOfTheUlitharid/RootTemplates/main_items.xml"],
+  ["mainItems", "src/Public/IllithidImperatus/RootTemplates/main_items.xml"],
   [
     "mindFlayerModels",
-    "src/Public/RingOfTheUlitharid/RootTemplates/mind_flayer_models.xml",
+    "src/Public/IllithidImperatus/RootTemplates/mind_flayer_models.xml",
   ],
   [
     "portalShards",
-    "src/Public/RingOfTheUlitharid/RootTemplates/portal_shards.xml",
+    "src/Public/IllithidImperatus/RootTemplates/portal_shards.xml",
   ],
   [
     "gravityStones",
-    "src/Public/RingOfTheUlitharid/RootTemplates/gravity_stones.xml",
+    "src/Public/IllithidImperatus/RootTemplates/gravity_stones.xml",
   ],
   [
     "resonanceStones",
-    "src/Public/RingOfTheUlitharid/RootTemplates/resonance_stones.xml",
+    "src/Public/IllithidImperatus/RootTemplates/resonance_stones.xml",
   ],
   [
     "commonWeapons",
-    "src/Public/RingOfTheUlitharid/RootTemplates/common_weapons.xml",
+    "src/Public/IllithidImperatus/RootTemplates/common_weapons.xml",
   ],
-  ["furniture", "src/Public/RingOfTheUlitharid/RootTemplates/furniture.xml"],
-  ["grenades", "src/Public/RingOfTheUlitharid/RootTemplates/grenades.xml"],
-  ["spells", "src/Public/RingOfTheUlitharid/RootTemplates/spells.xml"],
-  ["thralls", "src/Public/RingOfTheUlitharid/RootTemplates/thralls.xml"],
+  ["furniture", "src/Public/IllithidImperatus/RootTemplates/furniture.xml"],
+  ["grenades", "src/Public/IllithidImperatus/RootTemplates/grenades.xml"],
+  ["spells", "src/Public/IllithidImperatus/RootTemplates/spells.xml"],
+  ["thralls", "src/Public/IllithidImperatus/RootTemplates/thralls.xml"],
   [
     "undeadThralls",
-    "src/Public/RingOfTheUlitharid/RootTemplates/undead_thralls.xml",
+    "src/Public/IllithidImperatus/RootTemplates/undead_thralls.xml",
   ],
-  ["weaponOils", "src/Public/RingOfTheUlitharid/RootTemplates/weapon_oils.xml"],
-  ["aquariums", "src/Public/RingOfTheUlitharid/RootTemplates/aquarium.xml"],
+  ["weaponOils", "src/Public/IllithidImperatus/RootTemplates/weapon_oils.xml"],
+  ["aquariums", "src/Public/IllithidImperatus/RootTemplates/aquarium.xml"],
 ];
 const template =
-  "src/Public/RingOfTheUlitharid/RootTemplates/_merged.lsx.template";
-const outputFile = "src/Public/RingOfTheUlitharid/RootTemplates/_merged.lsx";
+  "src/Public/IllithidImperatus/RootTemplates/_merged.lsx.template";
+const outputFile = "src/Public/IllithidImperatus/RootTemplates/_merged.lsx";
 
 const dataStore = {};
 

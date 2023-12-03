@@ -5,8 +5,8 @@ const readline = require("readline");
 const targetPath = "src/Public/Game/GUI/Assets/Tooltips/Icons";
 const ddsPath = "src/Icons/dds";
 const searchPaths = [
-  "src/Public/RingOfTheUlitharid/RootTemplates",
-  "src/Public/RingOfTheUlitharid/Stats/Generated/Data",
+  "src/Public/IllithidImperatus/RootTemplates",
+  "src/Public/IllithidImperatus/Stats/Generated/Data",
 ];
 
 const ddsFilenames = fs.readdirSync(ddsPath);
