@@ -21,6 +21,19 @@
     </children>
 </node>
 <node id="GameObjects">
+    <attribute id="DisplayName" type="TranslatedString" handle="h9bc303a4g8e02g4e9eg9d81g2a66a246298e" version="1" />
+    <attribute id="Description" type="TranslatedString" handle="h67881bb7ge7a0g4a31g9765g18f797868292" version="1" />
+    <attribute id="MapKey" type="FixedString" value="1776c539-062e-4a00-aaa2-d98287df1759" />
+    <attribute id="Name" type="LSString" value="FRE_Ring_Of_Ceremorphosis" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="ParentTemplateId" type="FixedString" value="ecf4a8a4-7859-4a82-8c08-0c9526f29500" />
+    <attribute id="Stats" type="FixedString" value="FRE_Ring_Of_Ceremorphosis" />
+    <children>
+        <node id="GameMaster" />
+    </children>
+</node>
+<node id="GameObjects">
     <attribute id="DisplayName" type="TranslatedString" handle="h017cdc53g16f7g4f82g821dg88b0ca72e06e" version="1" />
     <attribute id="Description" type="TranslatedString" handle="h67881bb7ge7a0g4a31g9765g18f797868292" version="1" />
     <attribute id="MapKey" type="FixedString" value="f5fb74b2-7b9c-4168-a69f-10d7f038c11f" />
