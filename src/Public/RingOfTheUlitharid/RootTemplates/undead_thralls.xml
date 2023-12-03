@@ -274,3 +274,23 @@
         <node id="LocomotionParams" />
     </children>
 </node>
+<node id="GameObjects">
+    <attribute id="Archetype" type="FixedString" value="melee" />
+    <attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+    <attribute id="CharacterVisualResourceID" type="FixedString" value="2e5dc4d8-8c64-4441-8d8d-00fa048b534e" />
+    <attribute id="DisplayName" type="TranslatedString" handle="hd12f0f16g5f54g4131gae1fg5ee4c9d9fc32" version="1" />
+    <attribute id="Equipment" type="FixedString" value="EQP_Shortsword" />
+    <attribute id="Icon" type="FixedString" value="2e5dc4d8-8c64-4441-8d8d-00fa048b534e-EQP_Shortsword_(Icon_Skeleton)" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
+    <attribute id="LevelOverride" type="int32" value="4" />
+    <attribute id="MapKey" type="FixedString" value="d99fcae1-e6f4-4fe3-a56d-b1b32470f23b" />
+    <attribute id="Name" type="LSString" value="FRE_S_FOR_ThayG_Skeleton_006" />
+    <attribute id="Stats" type="FixedString" value="FOR_Thay_Skeleton_Melee" />
+    <attribute id="TemplateName" type="FixedString" value="4f45e5ab-b93c-4afd-8a21-9c87d653d4b8" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+    <children>
+        <node id="LocomotionParams" />
+    </children>
+</node>
