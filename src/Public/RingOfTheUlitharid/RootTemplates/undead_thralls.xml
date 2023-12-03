@@ -251,3 +251,26 @@
         </node>
     </children>
 </node>
+<node id="GameObjects">
+    <attribute id="AiHint" type="guid" value="3cae4ff5-e9c0-485b-b695-f8830961a781" />
+    <attribute id="AnubisConfigName" type="FixedString" value="FOR_ThayanUndead_Ranger_002" />
+    <attribute id="Archetype" type="FixedString" value="ranged" />
+    <attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+    <attribute id="CharacterVisualResourceID" type="FixedString" value="5831fd11-2c47-e282-4199-c0a7df2624d1" />
+    <attribute id="DisplayName" type="TranslatedString" handle="hc31d992dg0237g4232gaeefg06be44e730c9" version="1" />
+    <attribute id="Equipment" type="FixedString" value="EQP_Longbow" />
+    <attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
+    <attribute id="Icon" type="FixedString" value="5831fd11-2c47-e282-4199-c0a7df2624d1-EQP_Longbow_(Icon_Skeleton)" />
+    <attribute id="IsLootable" type="bool" value="True" />
+    <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+    <attribute id="LevelOverride" type="int32" value="4" />
+    <attribute id="MapKey" type="FixedString" value="bf309683-ce11-47eb-a6b8-5e8d88558116" />
+    <attribute id="Name" type="LSString" value="FRE_S_FOR_ThayG_Skeleton_005" />
+    <attribute id="Stats" type="FixedString" value="FOR_Thay_Skeleton_Ranger" />
+    <attribute id="TemplateName" type="FixedString" value="4f45e5ab-b93c-4afd-8a21-9c87d653d4b8" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+    <children>
+        <node id="LocomotionParams" />
+    </children>
+</node>
