@@ -34,6 +34,19 @@
     </children>
 </node>
 <node id="GameObjects">
+    <attribute id="DisplayName" type="TranslatedString" handle="hbdb06d92ga749g4939g96ccgc813f61f0a58" version="1" />
+    <attribute id="Description" type="TranslatedString" handle="h67881bb7ge7a0g4a31g9765g18f797868292" version="1" />
+    <attribute id="MapKey" type="FixedString" value="f5fb74b2-7b9c-4168-a69f-10d7f038c11f" />
+    <attribute id="Name" type="LSString" value="FRE_Ring_Of_The_Alhoon" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="ParentTemplateId" type="FixedString" value="ecf4a8a4-7859-4a82-8c08-0c9526f29500" />
+    <attribute id="Stats" type="FixedString" value="FRE_Ring_Of_The_Alhoon" />
+    <children>
+        <node id="GameMaster" />
+    </children>
+</node>
+<node id="GameObjects">
     <attribute id="DisplayName" type="TranslatedString" handle="hbfad5822ga2dag4d49gb0e5ga2a4a1783652" version="1" />
     <attribute id="Description" type="TranslatedString" handle="hd4e919b8g25a1g4d05g8faege969d66f9ed2" version="1" />
     <attribute id="MapKey" type="FixedString" value="f0872c44-b295-4189-97e1-f9c122856e6a" />

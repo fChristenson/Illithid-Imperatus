@@ -1,0 +1,4 @@
+new entry "FRE_NecromancySpells"
+type "PassiveData"
+data "DisplayName" "h0396fbf1g912ag4c87ga1c4gd62be28262cb;1"
+data "Boosts" "UnlockSpell(Target_VampiricTouch)"

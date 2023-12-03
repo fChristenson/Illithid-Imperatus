@@ -1,3 +1,13 @@
+new entry "FRE_Ring_Of_The_Alhoon"
+type "Armor"
+using "_Ring"
+data "RootTemplate" "f5fb74b2-7b9c-4168-a69f-10d7f038c11f"
+data "ObjectCategory" "Jewelry"
+data "ValueOverride" "1"
+data "Rarity" "Legendary"
+data "Boosts" "UnlockSpell(FRE_Shout_Alhoon_PowerForm);UnlockSpell(FRE_Shout_Alhoon_AlhoonForm);UnlockSpell(FRE_Shout_Alhoon_MindFlayerForm);UnlockSpell(FRE_Shout_Alhoon_Omeluum_MindFlayerForm);UnlockSpell(FRE_Shout_Alhoon_EmperorForm);UnlockSpell(FRE_Shout_Alhoon_GaleForm);UnlockSpell(FRE_Shout_Alhoon_OrpheusForm)"
+data "PassivesOnEquip" "FRE_MAG_ArcaneEnchantment_Passive"
+
 new entry "FRE_Ring_Of_The_Ulitharid"
 type "Armor"
 using "_Ring"

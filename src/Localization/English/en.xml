@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList date="17/07/2023 12:47">
-  <content contentuid="h83d9ebdfg604ag4c41g8c9bg1281c9886ac1" version="1">Ulitharid Powers</content>
-  <content contentuid="h9148d17fg4f74g48b9gb630g69cd81419ff1" version="1">Ulitharid Power Infusion</content>
-  <content contentuid="h9eca34fdgd4fbg4de7g974fg4f8522d1b8c8" version="1">Gain the power of an Ulitharid.</content>
+  <content contentuid="h83d9ebdfg604ag4c41g8c9bg1281c9886ac1" version="1">Mind Flayer Powers</content>
+  <content contentuid="h9148d17fg4f74g48b9gb630g69cd81419ff1" version="1">Power Infusion</content>
+  <content contentuid="h9eca34fdgd4fbg4de7g974fg4f8522d1b8c8" version="1">Gain the power of a Mind Flayer.</content>
+  <content contentuid="h243fdddfge79ag4cceg8801g709398913969" version="1">Alhoon Ceremorphosis</content>
+  <content contentuid="h69d9b41agd436g4883g8467g6344aad92bec" version="1">Become an Alhoon.</content>
   <content contentuid="h4d4ba1e0g4adbg48a5gb45bge7b4dad27bb1" version="1">Ulitharid Ceremorphosis</content>
   <content contentuid="h0bba2202g8549g4c76g8b2ag6e2815aa3669" version="1">Become an Ulitharid.</content>
-  <content contentuid="h0f3805ebg7f48g4298g96c8g41d604c1aee2" version="1">Emperor Ulitharid Ceremorphosis</content>
-  <content contentuid="h7cb754d7g83b8g4c30gbfb7g734b9b386a44" version="1">Gale Ulitharid Ceremorphosis</content>
-  <content contentuid="h66d32d7bga093g435fga6bfg3e1223947b8d" version="1">Orpheus Ulitharid Ceremorphosis</content>
-  <content contentuid="h058ad937g7762g4addg914eg2807c7490789" version="1">Mind Flayer Ulitharid Ceremorphosis</content>
+  <content contentuid="h0f3805ebg7f48g4298g96c8g41d604c1aee2" version="1">Emperor Ceremorphosis</content>
+  <content contentuid="h7cb754d7g83b8g4c30gbfb7g734b9b386a44" version="1">Gale Ceremorphosis</content>
+  <content contentuid="h66d32d7bga093g435fga6bfg3e1223947b8d" version="1">Orpheus Ceremorphosis</content>
+  <content contentuid="h058ad937g7762g4addg914eg2807c7490789" version="1">Mind Flayer Ceremorphosis</content>
   <content contentuid="h67881bb7ge7a0g4a31g9765g18f797868292" version="1">A ring with the power to trigger Ceremorphosis.</content>
+  <content contentuid="hbdb06d92ga749g4939g96ccgc813f61f0a58" version="1">Ring of the Alhoon</content>
   <content contentuid="h017cdc53g16f7g4f82g821dg88b0ca72e06e" version="1">Ring of the Ulitharid</content>
   <content contentuid="h033ef54fg5ed8g417fg90bdg9faebb80191d" version="1">Ulitharid Domination</content>
   <content contentuid="h7fc8119eg02b3g4e3ag8871g527146868295" version="1">Dominate any sentient lifeform.</content>
@@ -199,7 +202,7 @@
   <content contentuid="h3b028120g0a59g422cgb810gfa413d584b62" version="1">Greater Caustic Bulb</content>
   <content contentuid="h441dee18gc032g49bag905eg50bc98538784" version="1">Greater Void Bulb</content>
   <content contentuid="hd3d0373cg908bg4f05g9c90g9621121fc84d" version="1">Greater Spiked Bulb</content>
-  <content contentuid="ha6e19be8ge6f9g463bgb544g0d8170fa7277" version="1">Omeluum Ulitharid Ceremorphosis</content>
+  <content contentuid="ha6e19be8ge6f9g463bgb544g0d8170fa7277" version="1">Omeluum Ceremorphosis</content>
   <content contentuid="h822b390dg80e2g4750g8d44g8da9927ce566" version="1">Furniture Shard</content>
   <content contentuid="hd9921942g92e9g4b16g8f62gd5f816e77d86" version="1">Summon Illithid furniture</content>
   <content contentuid="h4ad25208gffb7g441cgb3ecga64a7a2677f1" version="1">Prime Portal Shard</content>

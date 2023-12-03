@@ -1,0 +1,29 @@
+new entry "FRE_AbjurationSpells"
+data "DisplayName" "h470b36e0gd9b4g48a2g925bg5979c3915e8e;1"
+type "PassiveData"
+data "Boosts" "UnlockSpell(Target_Sanctuary)"
+
+new entry "FRE_TransmutationSpells"
+type "PassiveData"
+data "DisplayName" "h470b36e0gd9b4g48a2g925bg5979c3915e8e;1"
+data "Boosts" "UnlockSpell(Shout_FeatherFall);UnlockSpell(Target_Jump);UnlockSpell(Target_Knock);UnlockSpell(Target_Fly);UnlockSpell(Target_Slow);UnlockSpell(Shout_Blink)"
+
+new entry "FRE_DivinationSpells"
+type "PassiveData"
+data "DisplayName" "h470b36e0gd9b4g48a2g925bg5979c3915e8e;1"
+data "Boosts" "UnlockSpell(Target_Guidance);UnlockSpell(Target_TrueStrike);UnlockSpell(Shout_SpeakWithAnimals);UnlockSpell(Shout_DetectThoughts);UnlockSpell(Shout_SeeInvisibility)"
+
+new entry "FRE_ConjurationSpells"
+type "PassiveData"
+data "DisplayName" "h470b36e0gd9b4g48a2g925bg5979c3915e8e;1"
+data "Boosts" "UnlockSpell(Target_MageHand);UnlockSpell(Target_MistyStep);UnlockSpell(Teleportation_DimensionDoor);UnlockSpell(Teleportation_ArcaneGate)"
+
+new entry "FRE_EnchantmentSpells"
+type "PassiveData"
+data "DisplayName" "h470b36e0gd9b4g48a2g925bg5979c3915e8e;1"
+data "Boosts" "UnlockSpell(Target_Friends);UnlockSpell(Target_ViciousMockery);UnlockSpell(Target_AnimalFriendship);UnlockSpell(Target_Bane);UnlockSpell(Target_Bless);UnlockSpell(Target_CharmPerson);UnlockSpell(Target_Command_Container);UnlockSpell(Target_CompelledDuel);UnlockSpell(Target_DissonantWhispers);UnlockSpell(Target_Heroism);UnlockSpell(Target_Hex);UnlockSpell(Target_Sleep);UnlockSpell(Target_HideousLaughter);UnlockSpell(Target_CalmEmotions);UnlockSpell(Target_CrownOfMadness);UnlockSpell(Target_Enthrall);UnlockSpell(Target_HoldPerson);UnlockSpell(Target_Confusion);UnlockSpell(Target_DominateBeast);UnlockSpell(Target_DominatePerson);UnlockSpell(Target_HoldMonster);UnlockSpell(Target_IrresistibleDance);UnlockSpell(Target_PowerWordKill)"
+
+new entry "FRE_IllusionSpells"
+type "PassiveData"
+data "DisplayName" "h470b36e0gd9b4g48a2g925bg5979c3915e8e;1"
+data "Boosts" "UnlockSpell(Target_MinorIllusion);UnlockSpell(Zone_ColorSpray);UnlockSpell(Shout_DisguiseSelf);UnlockSpell(Shout_Blur);UnlockSpell(Target_Invisibility);UnlockSpell(Shout_MirrorImage);UnlockSpell(Target_PhantasmalForce);UnlockSpell(Target_Silence);UnlockSpell(Zone_Fear);UnlockSpell(Target_HypnoticPattern);UnlockSpell(Target_Invisibility_Greater);UnlockSpell(Target_PhantasmalKiller);UnlockSpell(Target_Seeming)"
