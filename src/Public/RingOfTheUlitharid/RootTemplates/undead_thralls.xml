@@ -294,3 +294,17 @@
         <node id="LocomotionParams" />
     </children>
 </node>
+<node id="GameObjects">
+    <attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
+    <attribute id="DisplayName" type="TranslatedString" handle="h323ce7e0g2177g4ddeg8bf1g961caf50b23c" version="1" />
+    <attribute id="Archetype" type="FixedString" value="deathShepherd" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="6f629f89-16d5-43b3-900a-eef39e1b20db" />
+    <attribute id="Name" type="LSString" value="FRE_S_CRE_CultistsUndead_GiantSkeleton_001" />
+    <attribute id="TemplateName" type="FixedString" value="f05367f6-78f2-4631-996e-7e21912bbb78" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+    <children>
+        <node id="LocomotionParams" />
+    </children>
+</node>
