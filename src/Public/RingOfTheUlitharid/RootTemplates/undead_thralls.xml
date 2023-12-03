@@ -325,3 +325,75 @@
         <node id="LocomotionParams" />
     </children>
 </node>
+<node id="GameObjects">
+    <attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
+    <attribute id="DisplayName" type="TranslatedString" handle="h1d552197g043dg44aag9785gdc82f375da82" version="1" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="752ecfd2-5a39-46a4-81ac-0db38ab24490" />
+    <attribute id="Name" type="LSString" value="FRE_S_LOW_CazadorsPalace_RitualRoom_Ghast_01" />
+    <attribute id="Stats" type="FixedString" value="LOW_CazadorPalace_Ritual_Ghast_Greater" />
+    <attribute id="TemplateName" type="FixedString" value="4863708b-59b7-4ae3-b82f-614bd71caa7b" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+    <children>
+        <node id="LocomotionParams" />
+        <node id="SkillList">
+            <children>
+                <node id="Skill">
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="Skill" type="FixedString" value="Shout_Stench_Ghast" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Skill">
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="Skill" type="FixedString" value="Target_LOW_Claws_Ghast_Greater_Cazador_Ghast" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </children>
+</node>

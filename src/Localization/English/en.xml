@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList date="17/07/2023 12:47">
+  <content contentuid="h92ddc16agf9ccg4a5bg95bdg48d22ce24373" version="1">Summon Ghast</content>
+  <content contentuid="hd8e73082g4cbag4e92g8f32ga99249aa58d2" version="1">Summons a Ghast</content>
+  <content contentuid="h1d552197g043dg44aag9785gdc82f375da82" version="1">Ghast</content>
   <content contentuid="h051af212g7a09g44a6g98a7g7ce93aa92b38" version="1">Summon Ghoul</content>
   <content contentuid="h81f94165g4374g412cg9b5cgc5ed00dd4dbc" version="1">Summons a Ghoul</content>
   <content contentuid="h077a340eg9c4cg40f2gafcdg62d2e8983c12" version="1">Ghoul</content>
