@@ -308,3 +308,20 @@
         <node id="LocomotionParams" />
     </children>
 </node>
+<node id="GameObjects">
+    <attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
+    <attribute id="DisplayName" type="TranslatedString" handle="h077a340eg9c4cg40f2gafcdg62d2e8983c12" version="1" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="375002b3-5aa6-4c2e-9af0-f51f39554a12" />
+    <attribute id="Name" type="LSString" value="FRE_S_CRE_CultistsUndead_Ghoul_001" />
+    <attribute id="TemplateName" type="FixedString" value="962456eb-df0b-4e7d-962c-c51c76f27d54" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+    <attribute id="Archetype" type="FixedString" value="melee_stupid" />
+    <attribute id="Icon" type="FixedString" value="59212099-57b0-9a23-41e8-e15d6ab66c5f-_(Icon_Ghoul)" />
+    <attribute id="LevelOverride" type="int32" value="3" />
+    <attribute id="ParentTemplateId" type="FixedString" value="62dea8a9-f623-4ca8-867a-cefe27f741ac" />
+    <children>
+        <node id="LocomotionParams" />
+    </children>
+</node>
