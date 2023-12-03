@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList date="17/07/2023 12:47">
+  <content contentuid="ha16425d8g55e0g4f09g93feg9bc9dd337c8d" version="1">Summon Winged Horror</content>
+  <content contentuid="h743a3dcbg8ecbg4b3bg9dccg23333a33ab50" version="1">Summons a Winged Horror</content>
+  <content contentuid="hf3fea1e3gbdf6g4643gb0a7g7365a403fc53" version="1">Summon Greater Zombie</content>
+  <content contentuid="h3e829586gf1a0g4a14gbca2g297ab9605894" version="1">Summons a Greater Zombie</content>
   <content contentuid="hd5250777g63efg4a50gad88g6ab545c46a6c" version="1">Summon Flesh Golem</content>
   <content contentuid="h6ec98591g58d4g47a2g854fg8c514d8564b2" version="1">Flesh Golem</content>
   <content contentuid="h03158e62g2dcdg4022gac0dg756a40493091" version="1">Summons a Flesh Golem</content>
