@@ -3,7 +3,7 @@ const path = require("path");
 const readline = require("readline");
 
 const targetPath = "src/Public/Game/GUI/Assets/Tooltips/Icons";
-const ddsPath = "src/Icons/dds";
+const ddsPath = "src/Icons/dds/abilities";
 const searchPaths = [
   "src/Public/IllithidImperatus/RootTemplates",
   "src/Public/IllithidImperatus/Stats/Generated/Data",
