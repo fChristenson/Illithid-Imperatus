@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList date="17/07/2023 12:47">
+  <content contentuid="hc6f46e87g2c5dg4a43gbe85ga8beb957e150" version="1">Summon Shadow</content>
+  <content contentuid="ha17a446eg3478g419fga175ga39104257e25" version="1">Summons a Shadow</content>
+  <content contentuid="h57ef795fgd5abg4efbg850fgc11d1a486452" version="1">Shadow</content>
   <content contentuid="h09c64951g9b5dg4e24g85adge245e2d1c546" version="1">Summon Poltergeist</content>
   <content contentuid="h698ad60eg865fg40cegb0e4g834fee05dbe4" version="1">Summons a Poltergeist</content>
   <content contentuid="h7470abb9g53bag48e6g8f9eg23a604166e5e" version="1">Poltergeist</content>
