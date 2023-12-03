@@ -397,3 +397,142 @@
         </node>
     </children>
 </node>
+<node id="GameObjects">
+    <attribute id="Archetype" type="FixedString" value="act2_TWN_TollCollector_Head" />
+    <attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
+    <attribute id="DisplayName" type="TranslatedString" handle="h9772e696g9d68g4ab8g9c86gef13b744863f" version="3" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="5370125e-7dd1-42a0-aa6b-50f4f0583a6e" />
+    <attribute id="Name" type="LSString" value="FRE_S_TWN_Tollhouse_Face_Guilt" />
+    <attribute id="Stats" type="FixedString" value="TWN_TollCollector_Visage" />
+    <attribute id="TemplateName" type="FixedString" value="43b00bb4-d434-4cca-96d6-17054273e76e" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+    <children>
+        <node id="LocomotionParams" />
+        <node id="SkillList">
+            <children>
+                <node id="Skill">
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="Skill" type="FixedString" value="Shout_Necrotic_TollCollector_Face" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Skill">
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="Skill" type="FixedString" value="Shout_Poison_TollCollector_Face" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="StartRound" type="int32" value="2" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Skill">
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="Skill" type="FixedString" value="Target_Headbutt_TollCollector_Face" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="StatusList">
+            <children>
+                <node id="Status">
+                    <attribute id="Object" type="FixedString" value="FLOATING_HEAD_VFX" />
+                </node>
+            </children>
+        </node>
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="AnubisConfigName" type="FixedString" value="MOO_RoofSkeleton_002" />
+    <attribute id="DisplayName" type="TranslatedString" handle="h4adc4559g4462g4fb9ga3a8g220855673858" version="1" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="LevelOverride" type="int32" value="3" />
+    <attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
+    <attribute id="MapKey" type="FixedString" value="70b271a8-fd5b-4262-8b8d-c4632f29442c" />
+    <attribute id="Name" type="LSString" value="S_MOO_RoofNecromite_007" />
+    <attribute id="TemplateName" type="FixedString" value="460c48a7-cea5-44d5-9e01-b27c0c751a24" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+    <children>
+        <node id="LocomotionParams" />
+    </children>
+</node>
+<node id="GameObjects">
+    <attribute id="AnubisConfigName" type="FixedString" value="DefaultMonster" />
+    <attribute id="DisplayName" type="TranslatedString" handle="h7470abb9g53bag48e6g8f9eg23a604166e5e" version="1" />
+    <attribute id="GeneratePortrait" type="LSString" value="" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="CanEnterCombat" type="bool" value="True" />
+    <attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
+    <attribute id="MapKey" type="FixedString" value="1bb2c8ef-d073-49e3-80ca-5fdbee457fa8" />
+    <attribute id="Name" type="LSString" value="S_LOW_Poltergeist_Cellar_000" />
+    <attribute id="Stats" type="FixedString" value="LOW_OskarsBeloved_Poltergeist" />
+    <attribute id="TemplateName" type="FixedString" value="f5643770-a043-428d-bfc9-02bdbc69e53f" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+    <children>
+        <node id="LocomotionParams" />
+    </children>
+</node>
