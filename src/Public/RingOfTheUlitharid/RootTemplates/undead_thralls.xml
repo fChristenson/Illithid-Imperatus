@@ -1,0 +1,82 @@
+<node id="GameObjects">
+    <attribute id="DisplayName" type="TranslatedString" handle="h6ec98591g58d4g47a2g854fg8c514d8564b2" version="1" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="LevelOverride" type="int32" value="7" />
+    <attribute id="MapKey" type="FixedString" value="e87bd085-7fb9-4c74-b813-0a5538953994" />
+    <attribute id="Name" type="LSString" value="FRE_S_SHA_Necromancer_FleshGolem" />
+    <attribute id="Race" type="guid" value="a20b3cf6-b71f-45f5-af9d-2f9d845d1658" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115209550692654" />
+    <attribute id="AiHint" type="guid" value="f5614548-32cc-4e2e-b108-32e5d532471e" />
+    <attribute id="Archetype" type="FixedString" value="melee" />
+    <attribute id="ParentTemplateId" type="FixedString" value="7d46b53d-6337-4e40-b241-3781447a33d7" />
+    <attribute id="Stats" type="FixedString" value="FleshGolem" />
+    <children>
+        <node id="LocomotionParams" />
+        <node id="SkillList">
+            <children>
+                <node id="Skill">
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="Skill" type="FixedString" value="Target_Multiattack_FleshGolem" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <children>
+                        <node id="ExcludeInNPCLoadout">
+                            <attribute id="Object" type="guid" value="a94638b3-9c62-481f-8f1f-e765c7427568" />
+                        </node>
+                        <node id="SourceConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Skill">
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="Skill" type="FixedString" value="Target_Slam_FleshGolem" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <children>
+                        <node id="ExcludeInNPCLoadout">
+                            <attribute id="Object" type="guid" value="a94638b3-9c62-481f-8f1f-e765c7427568" />
+                        </node>
+                        <node id="SourceConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </children>
+</node>

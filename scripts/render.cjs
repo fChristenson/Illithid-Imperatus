@@ -27,6 +27,10 @@ const inputFiles = [
   ["grenades", "src/Public/RingOfTheUlitharid/RootTemplates/grenades.xml"],
   ["spells", "src/Public/RingOfTheUlitharid/RootTemplates/spells.xml"],
   ["thralls", "src/Public/RingOfTheUlitharid/RootTemplates/thralls.xml"],
+  [
+    "undeadThralls",
+    "src/Public/RingOfTheUlitharid/RootTemplates/undead_thralls.xml",
+  ],
   ["weaponOils", "src/Public/RingOfTheUlitharid/RootTemplates/weapon_oils.xml"],
   ["aquariums", "src/Public/RingOfTheUlitharid/RootTemplates/aquarium.xml"],
 ];

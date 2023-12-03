@@ -13,6 +13,7 @@
 				<%- grenades %>
 				<%- spells %>
 				<%- thralls %>
+				<%- undeadThralls %>
 				<%- weaponOils %>
 				<%- aquariums %>
 				<%- furniture %>
