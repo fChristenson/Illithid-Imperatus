@@ -27,6 +27,7 @@
     <attribute id="Name" type="LSString" value="FRE_Ring_Of_The_Ulitharid" />
     <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Icon" type="FixedString" value="FRE_ring_3" />
     <attribute id="ParentTemplateId" type="FixedString" value="ecf4a8a4-7859-4a82-8c08-0c9526f29500" />
     <attribute id="Stats" type="FixedString" value="FRE_Ring_Of_The_Ulitharid" />
     <children>
@@ -38,6 +39,7 @@
     <attribute id="Description" type="TranslatedString" handle="h67881bb7ge7a0g4a31g9765g18f797868292" version="1" />
     <attribute id="MapKey" type="FixedString" value="666d6942-b6a4-406f-b39a-729927bd3b85" />
     <attribute id="Name" type="LSString" value="FRE_Ring_Of_The_Alhoon" />
+    <attribute id="Icon" type="FixedString" value="FRE_ring_4" />
     <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="Type" type="FixedString" value="item" />
     <attribute id="ParentTemplateId" type="FixedString" value="ecf4a8a4-7859-4a82-8c08-0c9526f29500" />
