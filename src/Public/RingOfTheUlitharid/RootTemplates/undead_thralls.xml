@@ -76,6 +76,33 @@
                         </node>
                     </children>
                 </node>
+                <node id="Skill">
+                    <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
             </children>
         </node>
     </children>
@@ -122,6 +149,33 @@
                         <node id="TargetConditions">
                             <attribute id="MaximumHealthPercentage" type="int32" value="100" />
                             <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Skill">
+                    <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
                             <children>
                                 <node id="Tags" />
                             </children>
@@ -247,6 +301,33 @@
                         </node>
                     </children>
                 </node>
+                <node id="Skill">
+                    <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
             </children>
         </node>
     </children>
@@ -272,6 +353,37 @@
     <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
     <children>
         <node id="LocomotionParams" />
+        <node id="SkillList">
+            <children>
+                <node id="Skill">
+                    <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
     </children>
 </node>
 <node id="GameObjects">
@@ -292,6 +404,37 @@
     <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
     <children>
         <node id="LocomotionParams" />
+        <node id="SkillList">
+            <children>
+                <node id="Skill">
+                    <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
     </children>
 </node>
 <node id="GameObjects">
@@ -306,6 +449,37 @@
     <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
     <children>
         <node id="LocomotionParams" />
+        <node id="SkillList">
+            <children>
+                <node id="Skill">
+                    <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
     </children>
 </node>
 <node id="GameObjects">
@@ -323,6 +497,37 @@
     <attribute id="ParentTemplateId" type="FixedString" value="62dea8a9-f623-4ca8-867a-cefe27f741ac" />
     <children>
         <node id="LocomotionParams" />
+        <node id="SkillList">
+            <children>
+                <node id="Skill">
+                    <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
     </children>
 </node>
 <node id="GameObjects">
@@ -387,6 +592,33 @@
                         <node id="TargetConditions">
                             <attribute id="MaximumHealthPercentage" type="int32" value="100" />
                             <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Skill">
+                    <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
                             <children>
                                 <node id="Tags" />
                             </children>
@@ -493,6 +725,33 @@
                         </node>
                     </children>
                 </node>
+                <node id="Skill">
+                    <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
             </children>
         </node>
         <node id="StatusList">
@@ -517,6 +776,37 @@
     <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
     <children>
         <node id="LocomotionParams" />
+        <node id="SkillList">
+            <children>
+                <node id="Skill">
+                    <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
     </children>
 </node>
 <node id="GameObjects">
@@ -533,6 +823,37 @@
     <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
     <children>
         <node id="LocomotionParams" />
+        <node id="SkillList">
+            <children>
+                <node id="Skill">
+                    <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
     </children>
 </node>
 <node id="GameObjects">
@@ -717,6 +1038,33 @@
                         </node>
                     </children>
                 </node>
+                <node id="Skill">
+                    <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
             </children>
         </node>
         <node id="StatusList">
@@ -881,6 +1229,33 @@
                         <node id="TargetConditions">
                             <attribute id="MaximumHealthPercentage" type="int32" value="100" />
                             <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Skill">
+                    <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
                             <children>
                                 <node id="Tags" />
                             </children>
