@@ -764,20 +764,51 @@
     </children>
 </node>
 <node id="GameObjects">
-    <attribute id="AnubisConfigName" type="FixedString" value="MOO_RoofSkeleton_002" />
-    <attribute id="DisplayName" type="TranslatedString" handle="h4adc4559g4462g4fb9ga3a8g220855673858" version="1" />
+    <attribute id="AnimationSetResourceID" type="FixedString" value="59046227-aeda-d79d-0b0f-07a1a4155238" />
+    <attribute id="Archetype" type="FixedString" value="ranged_stupid" />
+    <attribute id="CharacterVisualResourceID" type="FixedString" value="a207953c-97a2-2459-db55-261d3a221ba2" />
+    <attribute id="DisplayName" type="TranslatedString" handle="h4adc4559g4462g4fb9ga3a8g220855673858" version="2" />
+    <attribute id="Equipment" type="FixedString" value="" />
+    <attribute id="Icon" type="FixedString" value="a207953c-97a2-2459-db55-261d3a221ba2-_(Icon_Skeleton)" />
     <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="LevelOverride" type="int32" value="3" />
-    <attribute id="Title" type="TranslatedString" handle="h30db184agc977g4c25g850egc297cd9a1380" version="1" />
     <attribute id="MapKey" type="FixedString" value="70b271a8-fd5b-4262-8b8d-c4632f29442c" />
-    <attribute id="Name" type="LSString" value="S_MOO_RoofNecromite_007" />
-    <attribute id="TemplateName" type="FixedString" value="460c48a7-cea5-44d5-9e01-b27c0c751a24" />
+    <attribute id="Name" type="LSString" value="FRE_Undead_Skeleton_Necromite" />
+    <attribute id="ParentTemplateId" type="FixedString" value="531d498b-2ad0-4ebc-b272-e445faf3e38c" />
+    <attribute id="Stats" type="FixedString" value="Skeleton_Necromite" />
     <attribute id="Type" type="FixedString" value="character" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
     <children>
         <node id="LocomotionParams" />
         <node id="SkillList">
             <children>
+                <node id="Skill">
+                    <attribute id="AIFlags" type="uint16" value="0" />
+                    <attribute id="FallbackStartRound" type="int32" value="-1" />
+                    <attribute id="LearningStrategy" type="uint8" value="0" />
+                    <attribute id="MinimumImpact" type="int32" value="0" />
+                    <attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                    <attribute id="ScoreModifier" type="float" value="1" />
+                    <attribute id="Skill" type="FixedString" value="Target_ClawsOfTheGrave_Necromite" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="0" />
+                    <attribute id="StartRound" type="int32" value="0" />
+                    <children>
+                        <node id="SourceConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                        <node id="TargetConditions">
+                            <attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                            <attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                            <children>
+                                <node id="Tags" />
+                            </children>
+                        </node>
+                    </children>
+                </node>
                 <node id="Skill">
                     <attribute id="Skill" type="FixedString" value="Shout_Dismiss_Self" />
                     <attribute id="SpellCastingAbility" type="uint8" value="0" />
