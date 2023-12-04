@@ -40,8 +40,8 @@ data "SpellContainerID" "FRE_Shout_PsionContainer"
 
 new entry "FRE_Shout_Psion_PsionForm"
 using "FRE_Shout_Psion_PowerForm"
-data "DisplayName" "h3a849c58ge4b0g4bbag91bdgc19fe6fe46ee;1"
-data "Description" "h0bba2202g8549g4c76g8b2ag6e2815aa3669;7"
+data "DisplayName" "h38570b43gf835g42abg9969g320f14a193cd;1"
+data "Description" "h388ca8c9g1f5bg4b59g8d8fgd99c4e8884c0;7"
 data "SpellProperties" "ApplyStatus(FRE_PSION_FORM,100,-1)"
 data "TooltipStatusApply" "ApplyStatus(FRE_PSION_FORM,100,-1)"
 
