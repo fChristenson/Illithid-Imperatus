@@ -48,6 +48,20 @@
     </children>
 </node>
 <node id="GameObjects">
+    <attribute id="DisplayName" type="TranslatedString" handle="h8af68c99g6c01g43c9ga90egf9e7b5ed9e99" version="1" />
+    <attribute id="Description" type="TranslatedString" handle="h67881bb7ge7a0g4a31g9765g18f797868292" version="1" />
+    <attribute id="MapKey" type="FixedString" value="863b5d4c-d22e-4cc4-9bc6-98b3154cc960" />
+    <attribute id="Name" type="LSString" value="FRE_Ring_Of_The_Psion" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Icon" type="FixedString" value="FRE_ring_1" />
+    <attribute id="ParentTemplateId" type="FixedString" value="ecf4a8a4-7859-4a82-8c08-0c9526f29500" />
+    <attribute id="Stats" type="FixedString" value="FRE_Ring_Of_The_Psion" />
+    <children>
+        <node id="GameMaster" />
+    </children>
+</node>
+<node id="GameObjects">
     <attribute id="DisplayName" type="TranslatedString" handle="hbdb06d92ga749g4939g96ccgc813f61f0a58" version="1" />
     <attribute id="Description" type="TranslatedString" handle="h67881bb7ge7a0g4a31g9765g18f797868292" version="1" />
     <attribute id="MapKey" type="FixedString" value="666d6942-b6a4-406f-b39a-729927bd3b85" />

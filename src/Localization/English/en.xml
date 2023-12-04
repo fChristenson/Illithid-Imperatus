@@ -8,6 +8,7 @@
   <content contentuid="h5e54b81fg7ed6g49b5gbe98ge645609eb38c" version="1">Illusion Spells</content>
   <content contentuid="h17740fefga713g4f1bg828bg64de5b8ac994" version="1">Necromancy Spells</content>
   <content contentuid="h8011eff8gefbdg4b16g8f8eg89ad2745762c" version="1">Ulitharid Spells</content>
+  <content contentuid="h6809ee06ga3d6g4059g9355ge7a3edeac76b" version="1">Psion Spells</content>
   <content contentuid="had0088ecgaac0g4049g8735gc68f292842e5" version="1">Alhoon Spells</content>
   <content contentuid="he925a321g7413g4cb9g83e8g1f2a7d31621a" version="1">Mind Flayer Powers</content>
   <content contentuid="h26c4a732g2b47g4f4aga1e2g699bfe90b755" version="1">Ceremorphosis</content>
@@ -55,6 +56,7 @@
   <content contentuid="h243fdddfge79ag4cceg8801g709398913969" version="1">Alhoon Ceremorphosis</content>
   <content contentuid="h69d9b41agd436g4883g8467g6344aad92bec" version="1">Become an Alhoon.</content>
   <content contentuid="h4d4ba1e0g4adbg48a5gb45bge7b4dad27bb1" version="1">Ulitharid Ceremorphosis</content>
+  <content contentuid="h3a849c58ge4b0g4bbag91bdgc19fe6fe46ee" version="1">Psion Ceremorphosis</content>
   <content contentuid="h0bba2202g8549g4c76g8b2ag6e2815aa3669" version="1">Become an Ulitharid.</content>
   <content contentuid="h4b3b3efdgf70dg4693g91eagd44555dd393e" version="1">Become a Mind Flayer.</content>
   <content contentuid="h0f3805ebg7f48g4298g96c8g41d604c1aee2" version="1">Emperor Ceremorphosis</content>
@@ -63,6 +65,7 @@
   <content contentuid="h058ad937g7762g4addg914eg2807c7490789" version="1">Mind Flayer Ceremorphosis</content>
   <content contentuid="h67881bb7ge7a0g4a31g9765g18f797868292" version="1">A ring with the power to trigger Ceremorphosis.</content>
   <content contentuid="hbdb06d92ga749g4939g96ccgc813f61f0a58" version="1">Ring of the Alhoon</content>
+  <content contentuid="h8af68c99g6c01g43c9ga90egf9e7b5ed9e99" version="1">Ring of the Psion</content>
   <content contentuid="h017cdc53g16f7g4f82g821dg88b0ca72e06e" version="1">Ring of the Ulitharid</content>
   <content contentuid="h033ef54fg5ed8g417fg90bdg9faebb80191d" version="1">Ulitharid Domination</content>
   <content contentuid="h7fc8119eg02b3g4e3ag8871g527146868295" version="1">Dominate any sentient lifeform.</content>

@@ -1,0 +1,8 @@
+new entry "FRE_Repulsion_enemy_aura_Passive"
+type "PassiveData"
+data "Icon" "TadpoleSuperPower_Repulsor"
+data "Properties" "ToggledDefaultAddToHotbar;IsToggled"
+data "DisplayName" "h5e244d68g5ebcg43a4gb90cg901445c8f59d;2"
+data "Description" "h7a760a3bg4ae7g416bga773g0705e4e73b44;5"
+data "ToggleOnFunctors" "ApplyStatus(FRE_AURA_OF_REPULSION, 100, -1)"
+data "ToggleOffFunctors" "RemoveStatus(FRE_AURA_OF_REPULSION, 100, -1)"

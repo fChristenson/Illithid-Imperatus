@@ -1,4 +1,4 @@
-new entry "FRE_Throw_Ulitharid_Telekinesis"
+new entry "FRE_Throw_Psion_Telekinesis"
 type "SpellData"
 data "SpellType" "Throw"
 using "Throw_Throw"
