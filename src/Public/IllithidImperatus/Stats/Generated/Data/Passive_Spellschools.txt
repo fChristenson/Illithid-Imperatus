@@ -54,7 +54,7 @@ new entry "FRE_PsionSpells"
 type "PassiveData"
 using "FRE_Base_SpellschoolPassive"
 data "DisplayName" "h6809ee06ga3d6g4059g9355ge7a3edeac76b;1"
-data "Boosts" "UnlockSpell(FRE_WallOfRepulsion);UnlockSpell(FRE_Zone_ForcePush);UnlockSpell(FRE_Zone_Repulsor);UnlockSpell(FRE_Target_PsionicBurst);UnlockSpell(FRE_Throw_Psion_Telekinesis);UnlockSpell(FRE_Target_Greater_BlackHole)"
+data "Boosts" "UnlockSpell(Target_MageHand);UnlockSpell(Target_Guidance);UnlockSpell(Target_TrueStrike);UnlockSpell(Target_CharmPerson);UnlockSpell(Target_Command_Container);UnlockSpell(Target_Sanctuary);UnlockSpell(Zone_Fear);UnlockSpell(Target_CrownOfMadness);UnlockSpell(Target_PhantasmalForce);UnlockSpell(Target_Confusion);UnlockSpell(Shout_SeeInvisibility);UnlockSpell(FRE_WallOfRepulsion);UnlockSpell(FRE_Zone_ForcePush);UnlockSpell(FRE_Zone_Repulsor);UnlockSpell(FRE_Target_PsionicBurst);UnlockSpell(FRE_Throw_Psion_Telekinesis);UnlockSpell(FRE_Target_Greater_BlackHole)"
 
 new entry "FRE_MindFlayerSpells"
 type "PassiveData"
