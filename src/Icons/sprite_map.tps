@@ -34,7 +34,7 @@
         <key>dataFormat</key>
         <string>spritesheet-only</string>
         <key>textureFileName</key>
-        <filename>RingOfTheUlitharid_Icons.png</filename>
+        <filename>IllithidImperatus_Icons.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>pvrQualityLevel</key>
@@ -197,6 +197,8 @@
             <key type="filename">64x64/death_1.jpeg</key>
             <key type="filename">64x64/death_2.jpeg</key>
             <key type="filename">64x64/death_3.jpeg</key>
+            <key type="filename">64x64/death_4.jpeg</key>
+            <key type="filename">64x64/death_5.jpeg</key>
             <key type="filename">64x64/dragon_1.jpeg</key>
             <key type="filename">64x64/dragon_2.jpeg</key>
             <key type="filename">64x64/dragon_3.jpeg</key>
@@ -223,6 +225,7 @@
             <key type="filename">64x64/gem_5.jpeg</key>
             <key type="filename">64x64/gem_6.jpeg</key>
             <key type="filename">64x64/gem_7.jpeg</key>
+            <key type="filename">64x64/ghoul_1.jpeg</key>
             <key type="filename">64x64/goblin_1.jpeg</key>
             <key type="filename">64x64/goblin_2.jpeg</key>
             <key type="filename">64x64/hammer_1.jpeg</key>
@@ -268,15 +271,29 @@
             <key type="filename">64x64/rat_1.jpeg</key>
             <key type="filename">64x64/rat_2.jpeg</key>
             <key type="filename">64x64/rat_3.jpeg</key>
+            <key type="filename">64x64/ring_1.jpeg</key>
             <key type="filename">64x64/ring_1.jpg</key>
+            <key type="filename">64x64/ring_2.jpeg</key>
             <key type="filename">64x64/ring_2.jpg</key>
+            <key type="filename">64x64/ring_3.jpeg</key>
             <key type="filename">64x64/ring_3.jpg</key>
+            <key type="filename">64x64/ring_4.jpeg</key>
             <key type="filename">64x64/ring_4.jpg</key>
             <key type="filename">64x64/shield_1.jpeg</key>
             <key type="filename">64x64/skull_1.jpeg</key>
+            <key type="filename">64x64/skull_10.jpeg</key>
+            <key type="filename">64x64/skull_11.jpeg</key>
+            <key type="filename">64x64/skull_12.jpeg</key>
+            <key type="filename">64x64/skull_13.jpeg</key>
+            <key type="filename">64x64/skull_14.jpeg</key>
             <key type="filename">64x64/skull_2.jpeg</key>
             <key type="filename">64x64/skull_3.jpeg</key>
             <key type="filename">64x64/skull_4.jpeg</key>
+            <key type="filename">64x64/skull_5.jpeg</key>
+            <key type="filename">64x64/skull_6.jpeg</key>
+            <key type="filename">64x64/skull_7.jpeg</key>
+            <key type="filename">64x64/skull_8.jpeg</key>
+            <key type="filename">64x64/skull_9.jpeg</key>
             <key type="filename">64x64/skull_hood_1.jpeg</key>
             <key type="filename">64x64/skull_hood_10.jpeg</key>
             <key type="filename">64x64/skull_hood_11.jpeg</key>
@@ -323,6 +340,7 @@
             <key type="filename">64x64/wolf_2.jpeg</key>
             <key type="filename">64x64/wolf_3.jpeg</key>
             <key type="filename">64x64/wolf_4.jpeg</key>
+            <key type="filename">64x64/zombie_1.jpeg</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
