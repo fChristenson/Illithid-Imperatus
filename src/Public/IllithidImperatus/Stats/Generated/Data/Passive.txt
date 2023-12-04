@@ -7,21 +7,6 @@ data "Icon" "PassiveFeature_Darkvision"
 data "Properties" "Highlighted"
 data "Boosts" "DarkvisionRangeMin(150);ActiveCharacterLight(051648e6-f05a-e41f-e398-ffd5cd148989)"
 
-new entry "FRE_CustomSpells"
-type "PassiveData"
-data "DisplayName" "h470b36e0gd9b4g48a2g925bg5979c3915e8e;1"
-data "Boosts" "UnlockSpell(FRE_WallOfRepulsion);UnlockSpell(FRE_Zone_ForcePush);UnlockSpell(FRE_Zone_Repulsor);UnlockSpell(FRE_Target_PsionicBurst);UnlockSpell(FRE_Shout_Dismiss_Thralls);UnlockSpell(FRE_Target_Summon_Mindless_Thrall_Container);UnlockSpell(FRE_Target_Greater_PowerWordKill);UnlockSpell(FRE_Shout_Kill_Thralls);UnlockSpell(FRE_Target_Greater_Create_Thrall_Ulitharid);UnlockSpell(FRE_Target_Create_Thrall_Ulitharid);UnlockSpell(FRE_Target_Stun);UnlockSpell(FRE_ProjectileStrike_Bombardment);UnlockSpell(FRE_Throw_Ulitharid_Telekinesis);UnlockSpell(FRE_Target_Greater_BlackHole);UnlockSpell(FRE_Teleportation_Target);UnlockSpell(FRE_Target_Greater_HoldMonster);UnlockSpell(FRE_Target_GreaterPhantasmalKiller);UnlockSpell(FRE_Target_GreaterDissonantWhispers);UnlockSpell(FRE_Target_Greater_Crown_Of_Madness);UnlockSpell(FRE_Target_Summon_Thrall_Container);UnlockSpell(FRE_Target_DominateBeast_Ulitharid);UnlockSpell(FRE_Target_DominatePerson_Ulitharid)"
-
-new entry "FRE_MindFlayerSpells"
-type "PassiveData"
-data "DisplayName" "h470b36e0gd9b4g48a2g925bg5979c3915e8e;1"
-data "Boosts" "UnlockSpell(Shout_DetectThoughts);UnlockSpell(Target_Knock);UnlockSpell(Shout_SpeakWithAnimals);UnlockSpell(Target_DominateBeast);UnlockSpell(Target_DominatePerson);UnlockSpell(Throw_END_Emperor_Telekinesis);UnlockSpell(Target_ConjureIntellectDevour);UnlockSpell(FRE_Target_Tentacles_MindFlayer);UnlockSpell(Zone_MindBlast_MindFlayer);UnlockSpell(Projectile_Levitate_Mindflayer_Player);UnlockSpell(Target_ExtractBrain_Mindflayer);UnlockSpell(Target_MF_ConcentratedBlast);UnlockSpell(Target_MF_MindSanctuary);UnlockSpell(Rush_MF_ForceTunnel);UnlockSpell(Target_MF_ShieldOfThralls);UnlockSpell(Target_MF_BlackHole);UnlockSpell(Target_MF_AbsorbIntellect);UnlockSpell(Target_MF_PerilousStakes);UnlockSpell(Target_MF_Imperil);UnlockSpell(Shout_TAD_DisplacerBeast);UnlockSpell(Target_StageFright);UnlockSpell(Target_TAD_TransfuseHealth);UnlockSpell(Shout_MF_PsionicOverload)"
-
-new entry "FRE_Base_MindFlayerSpells"
-type "PassiveData"
-data "DisplayName" "h470b36e0gd9b4g48a2g925bg5979c3915e8e;1"
-data "Boosts" "UnlockSpell(Target_ConjureIntellectDevour);UnlockSpell(FRE_Target_Tentacles_MindFlayer);UnlockSpell(Zone_MindBlast_MindFlayer);UnlockSpell(Projectile_Levitate_Mindflayer_Player);UnlockSpell(Target_ExtractBrain_Mindflayer);UnlockSpell(Target_MF_ConcentratedBlast);UnlockSpell(Target_MF_MindSanctuary);UnlockSpell(Rush_MF_ForceTunnel);UnlockSpell(Target_MF_ShieldOfThralls);UnlockSpell(Target_MF_BlackHole);UnlockSpell(Target_MF_AbsorbIntellect);UnlockSpell(Target_MF_PerilousStakes);UnlockSpell(Target_MF_Imperil);UnlockSpell(Shout_TAD_DisplacerBeast);UnlockSpell(Target_StageFright);UnlockSpell(Target_TAD_TransfuseHealth);UnlockSpell(Shout_MF_PsionicOverload)"
-
 new entry "FRE_Repulsion_enemy_aura_Passive"
 type "PassiveData"
 data "Icon" "TadpoleSuperPower_Repulsor"

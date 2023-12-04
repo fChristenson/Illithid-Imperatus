@@ -1,4 +1,0 @@
-new entry "FRE_CustomAlhoonSpells"
-type "PassiveData"
-data "DisplayName" "h470b36e0gd9b4g48a2g925bg5979c3915e8e;1"
-data "Boosts" "UnlockSpell(FRE_Shout_Dismiss_Thralls);UnlockSpell(FRE_Target_Summon_Undead_Thrall_Container);UnlockSpell(FRE_Shout_Kill_Thralls);UnlockSpell(FRE_ProjectileStrike_Bombardment);UnlockSpell(FRE_Target_Summon_Mindless_Undead_Thrall_Container)"

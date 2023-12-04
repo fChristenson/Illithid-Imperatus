@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList date="17/07/2023 12:47">
+  <content contentuid="ha56f8df7g441cg44c2g8911gba891e108943" version="1">Abjuration Spells</content>
+  <content contentuid="h1c2d45d0g8400g46dagb185g265fdcefa386" version="1">Transmutation Spells</content>
+  <content contentuid="h5d42c83fgd887g4169g88eag649daa243378" version="1">Divination Spells</content>
+  <content contentuid="hd4479403ga8fdg4141g8154g0ecd384bdfb5" version="1">Conjuration Spells</content>
+  <content contentuid="hc5ab8581g75ceg4fd8g90ebg70581b7ae435" version="1">Enchantment Spells</content>
+  <content contentuid="h5e54b81fg7ed6g49b5gbe98ge645609eb38c" version="1">Illusion Spells</content>
+  <content contentuid="h17740fefga713g4f1bg828bg64de5b8ac994" version="1">Necromancy Spells</content>
+  <content contentuid="h8011eff8gefbdg4b16g8f8eg89ad2745762c" version="1">Ulitharid Spells</content>
+  <content contentuid="had0088ecgaac0g4049g8735gc68f292842e5" version="1">Alhoon Spells</content>
+  <content contentuid="he925a321g7413g4cb9g83e8g1f2a7d31621a" version="1">Mind Flayer Powers</content>
   <content contentuid="h26c4a732g2b47g4f4aga1e2g699bfe90b755" version="1">Ceremorphosis</content>
   <content contentuid="h9bc303a4g8e02g4e9eg9d81g2a66a246298e" version="1">Ring of Ceremorphosis</content>
   <content contentuid="h76c146fag077dg4811gb789g43e4e335738f" version="1">Summon Undead Dragon</content>
