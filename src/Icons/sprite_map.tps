@@ -272,13 +272,9 @@
             <key type="filename">64x64/rat_2.jpeg</key>
             <key type="filename">64x64/rat_3.jpeg</key>
             <key type="filename">64x64/ring_1.jpeg</key>
-            <key type="filename">64x64/ring_1.jpg</key>
             <key type="filename">64x64/ring_2.jpeg</key>
-            <key type="filename">64x64/ring_2.jpg</key>
             <key type="filename">64x64/ring_3.jpeg</key>
-            <key type="filename">64x64/ring_3.jpg</key>
             <key type="filename">64x64/ring_4.jpeg</key>
-            <key type="filename">64x64/ring_4.jpg</key>
             <key type="filename">64x64/shield_1.jpeg</key>
             <key type="filename">64x64/skull_1.jpeg</key>
             <key type="filename">64x64/skull_10.jpeg</key>
