@@ -1,0 +1,8 @@
+new entry "FRE_Resist_PsychicDamage"
+type "PassiveData"
+data "Properties" "ToggledDefaultAddToHotbar;IsToggled;ToggledDefaultOn"
+data "DisplayName" "h7e8deb2eg37f6g43a0ga709g86a049e282c6;3"
+data "Description" "h7a0ac93agd82fg4738g86bcga123b00edf71;2"
+data "Icon" "GenericIcon_DamageType_Psychic"
+data "ToggleOnFunctors" "ApplyStatus(RESISTANCE_PSYCHIC, 100, -1)"
+data "ToggleOffFunctors" "RemoveStatus(RESISTANCE_PSYCHIC, 100, -1)"
