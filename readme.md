@@ -4,20 +4,13 @@ Probably the best Mind Flayer experience, *in the world*.
 
 ## Description
 
-BG3 mod for gaining the powers of an [Ulitharid](https://forgottenrealms.fandom.com/wiki/Ulitharid).
+BG3 mod for gaining the powers of a [Mind Flayer](https://forgottenrealms.fandom.com/wiki/Mind_flayer).
 
-![Ulitharid](https://static.wikia.nocookie.net/forgottenrealms/images/b/bd/Ulitharid-5e.jpg/revision/latest?cb=20171010175905)
-
-## Included
-
-- [Models](./docs/modules/ceremorphosis_models.md)
-- [Gear](./docs/modules/gear_list.md)
-- [Custom spells](./docs/modules/custom_spells.md)
+![Mind Flayer](https://static.wikia.nocookie.net/forgottenrealms/images/2/2b/Mind_flayer_-_5E.jpg/revision/latest?cb=20200305201225)
 
 ### References
 
 - [Mind Flayer](https://forgottenrealms.fandom.com/wiki/Mind_flayer)
-- [Ulitharid](https://forgottenrealms.fandom.com/wiki/Ulitharid)
 - [Ilsensine](https://forgottenrealms.fandom.com/wiki/Ilsensine)
 - [Maanzecorian](https://forgottenrealms.fandom.com/wiki/Maanzecorian)
 - [Illithid items](https://forgottenrealms.fandom.com/wiki/Category:Illithid_items)
