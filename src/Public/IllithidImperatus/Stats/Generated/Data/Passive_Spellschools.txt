@@ -48,7 +48,7 @@ new entry "FRE_ArcanistSpells"
 type "PassiveData"
 using "FRE_Base_SpellschoolPassive"
 data "DisplayName" "h75c5000fgb551g4a1ag895bg1c2a84f66338;1"
-data "Boosts" "UnlockSpell(Projectile_FireBolt);UnlockSpell(Projectile_RayOfFrost);UnlockSpell(Target_ShockingGrasp);UnlockSpell(Zone_BurningHands);UnlockSpell(Projectile_ChromaticOrb);UnlockSpell(Projectile_MagicMissile);UnlockSpell(Projectile_WitchBolt);UnlockSpell(Projectile_ScorchingRay);UnlockSpell(Projectile_Fireball);UnlockSpell(Zone_LightningBolt);UnlockSpell(Shout_FireShield);UnlockSpell(Target_IceStorm);UnlockSpell(Wall_WallOfFire);UnlockSpell(Zone_ConeOfCold);UnlockSpell(Projectile_ChainLightning);UnlockSpell(Wall_WallOfIce);UnlockSpell(Target_FreezingSphere)"
+data "Boosts" "UnlockSpell(Projectile_RayOfEnfeeblement);UnlockSpell(Target_Invisibility_Greater);UnlockSpell(Target_Invisibility);UnlockSpell(Projectile_FireBolt);UnlockSpell(Projectile_RayOfFrost);UnlockSpell(Target_ShockingGrasp);UnlockSpell(Zone_BurningHands);UnlockSpell(Projectile_ChromaticOrb);UnlockSpell(Projectile_MagicMissile);UnlockSpell(Projectile_WitchBolt);UnlockSpell(Projectile_ScorchingRay);UnlockSpell(Projectile_Fireball);UnlockSpell(Zone_LightningBolt);UnlockSpell(Shout_FireShield);UnlockSpell(Target_IceStorm);UnlockSpell(Wall_WallOfFire);UnlockSpell(Zone_ConeOfCold);UnlockSpell(Projectile_ChainLightning);UnlockSpell(Wall_WallOfIce);UnlockSpell(Target_FreezingSphere)"
 
 new entry "FRE_UlitharidSpells"
 type "PassiveData"
