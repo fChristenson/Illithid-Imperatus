@@ -54,7 +54,7 @@
     <attribute id="Name" type="LSString" value="FRE_Ring_Of_The_Vampiric" />
     <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="Type" type="FixedString" value="item" />
-    <attribute id="Icon" type="FixedString" value="FRE_ring_3" />
+    <attribute id="Icon" type="FixedString" value="FRE_ring_5" />
     <attribute id="ParentTemplateId" type="FixedString" value="ecf4a8a4-7859-4a82-8c08-0c9526f29500" />
     <attribute id="Stats" type="FixedString" value="FRE_Ring_Of_The_Vampiric" />
     <children>
