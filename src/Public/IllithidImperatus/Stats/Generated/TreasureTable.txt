@@ -7,6 +7,8 @@ object category "I_FRE_Ring_Of_The_Ulitharid",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_FRE_Ring_Of_The_Psion",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_FRE_Ring_Of_The_Vampiric",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_FRE_Ring_Of_The_Alhoon",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_FRE_Ring_Of_The_Arcanist",1,0,0,0,0,0,0,0

@@ -48,6 +48,20 @@
     </children>
 </node>
 <node id="GameObjects">
+    <attribute id="DisplayName" type="TranslatedString" handle="haf7fe1dag590fg474fg9747gf3c1f5776c53" version="1" />
+    <attribute id="Description" type="TranslatedString" handle="h67881bb7ge7a0g4a31g9765g18f797868292" version="1" />
+    <attribute id="MapKey" type="FixedString" value="99a8ea67-9049-4e12-9166-544bbf9bba39" />
+    <attribute id="Name" type="LSString" value="FRE_Ring_Of_The_Vampiric" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="Type" type="FixedString" value="item" />
+    <attribute id="Icon" type="FixedString" value="FRE_ring_3" />
+    <attribute id="ParentTemplateId" type="FixedString" value="ecf4a8a4-7859-4a82-8c08-0c9526f29500" />
+    <attribute id="Stats" type="FixedString" value="FRE_Ring_Of_The_Vampiric" />
+    <children>
+        <node id="GameMaster" />
+    </children>
+</node>
+<node id="GameObjects">
     <attribute id="DisplayName" type="TranslatedString" handle="hee7411bbga1a5g45c2gac90ge660d6f62d77" version="1" />
     <attribute id="Description" type="TranslatedString" handle="h67881bb7ge7a0g4a31g9765g18f797868292" version="1" />
     <attribute id="MapKey" type="FixedString" value="79edca28-eaff-4f8d-8550-0bf6981b683d" />
