@@ -1,0 +1,7 @@
+new entry "FRE_Vampiric_Regen"
+type "PassiveData"
+data "Icon" "GenericIcon_Intent_Buff"
+data "Properties" "ToggledDefaultAddToHotbar;IsToggled;ToggledDefaultOn"
+data "DisplayName" "hdea274dbg88edg4da0ga757g94a78b2ca16a;1"
+data "ToggleOnFunctors" "ApplyStatus(FRE_Vampiric_RegenStatus, 100, -1)"
+data "ToggleOffFunctors" "RemoveStatus(FRE_Vampiric_RegenStatus, 100, -1)"
