@@ -6,6 +6,7 @@
 			<children>
 				<%- mainItems %>
 				<%- mindFlayerModels %>
+				<%- vampiricMindFlayerModels %>
 				<%- portalShards %>
 				<%- gravityStones %>
 				<%- resonanceStones %>

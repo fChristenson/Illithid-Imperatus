@@ -1,0 +1,42 @@
+<node id="GameObjects">
+    <attribute id="MapKey" type="FixedString" value="4ae4d7e2-ae0a-463a-ad78-2bc4195125f4" />
+    <attribute id="Name" type="LSString" value="FRE_Vampiric_Mindflayer_Form_Player" />
+    <attribute id="ParentTemplateId" type="FixedString" value="3ffcbb8a-b8ec-41f4-97d0-e3088293b489" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="Stats" type="FixedString" value="FRE_Vampiric_MindFlayer" />
+</node>
+<node id="GameObjects">
+    <attribute id="MapKey" type="FixedString" value="9698eac5-8cbb-4d04-b632-182ca5c2b363" />
+    <attribute id="Name" type="LSString" value="VampiricMindflayer" />
+    <attribute id="ParentTemplateId" type="FixedString" value="ae6e38f3-79aa-4258-b3fd-9a7a1d0c1370" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="Stats" type="FixedString" value="FRE_Vampiric_MindFlayer" />
+</node>
+<node id="GameObjects">
+    <attribute id="MapKey" type="FixedString" value="cb393378-d038-4c87-b119-87cca928c2e9" />
+    <attribute id="Name" type="LSString" value="FRE_Vampiric_Mindflayer_Emperor" />
+    <attribute id="ParentTemplateId" type="FixedString" value="969c3f50-3994-4e38-b2a4-3e59d213c97f" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="Stats" type="FixedString" value="FRE_Vampiric_MindFlayer" />
+</node>
+<node id="GameObjects">
+    <attribute id="MapKey" type="FixedString" value="1fd5d91f-fed9-4385-a5d9-e0882a3a2d88" />
+    <attribute id="Name" type="LSString" value="FRE_Vampiric_Mindflayer_Form_Player_Orpheus" />
+    <attribute id="ParentTemplateId" type="FixedString" value="ab49d851-bfdd-469f-ba8e-04b4a4b1167f" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="Stats" type="FixedString" value="FRE_Vampiric_MindFlayer" />
+</node>
+<node id="GameObjects">
+    <attribute id="MapKey" type="FixedString" value="9b4578d0-5ddb-4988-8ad0-4bd4408b8e78" />
+    <attribute id="Name" type="LSString" value="Mindflayer_Form_Player_Gale_God" />
+    <attribute id="ParentTemplateId" type="FixedString" value="8e8f3a59-f3de-46fe-ab6f-d6d397499008" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="Stats" type="FixedString" value="FRE_Vampiric_MindFlayer" />
+</node>
+<node id="GameObjects">
+    <attribute id="MapKey" type="FixedString" value="43e80567-f54f-41e2-8e1f-2f5ddf3ade5e" />
+    <attribute id="Name" type="LSString" value="FRE_Omeluum" />
+    <attribute id="ParentTemplateId" type="FixedString" value="5781da68-1a8a-46b2-b1d5-87d2b54417e6" />
+    <attribute id="Type" type="FixedString" value="character" />
+    <attribute id="Stats" type="FixedString" value="FRE_Vampiric_MindFlayer" />
+</node>

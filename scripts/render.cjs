@@ -8,6 +8,10 @@ const inputFiles = [
     "src/Public/IllithidImperatus/RootTemplates/mind_flayer_models.xml",
   ],
   [
+    "vampiricMindFlayerModels",
+    "src/Public/IllithidImperatus/RootTemplates/mind_flayer_models_vampiric.xml",
+  ],
+  [
     "portalShards",
     "src/Public/IllithidImperatus/RootTemplates/portal_shards.xml",
   ],
