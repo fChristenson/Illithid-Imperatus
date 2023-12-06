@@ -346,3 +346,9 @@ data "SpellAnimation" "8b8bb757-21ce-4e02-a2f3-97d55cf2f90b,,;b8a95317-2226-4f00
 data "SpellAnimationIntentType" "Aggressive"
 data "CastEffect" "f29f7ac8-cce2-45f9-8302-b824847a8bbe"
 data "TargetEffect" "cc09a13d-5d07-4604-a77f-87e0fa1df56b"
+
+new entry "FRE_Target_LOW_Astarion_VampireAscendant"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_LOW_Astarion_VampireAscendant"
+data "Cooldown" ""
