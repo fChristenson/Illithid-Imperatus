@@ -13,6 +13,7 @@
     <attribute id="VisualTemplate" type="FixedString" value="da0eafad-da1d-600c-c288-fcd9d978e895" />
     <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855913" />
     <attribute id="maxStackAmount" type="int32" value="100" />
+    <attribute id="IsLootable" type="bool" value="False" />
     <children>
         <node id="Bounds">
             <children>
