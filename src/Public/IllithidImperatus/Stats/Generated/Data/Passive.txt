@@ -6,3 +6,36 @@ data "DescriptionParams" " Distance(150)"
 data "Icon" "PassiveFeature_Darkvision"
 data "Properties" "Highlighted"
 data "Boosts" "DarkvisionRangeMin(150);ActiveCharacterLight(051648e6-f05a-e41f-e398-ffd5cd148989)"
+
+new entry "FRE_MF_MindSanctuary"
+using "MF_MindSanctuary
+data "Properties" "Highlighted;IsToggled;ToggledDefaultOn"
+"OnRemoveFunctors" "RemoveStatus(MF_MIND_SANCTUARY)"
+
+new entry "FRE_TAD_DrainAbility"
+using "TAD_DrainAbility
+data "Properties" "Highlighted;IsToggled;ToggledDefaultOn"
+
+new entry "FRE_TAD_CullTheWeak"
+using "TAD_CullTheWeak
+data "Properties" "Highlighted;IsToggled;ToggledDefaultOn"
+
+new entry "FRE_TAD_Charm"
+using "TAD_Charm
+data "Properties" "Highlighted;IsToggled;ToggledDefaultOn"
+
+new entry "FRE_TAD_PeaceBreaker"
+using "TAD_PeaceBreaker
+data "Properties" "Highlighted;IsToggled;ToggledDefaultOn"
+
+new entry "FRE_TAD_PsionicDominance"
+using "TAD_PsionicDominance
+data "Properties" "Highlighted;IsToggled;ToggledDefaultOn"
+
+new entry "FRE_TAD_PsionicBacklash"
+using "TAD_PsionicBacklash
+data "Properties" "Highlighted;IsToggled;ToggledDefaultOn"
+
+new entry "FRE_TAD_LuckOfTheFarRealms"
+using "TAD_LuckOfTheFarRealms
+data "Properties" "Highlighted;IsToggled;ToggledDefaultOn"
