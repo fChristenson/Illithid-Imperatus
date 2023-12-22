@@ -10,7 +10,6 @@ data "Boosts" "DarkvisionRangeMin(150);ActiveCharacterLight(051648e6-f05a-e41f-e
 new entry "FRE_MF_MindSanctuary"
 using "MF_MindSanctuary
 data "Properties" "Highlighted;IsToggled;ToggledDefaultOn"
-"OnRemoveFunctors" "RemoveStatus(MF_MIND_SANCTUARY)"
 
 new entry "FRE_TAD_DrainAbility"
 using "TAD_DrainAbility
