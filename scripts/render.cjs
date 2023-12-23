@@ -48,6 +48,7 @@ const inputFiles = [
     "explosiveContraptions",
     "src/Public/IllithidImperatus/RootTemplates/explosive_contraption.xml",
   ],
+  ["levers", "src/Public/IllithidImperatus/RootTemplates/levers.xml"],
 ];
 const template =
   "src/Public/IllithidImperatus/RootTemplates/_merged.lsx.template";
