@@ -19,6 +19,7 @@
 				<%- aquariums %>
 				<%- brainJars %>
 				<%- chairs %>
+				<%- controlPanels %>
 				<%- furniture %>
 			</children>
 		</node>

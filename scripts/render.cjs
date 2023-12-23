@@ -39,6 +39,10 @@ const inputFiles = [
   ["aquariums", "src/Public/IllithidImperatus/RootTemplates/aquarium.xml"],
   ["brainJars", "src/Public/IllithidImperatus/RootTemplates/brain_jars.xml"],
   ["chairs", "src/Public/IllithidImperatus/RootTemplates/chairs.xml"],
+  [
+    "controlPanels",
+    "src/Public/IllithidImperatus/RootTemplates/control_panels.xml",
+  ],
 ];
 const template =
   "src/Public/IllithidImperatus/RootTemplates/_merged.lsx.template";
