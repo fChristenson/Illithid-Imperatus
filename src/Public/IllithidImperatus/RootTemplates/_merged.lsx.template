@@ -23,6 +23,7 @@
 				<%- crates %>
 				<%- explosiveContraptions %>
 				<%- levers %>
+				<%- pods %>
 				<%- furniture %>
 			</children>
 		</node>
