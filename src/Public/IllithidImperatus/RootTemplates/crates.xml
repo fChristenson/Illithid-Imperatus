@@ -7,7 +7,7 @@
     <attribute id="IsPointerBlocker" type="bool" value="False" />
     <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
     <attribute id="LoopSound" type="FixedString" value="" />
-    <attribute id="MapKey" type="FixedString" value="c380f29d-c75f-431c-b4b2-04d677ea353f" />
+    <attribute id="MapKey" type="FixedString" value="62cffb83-4699-40ba-8a71-4297ef1f25a6" />
     <attribute id="Name" type="LSString" value="FUR_MF_Platform_Crate_B_003" />
     <attribute id="SoundAttenuation" type="int16" value="-1" />
     <attribute id="SoundInitEvent" type="FixedString" value="" />
@@ -34,11 +34,6 @@
                 </node>
             </children>
         </node>
-        <node id="Transform">
-            <attribute id="Position" type="fvec3" value="-13.14659 17.06986 -362.6622" />
-            <attribute id="RotationQuat" type="fvec4" value="0.0008079763 -0.351842 0.0003036985 0.936059" />
-            <attribute id="Scale" type="float" value="1" />
-        </node>
     </children>
 </node>
 <node id="GameObjects">
@@ -50,7 +45,7 @@
     <attribute id="IsPointerBlocker" type="bool" value="False" />
     <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
     <attribute id="LoopSound" type="FixedString" value="" />
-    <attribute id="MapKey" type="FixedString" value="007ae732-b993-481e-8b43-bed749d8c51e" />
+    <attribute id="MapKey" type="FixedString" value="37898218-768a-423c-8a4a-12ad82ca593d" />
     <attribute id="Name" type="LSString" value="FUR_MF_Platform_Crate_A_006" />
     <attribute id="SoundAttenuation" type="int16" value="-1" />
     <attribute id="SoundInitEvent" type="FixedString" value="" />

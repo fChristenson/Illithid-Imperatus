@@ -20,6 +20,7 @@
 				<%- brainJars %>
 				<%- chairs %>
 				<%- controlPanels %>
+				<%- crates %>
 				<%- furniture %>
 			</children>
 		</node>
