@@ -38,6 +38,7 @@ const inputFiles = [
   ["weaponOils", "src/Public/IllithidImperatus/RootTemplates/weapon_oils.xml"],
   ["aquariums", "src/Public/IllithidImperatus/RootTemplates/aquarium.xml"],
   ["brainJars", "src/Public/IllithidImperatus/RootTemplates/brain_jars.xml"],
+  ["chairs", "src/Public/IllithidImperatus/RootTemplates/chairs.xml"],
 ];
 const template =
   "src/Public/IllithidImperatus/RootTemplates/_merged.lsx.template";

@@ -18,6 +18,7 @@
 				<%- weaponOils %>
 				<%- aquariums %>
 				<%- brainJars %>
+				<%- chairs %>
 				<%- furniture %>
 			</children>
 		</node>
