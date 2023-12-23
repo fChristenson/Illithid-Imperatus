@@ -17,6 +17,7 @@
 				<%- undeadThralls %>
 				<%- weaponOils %>
 				<%- aquariums %>
+				<%- brainJars %>
 				<%- furniture %>
 			</children>
 		</node>
