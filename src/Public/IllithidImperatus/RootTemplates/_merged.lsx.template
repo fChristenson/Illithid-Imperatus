@@ -21,6 +21,7 @@
 				<%- chairs %>
 				<%- controlPanels %>
 				<%- crates %>
+				<%- explosiveContraptions %>
 				<%- furniture %>
 			</children>
 		</node>

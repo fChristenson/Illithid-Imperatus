@@ -44,6 +44,10 @@ const inputFiles = [
     "src/Public/IllithidImperatus/RootTemplates/control_panels.xml",
   ],
   ["crates", "src/Public/IllithidImperatus/RootTemplates/crates.xml"],
+  [
+    "explosiveContraptions",
+    "src/Public/IllithidImperatus/RootTemplates/explosive_contraption.xml",
+  ],
 ];
 const template =
   "src/Public/IllithidImperatus/RootTemplates/_merged.lsx.template";

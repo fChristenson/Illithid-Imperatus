@@ -1,8 +1,8 @@
 <node id="GameObjects">
     <attribute id="CanShootThrough" type="bool" value="False" />
     <attribute id="Flag" type="int32" value="1" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
-    <attribute id="MapKey" type="FixedString" value="1c3def09-6199-46d6-beaf-1fd84148ce65" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="2bfc07be-1295-4359-9fda-5275165e52f9" />
     <attribute id="Name" type="LSString" value="PUZ_MF_Explosive_Contraption_B_008" />
     <attribute id="TemplateName" type="FixedString" value="29a36662-ccd9-4599-b2a1-16fb2cb31366" />
     <attribute id="Type" type="FixedString" value="item" />
@@ -14,7 +14,7 @@
                 <node id="Layers">
                     <children>
                         <node id="Object">
-                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <attribute id="MapKey" type="FixedString" value="" />
                             <children>
                                 <node id="Layer">
                                     <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
@@ -25,18 +25,13 @@
                 </node>
             </children>
         </node>
-        <node id="Transform">
-            <attribute id="Position" type="fvec3" value="-1.829322 17.59165 -342.8027" />
-            <attribute id="RotationQuat" type="fvec4" value="-0.0003333752 0 -0.0005532575 0.9999999" />
-            <attribute id="Scale" type="float" value="0.8" />
-        </node>
     </children>
 </node>
 <node id="GameObjects">
     <attribute id="CanShootThrough" type="bool" value="False" />
     <attribute id="Flag" type="int32" value="1" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
-    <attribute id="MapKey" type="FixedString" value="4d55abd6-2913-4e47-b4f3-55c4cda69bd3" />
+    <attribute id="LevelName" type="FixedString" value="" />
+    <attribute id="MapKey" type="FixedString" value="a5678af5-fa5b-4b2b-be00-07e21ce25fdb" />
     <attribute id="Name" type="LSString" value="PUZ_MF_Explosive_Contraption_A_004" />
     <attribute id="TemplateName" type="FixedString" value="24e01b77-0a74-410d-869f-919918f20278" />
     <attribute id="Type" type="FixedString" value="item" />
@@ -48,7 +43,7 @@
                 <node id="Layers">
                     <children>
                         <node id="Object">
-                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <attribute id="MapKey" type="FixedString" value="" />
                             <children>
                                 <node id="Layer">
                                     <attribute id="Object" type="guid" value="93696ccc-9a3e-b35c-1c1e-b3477a9c7ddd" />
@@ -64,11 +59,6 @@
                     </children>
                 </node>
             </children>
-        </node>
-        <node id="Transform">
-            <attribute id="Position" type="fvec3" value="-42.54842 17.44111 -399.4155" />
-            <attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
-            <attribute id="Scale" type="float" value="1" />
         </node>
     </children>
 </node>
