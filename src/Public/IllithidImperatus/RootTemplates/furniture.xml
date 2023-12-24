@@ -49,190 +49,11 @@
     <attribute id="CanClimbOn" type="bool" value="False" />
     <attribute id="CanShootThrough" type="bool" value="False" />
     <attribute id="CoverAmount" type="uint8" value="1" />
-    <attribute id="Fadeable" type="bool" value="False" />
     <attribute id="Flag" type="int32" value="1" />
     <attribute id="IsPointerBlocker" type="bool" value="False" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
-    <attribute id="LoopSound" type="FixedString" value="356982d9-7084-58f8-a3aa-54b27585ee2d" />
-    <attribute id="MapKey" type="FixedString" value="b691fdec-1927-4f75-a852-31f4669a6e64" />
-    <attribute id="Name" type="LSString" value="BLD_MF_Nautiloid_Mind_Draining_Device_TopPart_A_000" />
-    <attribute id="SeeThrough" type="bool" value="True" />
-    <attribute id="SoundAttenuation" type="int16" value="-1" />
-    <attribute id="SoundInitEvent" type="FixedString" value="" />
-    <attribute id="TemplateName" type="FixedString" value="001bfc28-6dcf-4abb-98d5-2b7a80e1f681" />
-    <attribute id="Type" type="FixedString" value="item" />
-    <attribute id="Wadable" type="bool" value="False" />
-    <attribute id="WalkOn" type="bool" value="False" />
-    <attribute id="WalkThrough" type="bool" value="False" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
-    <children>
-        <node id="LayerList">
-            <children>
-                <node id="Layers">
-                    <children>
-                        <node id="Object">
-                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
-                            <children>
-                                <node id="Layer">
-                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
-                                </node>
-                            </children>
-                        </node>
-                    </children>
-                </node>
-            </children>
-        </node>
-        <node id="Transform">
-            <attribute id="Position" type="fvec3" value="-3.44 17.002 -355.003" />
-            <attribute id="RotationQuat" type="fvec4" value="0 1 0 -4.371139E-08" />
-            <attribute id="Scale" type="float" value="1" />
-        </node>
-    </children>
-</node>
-<node id="GameObjects">
-    <attribute id="CanBeMoved" type="bool" value="False" />
-    <attribute id="CanBePickedUp" type="bool" value="False" />
-    <attribute id="CanClimbOn" type="bool" value="False" />
-    <attribute id="CoverAmount" type="uint8" value="1" />
-    <attribute id="DisplayName" type="TranslatedString" handle="hc375aa8agfccdg4e03gb370g8c80650b0560" version="1" />
-    <attribute id="Flag" type="int32" value="1" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
-    <attribute id="MapKey" type="FixedString" value="2abaa5fd-014e-4ee1-8033-1e7fdc517eb6" />
-    <attribute id="Name" type="LSString" value="S_TUT_Lab_BrainReader" />
-    <attribute id="TemplateName" type="FixedString" value="0e92c207-f20f-46a7-a92a-6d71114122f8" />
-    <attribute id="Type" type="FixedString" value="item" />
-    <attribute id="WalkOn" type="bool" value="False" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
-    <children>
-        <node id="LayerList">
-            <children>
-                <node id="Layers">
-                    <children>
-                        <node id="Object">
-                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
-                            <children>
-                                <node id="Layer">
-                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
-                                </node>
-                            </children>
-                        </node>
-                    </children>
-                </node>
-            </children>
-        </node>
-        <node id="OnUsePeaceActions">
-            <children>
-                <node id="Action">
-                    <attribute id="ActionType" type="int32" value="8" />
-                    <children>
-                        <node id="Attributes">
-                            <attribute id="Animation" type="FixedString" value="" />
-                        </node>
-                    </children>
-                </node>
-            </children>
-        </node>
-        <node id="Transform">
-            <attribute id="Position" type="fvec3" value="3.106669 17.58359 -408.4957" />
-            <attribute id="RotationQuat" type="fvec4" value="0 0.2275711 0 0.9737616" />
-            <attribute id="Scale" type="float" value="1.2" />
-        </node>
-    </children>
-</node>
-<node id="GameObjects">
-    <attribute id="CoverAmount" type="uint8" value="1" />
-    <attribute id="DisplayName" type="TranslatedString" handle="h280b0197g6f0cg4629g9e96gcb2538034613" version="1" />
-    <attribute id="Flag" type="int32" value="1" />
-    <attribute id="GroupID" type="uint32" value="18504" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
-    <attribute id="MapKey" type="FixedString" value="5efb6f66-b2ce-403e-b7c0-b68f607ef13a" />
-    <attribute id="Name" type="LSString" value="S_TUT_Start_Brinepool" />
-    <attribute id="RecieveDecal" type="bool" value="False" />
-    <attribute id="Stats" type="FixedString" value="OBJ_BrinePool" />
-    <attribute id="TemplateName" type="FixedString" value="11e69af0-ea8e-4200-af0c-2dcaf8c23ce3" />
-    <attribute id="Type" type="FixedString" value="item" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209005" />
-    <children>
-        <node id="LayerList">
-            <children>
-                <node id="Layers">
-                    <children>
-                        <node id="Object">
-                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
-                            <children>
-                                <node id="Layer">
-                                    <attribute id="Object" type="guid" value="f5ba4fc7-a74b-57c5-7026-fb9f65c7ec5b" />
-                                </node>
-                                <node id="Layer">
-                                    <attribute id="Object" type="guid" value="93e0636e-9861-2bc3-cc8c-1a9e129b8317" />
-                                </node>
-                            </children>
-                        </node>
-                    </children>
-                </node>
-            </children>
-        </node>
-        <node id="OnDestroyActions">
-            <children>
-                <node id="Action">
-                    <attribute id="ActionType" type="int32" value="26" />
-                    <children>
-                        <node id="Attributes">
-                            <attribute id="ActivateSoundEvent" type="FixedString" value="e5d48e02-1cdd-67bd-0a32-5abdfd0491be" />
-                            <attribute id="Animation" type="FixedString" value="" />
-                            <attribute id="Conditions" type="LSString" value="" />
-                            <attribute id="PlayOnHUD" type="bool" value="False" />
-                        </node>
-                    </children>
-                </node>
-                <node id="Action">
-                    <attribute id="ActionType" type="int32" value="5" />
-                    <children>
-                        <node id="Attributes">
-                            <attribute id="Animation" type="FixedString" value="" />
-                            <attribute id="Conditions" type="LSString" value="" />
-                            <attribute id="ExplodeFX" type="FixedString" value="0be30891-e85f-d21d-31ea-8f294c951187" />
-                            <attribute id="FadeOutDelay" type="float" value="0" />
-                            <attribute id="FadeOutFX" type="FixedString" value="" />
-                            <attribute id="TargetItemState" type="uint8" value="0" />
-                            <attribute id="VisualWithDynamicPhysics" type="FixedString" value="381a5e29-e7ba-6ba8-8237-836617e3fdee" />
-                            <attribute id="templateAfterDestruction" type="FixedString" value="a676a455-6b36-4c45-a030-4ff56ded8482" />
-                            <attribute id="visualDestruction" type="FixedString" value="" />
-                        </node>
-                    </children>
-                </node>
-            </children>
-        </node>
-        <node id="OnUsePeaceActions">
-            <children>
-                <node id="Action">
-                    <attribute id="ActionType" type="int32" value="8" />
-                    <children>
-                        <node id="Attributes">
-                            <attribute id="Animation" type="FixedString" value="" />
-                            <attribute id="Conditions" type="LSString" value="" />
-                        </node>
-                    </children>
-                </node>
-            </children>
-        </node>
-        <node id="Transform">
-            <attribute id="Position" type="fvec3" value="46.23853 16.91547 -422.8901" />
-            <attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
-            <attribute id="Scale" type="float" value="1" />
-        </node>
-    </children>
-</node>
-<node id="GameObjects">
-    <attribute id="CanClickThrough" type="bool" value="False" />
-    <attribute id="CanClimbOn" type="bool" value="False" />
-    <attribute id="CanShootThrough" type="bool" value="False" />
-    <attribute id="CoverAmount" type="uint8" value="1" />
-    <attribute id="Flag" type="int32" value="1" />
-    <attribute id="IsPointerBlocker" type="bool" value="False" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="LoopSound" type="FixedString" value="" />
-    <attribute id="MapKey" type="FixedString" value="b05000c5-67f4-4006-a5db-2563266faa60" />
+    <attribute id="MapKey" type="FixedString" value="53096b77-9d8e-45e2-b132-f6fcc0ef0cc9" />
     <attribute id="Name" type="LSString" value="S_TUT_TransformChamber_DrainBed_003" />
     <attribute id="SoundAttenuation" type="int16" value="-1" />
     <attribute id="SoundInitEvent" type="FixedString" value="" />
@@ -248,7 +69,7 @@
                 <node id="Layers">
                     <children>
                         <node id="Object">
-                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <attribute id="MapKey" type="FixedString" value="" />
                             <children>
                                 <node id="Layer">
                                     <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
@@ -271,11 +92,6 @@
                     </children>
                 </node>
             </children>
-        </node>
-        <node id="Transform">
-            <attribute id="Position" type="fvec3" value="0.1728088 17.7114 -358.5892" />
-            <attribute id="RotationQuat" type="fvec4" value="0 0.9238796 0 0.3826835" />
-            <attribute id="Scale" type="float" value="1" />
         </node>
     </children>
 </node>
@@ -349,49 +165,6 @@
     </children>
 </node>
 <node id="GameObjects">
-    <attribute id="DisplayName" type="TranslatedString" handle="h5bd4d94agdc2fg4260gaddeg36e53446d685" version="3" />
-    <attribute id="Flag" type="int32" value="1" />
-    <attribute id="Key" type="FixedString" value="TUT_SharChest" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
-    <attribute id="LockDifficultyClassID" type="guid" value="fa621d38-6f83-4e42-a55c-6aa651a75d46" />
-    <attribute id="MapKey" type="FixedString" value="95dde668-cee0-47c0-92ed-1072db84f687" />
-    <attribute id="Name" type="LSString" value="S_TUT_TransformChamber_SharChest" />
-    <attribute id="TemplateName" type="FixedString" value="a87debb4-a746-41b8-8441-7c436a91cc2d" />
-    <attribute id="Type" type="FixedString" value="item" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403208906" />
-    <children>
-        <node id="InventoryList">
-            <children>
-                <node id="InventoryItem">
-                    <attribute id="Object" type="FixedString" value="TUT_Chest_Shar" />
-                </node>
-            </children>
-        </node>
-        <node id="ItemList" />
-        <node id="LayerList">
-            <children>
-                <node id="Layers">
-                    <children>
-                        <node id="Object">
-                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
-                            <children>
-                                <node id="Layer">
-                                    <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
-                                </node>
-                            </children>
-                        </node>
-                    </children>
-                </node>
-            </children>
-        </node>
-        <node id="Transform">
-            <attribute id="Position" type="fvec3" value="5.829934 18.30138 -362.5314" />
-            <attribute id="RotationQuat" type="fvec4" value="0 0.511362 0 0.8593655" />
-            <attribute id="Scale" type="float" value="0.6" />
-        </node>
-    </children>
-</node>
-<node id="GameObjects">
     <attribute id="CanClickThrough" type="bool" value="False" />
     <attribute id="CanClimbOn" type="bool" value="False" />
     <attribute id="CanShootThrough" type="bool" value="True" />
@@ -400,9 +173,9 @@
     <attribute id="Flag" type="int32" value="1" />
     <attribute id="GroupID" type="uint32" value="18481" />
     <attribute id="IsPointerBlocker" type="bool" value="False" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
+    <attribute id="LevelName" type="FixedString" value="" />
     <attribute id="LoopSound" type="FixedString" value="" />
-    <attribute id="MapKey" type="FixedString" value="069af69f-354a-40d7-b53b-fb07d9d72843" />
+    <attribute id="MapKey" type="FixedString" value="75890213-bddd-4a3d-82d7-de862ebe4e27" />
     <attribute id="Name" type="LSString" value="S_TUT_Lab_AcidMaw" />
     <attribute id="SoundAttenuation" type="int16" value="-1" />
     <attribute id="SoundInitEvent" type="FixedString" value="" />
@@ -418,7 +191,7 @@
                 <node id="Layers">
                     <children>
                         <node id="Object">
-                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+                            <attribute id="MapKey" type="FixedString" value="" />
                             <children>
                                 <node id="Layer">
                                     <attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
@@ -440,48 +213,6 @@
                     </children>
                 </node>
             </children>
-        </node>
-        <node id="Transform">
-            <attribute id="Position" type="fvec3" value="-0.124151 18.5801 -409.219" />
-            <attribute id="RotationQuat" type="fvec4" value="0 0.6668969 0 0.74515" />
-            <attribute id="Scale" type="float" value="1.2" />
-        </node>
-    </children>
-</node>
-<node id="GameObjects">
-    <attribute id="Flag" type="int32" value="1" />
-    <attribute id="GroupID" type="uint32" value="18877" />
-    <attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
-    <attribute id="MapKey" type="FixedString" value="0e99ed37-94ed-499b-b889-7b5f034eafa7" />
-    <attribute id="Name" type="LSString" value="PUZ_MF_Nautiloid_Mind_Draining_Device_Button_B_001" />
-    <attribute id="SeeThrough" type="bool" value="True" />
-    <attribute id="TemplateName" type="FixedString" value="eea5d8b6-65cf-49e0-b80f-07d914e1d5f9" />
-    <attribute id="Type" type="FixedString" value="item" />
-    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
-    <children>
-        <node id="LayerList">
-            <children>
-                <node id="Layers">
-                    <children>
-                        <node id="Object">
-                            <attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
-                            <children>
-                                <node id="Layer">
-                                    <attribute id="Object" type="guid" value="50d0102b-20d6-e358-fc29-38d368dcb1d0" />
-                                </node>
-                                <node id="Layer">
-                                    <attribute id="Object" type="guid" value="57b4068d-f5bb-be4b-9094-f5b1ee40d144" />
-                                </node>
-                            </children>
-                        </node>
-                    </children>
-                </node>
-            </children>
-        </node>
-        <node id="Transform">
-            <attribute id="Position" type="fvec3" value="-87.275 18.085 -388.7456" />
-            <attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
-            <attribute id="Scale" type="float" value="1" />
         </node>
     </children>
 </node>
