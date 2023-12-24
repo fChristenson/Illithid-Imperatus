@@ -31,4 +31,4 @@ Unleash the untold power of the Mind Flayer with our immersive mod, "Mind Flayer
 
 **[Download Now][1] 🚀**
 
-[1]: https://www.nexusmods.com/baldursgate3/mods/3956?tab=files&file_id=30351
+[1]: https://www.nexusmods.com/baldursgate3/mods/3956?tab=files
