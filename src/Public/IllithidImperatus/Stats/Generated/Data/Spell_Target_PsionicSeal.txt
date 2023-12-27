@@ -21,7 +21,6 @@ data "DisplayName" "h99009921g107fg466agb0f7g5097b748c6ab;2"
 data "SpellProperties" "RegainHitPoints(6d8+SpellCastingAbilityModifier)"
 data "TooltipDamageList" "RegainHitPoints(6d8+SpellCastingAbilityModifier)"
 data "UseCosts" "ActionPoint:1"
-data "RootSpellID" "Target_CureWounds"
 data "SpellContainerID" "FRE_Target_Tome_Of_The_Creative_Creed_Container"
 
 new entry "FRE_Target_Psionic_Seal_Unstoppable"
