@@ -6,9 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "npx rimraf dist",
-    "copy": "npm run copy:stats && npm run copy:meta && npm run copy:iconmap && npm run copy:assets && npm run copy:gui",
+    "copy": "npm run copy:stats && npm run copy:meta && npm run copy:iconmap && npm run copy:assets && npm run copy:gui && npm run copy:shapeshift",
     "copy:stats": "node scripts/cp.cjs ./src/Public/IllithidImperatus/Stats ./dist/IllithidImperatus/Public/IllithidImperatus/Stats",
     "copy:meta": "node scripts/cp.cjs ./src/Mods/IllithidImperatus/meta.lsx ./dist/IllithidImperatus/Mods/IllithidImperatus/meta.lsx",
+    "copy:shapeshift": "node scripts/cp.cjs ./src/Public/IllithidImperatus/Shapeshift ./dist/IllithidImperatus/Public/IllithidImperatus/Shapeshift",
     "copy:iconmap": "node scripts/cp.cjs ./src/Public/IllithidImperatus/Assets/Textures/Icons ./dist/IllithidImperatus/Public/IllithidImperatus/Assets/Textures/Icons",
     "copy:gui": "node scripts/cp.cjs ./src/Public/IllithidImperatus/GUI ./dist/IllithidImperatus/Public/IllithidImperatus/GUI",
     "copy:assets": "node scripts/cp.cjs ./src/Public/Game/GUI/Assets ./dist/IllithidImperatus/Public/Game/GUI/Assets",
