@@ -13,7 +13,7 @@ data "ApplyEffect" "3af115ba-0e7c-4580-a553-0039a34ff8b1"
 new entry "FRE_ALHOON_FORM"
 using "FRE_ALHOON_POWER_FORM"
 data "TemplateID" "3ffcbb8a-b8ec-41f4-97d0-e3088293b489"
-data "Rules" "e6e0499b-c7b7-4f4a-b286-ecede5225ca1"
+data "Rules" "13a1b374-05ee-4354-a843-0c2ec80f10c7"
 
 new entry "FRE_EMPEROR_ALHOON_FORM"
 type "StatusData"
